@@ -1,0 +1,83 @@
+
+PLAY [reco_release] **************************************************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************************************************
+ok: [10.11.5.111]
+ok: [10.11.5.115]
+ok: [10.11.5.112]
+ok: [10.11.5.114]
+ok: [10.11.5.113]
+ok: [10.11.5.116]
+ok: [10.11.5.118]
+ok: [10.11.5.117]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.121]
+ok: [10.11.5.123]
+ok: [10.11.5.122]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.126]
+ok: [10.11.5.127]
+ok: [10.11.5.128]
+ok: [10.11.5.129]
+ok: [10.11.5.130]
+ok: [10.11.5.131]
+ok: [10.11.5.132]
+ok: [10.11.5.133]
+ok: [10.11.5.134]
+
+TASK [reco_release : pull reco images 123] ***************************************************************************************
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.102618", "end": "2018-10-26 15:13:14.125266", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:10.022648", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.106677", "end": "2018-10-26 15:13:14.188391", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:10.081714", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.130572", "end": "2018-10-26 15:13:14.184302", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:10.053730", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.992918", "end": "2018-10-26 15:13:15.085592", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:10.092674", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:05.167964", "end": "2018-10-26 15:13:15.223451", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:10.055487", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.129079", "end": "2018-10-26 15:13:18.624442", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:14.495363", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.075167", "end": "2018-10-26 15:13:18.697818", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:14.622651", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.183501", "end": "2018-10-26 15:13:18.827096", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:14.643595", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.012749", "end": "2018-10-26 15:13:19.392619", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:15.379870", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:05.188044", "end": "2018-10-26 15:13:20.830636", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:15.642592", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.955494", "end": "2018-10-26 15:13:22.971206", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:19.015712", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.361123", "end": "2018-10-26 15:13:23.616442", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:19.255319", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.033027", "end": "2018-10-26 15:13:23.821128", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:19.788101", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:05.722238", "end": "2018-10-26 15:13:24.886281", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:19.164043", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.793809", "end": "2018-10-26 15:13:24.964918", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:21.171109", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.784011", "end": "2018-10-26 15:13:27.124159", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:23.340148", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.895312", "end": "2018-10-26 15:13:28.027076", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:24.131764", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.972722", "end": "2018-10-26 15:13:28.928730", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:23.956008", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.984560", "end": "2018-10-26 15:13:29.266449", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:25.281889", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.229925", "end": "2018-10-26 15:13:29.358069", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:25.128144", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:04.471981", "end": "2018-10-26 15:13:31.925727", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:27.453746", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.945502", "end": "2018-10-26 15:13:32.257289", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:28.311787", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.744171", "end": "2018-10-26 15:13:32.899338", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:29.155167", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull 123", "delta": "0:00:03.815408", "end": "2018-10-26 15:13:33.349212", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 15:13:29.533804", "stderr": "Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 123, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+	to retry, use: --limit @/home/kddev/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP ***********************************************************************************************************************
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+
+<b> Failed to deploy [123] </b>

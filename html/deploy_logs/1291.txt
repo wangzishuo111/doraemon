@@ -1,0 +1,17 @@
+
+PLAY [kd-regionsearch] ******************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************************************************************************************************************************
+ok: [10.11.5.80]
+ok: [10.11.5.81]
+
+TASK [all : Stop "kd-regionsearch" service] *********************************************************************************************************************************************************************
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh stop", "delta": "0:00:00.021368", "end": "2019-01-30 20:33:55.073442", "msg": "non-zero return code", "rc": 127, "start": "2019-01-30 20:33:55.052074", "stderr": "bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh stop", "delta": "0:00:00.045378", "end": "2019-01-30 20:33:55.182839", "msg": "non-zero return code", "rc": 127, "start": "2019-01-30 20:33:55.137461", "stderr": "bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ******************************************************************************************************************************************************************************************************
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1291]

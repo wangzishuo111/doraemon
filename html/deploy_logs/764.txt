@@ -1,0 +1,20 @@
+
+PLAY [kss] *********************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.80]
+
+TASK [Java_service : Stop "kss" service] ***************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.80]
+
+TASK [Java_service : Copy "kss" Package To Target-Hosts] ***********************************************************************************************************************************************************************************
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.80]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kss_release/v0.6.2.RELEASE/kss.jar' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.80                 : ok=2    changed=1    unreachable=0    failed=1   
+
+[Finish] Failed to start  [764]

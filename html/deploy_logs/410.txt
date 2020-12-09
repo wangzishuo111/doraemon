@@ -1,0 +1,3 @@
+krms
+2018-11-21 19:25:10,681 INFO 33252[no_cat_release.py:27 checkfile]: you enter a wrong path
+[Finish] Failed to deploy [410]

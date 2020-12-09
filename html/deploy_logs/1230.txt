@@ -1,0 +1,32 @@
+
+PLAY [kds-data] *****************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ok: [10.11.5.74]
+ok: [10.11.5.86]
+ok: [10.11.5.36]
+ok: [10.11.5.38]
+ok: [10.11.5.79]
+ok: [10.11.5.76]
+ok: [10.11.5.81]
+
+TASK [all : Start "kds-data" service] *******************************************************************************************************************************************************************
+fatal: [10.11.5.36]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.103933", "end": "2019-01-25 10:32:37.214110", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.110177", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=22142 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=22142 alreay started."]}
+fatal: [10.11.5.38]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.116486", "end": "2019-01-25 10:32:37.206210", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.089724", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=25317 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=25317 alreay started."]}
+fatal: [10.11.5.74]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.107795", "end": "2019-01-25 10:32:37.224289", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.116494", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=5297 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=5297 alreay started."]}
+fatal: [10.11.5.76]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.111931", "end": "2019-01-25 10:32:37.288057", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.176126", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=11077 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=11077 alreay started."]}
+fatal: [10.11.5.79]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.114605", "end": "2019-01-25 10:32:37.314068", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.199463", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=13477 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=13477 alreay started."]}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.110659", "end": "2019-01-25 10:32:37.387469", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.276810", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=8751 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=8751 alreay started."]}
+fatal: [10.11.5.86]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.103572", "end": "2019-01-25 10:32:37.406847", "msg": "non-zero return code", "rc": 1, "start": "2019-01-25 10:32:37.303275", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=27990 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=27990 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.36                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.38                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.74                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.76                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.79                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.86                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1230]

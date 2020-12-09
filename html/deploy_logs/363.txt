@@ -1,0 +1,16 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+kts
+right way : /mnt/data1/release-data/kts_release/v2.6.3.RELEASE//mnt/data1/release-data/kts_release/v2.6.3.RELEASE/kts.jar
+now opreate the host :10.11.5.77
+[] []
+[] [u'/data/CI/kts_30_13300\n', u'kts.jar\n', u'/data/CI/kts_30_13300/lib/kts.jar (13300) shutdown.\n']
+sudo /data/CI/kts_30_13300/kts.sh stop
+[] []
+now distribution to the host :10.11.5.77
+file has arrive :/data/CI/kts_30_13300/lib
+now start the host :10.11.5.77
+[] [u'/data/CI/kts_30_13300\n', u'kts.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kts_30_13300/kts.sh already started
+[Finish] Success to deploy [363]

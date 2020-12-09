@@ -1,0 +1,124 @@
+
+PLAY [reco_release] **********************************************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *******************************************************************************************************************************************************************************************************************************************************
+ok: [10.11.5.103]
+ok: [10.11.5.105]
+ok: [10.11.5.102]
+ok: [10.11.5.104]
+ok: [10.11.5.101]
+ok: [10.11.5.106]
+ok: [10.11.5.107]
+ok: [10.11.5.108]
+ok: [10.11.5.110]
+ok: [10.11.5.109]
+ok: [10.11.5.111]
+ok: [10.11.5.113]
+ok: [10.11.5.115]
+ok: [10.11.5.112]
+ok: [10.11.5.116]
+ok: [10.11.5.117]
+ok: [10.11.5.118]
+ok: [10.11.5.119]
+ok: [10.11.5.114]
+ok: [10.11.5.121]
+ok: [10.11.5.120]
+ok: [10.11.5.123]
+ok: [10.11.5.122]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.126]
+ok: [10.11.5.127]
+ok: [10.11.5.128]
+ok: [10.11.5.129]
+ok: [10.11.5.132]
+ok: [10.11.5.131]
+ok: [10.11.5.133]
+ok: [10.11.5.130]
+ok: [10.11.5.134]
+ok: [10.11.5.20]
+ok: [10.11.5.19]
+ok: [10.11.5.21]
+ok: [10.11.5.22]
+
+TASK [reco_release : pull reco images op-01.gzproduction.com/kd-mr/lane:4.0.0] ***********************************************************************************************************************************************************************************************
+changed: [10.11.5.102]
+changed: [10.11.5.101]
+changed: [10.11.5.104]
+changed: [10.11.5.105]
+changed: [10.11.5.103]
+changed: [10.11.5.106]
+changed: [10.11.5.107]
+changed: [10.11.5.109]
+changed: [10.11.5.108]
+changed: [10.11.5.110]
+changed: [10.11.5.112]
+changed: [10.11.5.114]
+changed: [10.11.5.113]
+changed: [10.11.5.111]
+changed: [10.11.5.115]
+changed: [10.11.5.116]
+changed: [10.11.5.117]
+changed: [10.11.5.118]
+changed: [10.11.5.119]
+changed: [10.11.5.121]
+changed: [10.11.5.122]
+changed: [10.11.5.123]
+changed: [10.11.5.120]
+changed: [10.11.5.124]
+changed: [10.11.5.126]
+changed: [10.11.5.125]
+changed: [10.11.5.127]
+changed: [10.11.5.128]
+changed: [10.11.5.129]
+changed: [10.11.5.130]
+changed: [10.11.5.131]
+changed: [10.11.5.132]
+changed: [10.11.5.133]
+changed: [10.11.5.134]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+
+PLAY RECAP *******************************************************************************************************************************************************************************************************************************************************************
+10.11.5.101                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.102                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.103                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.104                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.105                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.106                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.107                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.108                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.109                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.110                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.111                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.112                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.113                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.114                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.115                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.116                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.117                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.118                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.119                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.120                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.121                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.122                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.123                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.124                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.125                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.126                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.127                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.128                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.129                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.130                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.131                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.132                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.133                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.134                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.19                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.20                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.21                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.22                 : ok=2    changed=1    unreachable=0    failed=0   
+
+[Finish] Success to deploy [op-01.gzproduction.com/kd-mr/lane:4.0.0]

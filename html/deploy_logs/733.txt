@@ -1,0 +1,305 @@
+
+PLAY [autohdmap_multilane_0] ***************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.62]
+ok: [10.11.5.64]
+ok: [10.11.5.63]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.61]
+ok: [10.11.5.54]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.18]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.21]
+ok: [10.11.5.19]
+ok: [10.11.5.20]
+ok: [10.11.5.22]
+ok: [10.11.5.17]
+ok: [10.11.5.16]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.40]
+ok: [10.11.5.15]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.38]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.33]
+ok: [10.11.5.74]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.71]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.32]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.36]
+ok: [10.11.5.76]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.79]
+ok: [10.11.5.73]
+ok: [10.11.5.34]
+ok: [10.11.5.81]
+ok: [10.11.5.35]
+ok: [10.11.5.75]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.78]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.41]
+ok: [10.11.5.39]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.43]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.44]
+ok: [10.11.5.42]
+
+TASK [autohdmap_multilane_0 : start autohdmap_multilane service] ***************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.16]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.17]
+changed: [10.11.5.15]
+changed: [10.11.5.18]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.81]
+changed: [10.11.5.19]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.20]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.32]
+changed: [10.11.5.33]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.34]
+changed: [10.11.5.36]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.35]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.38]
+changed: [10.11.5.40]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.39]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.41]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.42]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.43]
+changed: [10.11.5.44]
+changed: [10.11.5.54]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.61]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.62]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.63]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.64]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.74]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.75]
+changed: [10.11.5.71]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.79]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.76]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.78]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.73]
+
+PLAY [autohdmap_multilane_1] ***************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.17]
+ok: [10.11.5.16]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.18]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.19]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.62]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.15]
+ok: [10.11.5.63]
+ok: [10.11.5.22]
+ok: [10.11.5.20]
+ok: [10.11.5.64]
+ok: [10.11.5.21]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.81]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.33]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.32]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.61]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.54]
+ok: [10.11.5.34]
+ok: [10.11.5.36]
+ok: [10.11.5.35]
+ok: [10.11.5.38]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.41]
+ok: [10.11.5.39]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.40]
+ok: [10.11.5.42]
+ok: [10.11.5.43]
+ok: [10.11.5.44]
+ok: [10.11.5.71]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.74]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.79]
+ok: [10.11.5.73]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.75]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.76]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.78]
+
+TASK [autohdmap_multilane_1 : start autohdmap_multilane service] ***************************************************************************************************************************************************************************
+changed: [10.11.5.15]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.81]
+changed: [10.11.5.17]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.16]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.18]
+changed: [10.11.5.21]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.19]
+changed: [10.11.5.22]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.20]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.33]
+changed: [10.11.5.36]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.32]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.34]
+changed: [10.11.5.40]
+changed: [10.11.5.35]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.38]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.39]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.43]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.41]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.44]
+changed: [10.11.5.61]
+changed: [10.11.5.42]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.54]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.64]
+changed: [10.11.5.62]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.63]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.74]
+changed: [10.11.5.71]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.73]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.76]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.78]
+changed: [10.11.5.75]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.79]
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.15                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.16                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.17                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.18                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.19                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.20                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.21                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.22                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.32                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.33                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.34                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.35                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.36                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.38                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.39                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.40                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.41                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.42                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.43                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.44                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.54                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.61                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.62                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.63                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.64                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.71                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.73                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.74                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.75                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.76                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.78                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.79                 : ok=4    changed=2    unreachable=0    failed=0   
+10.11.5.81                 : ok=4    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to start all [733]

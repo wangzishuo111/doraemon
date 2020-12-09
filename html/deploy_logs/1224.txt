@@ -1,0 +1,14 @@
+
+PLAY [kds-data-openEdit] ********************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ok: [10.11.5.73]
+
+TASK [all : Start "kds-data-openEdit" service] **********************************************************************************************************************************************************
+fatal: [10.11.5.73]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data-openEdit_mesh/kds-data-openEdit.sh start", "delta": "0:00:00.171147", "end": "2019-01-24 19:46:35.979506", "msg": "non-zero return code", "rc": 1, "start": "2019-01-24 19:46:35.808359", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data-openEdit_mesh\nkds-data-openEdit.jar\nkds-data-openEdit.jar pid=4595 alreay started.", "stdout_lines": ["/data/CI/kds-data-openEdit_mesh", "kds-data-openEdit.jar", "kds-data-openEdit.jar pid=4595 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.73                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1224]

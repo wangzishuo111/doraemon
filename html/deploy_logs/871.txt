@@ -1,0 +1,85 @@
+
+PLAY [kds-data] *************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************************************************************************************************************************
+ok: [10.11.5.77]
+ok: [10.11.5.37]
+ok: [10.11.5.38]
+ok: [10.11.5.74]
+ok: [10.11.5.75]
+ok: [10.11.5.76]
+ok: [10.11.5.73]
+ok: [10.11.5.35]
+ok: [10.11.5.36]
+ok: [10.11.5.78]
+ok: [10.11.5.79]
+ok: [10.11.5.81]
+ok: [10.11.5.85]
+ok: [10.11.5.86]
+
+TASK [kds-data : Copy "kds-data" Package To Target-Hosts] *******************************************************************************************************************************************************
+changed: [10.11.5.77]
+changed: [10.11.5.75]
+changed: [10.11.5.35]
+changed: [10.11.5.36]
+changed: [10.11.5.74]
+changed: [10.11.5.78]
+changed: [10.11.5.73]
+changed: [10.11.5.76]
+changed: [10.11.5.37]
+changed: [10.11.5.38]
+changed: [10.11.5.81]
+changed: [10.11.5.79]
+changed: [10.11.5.86]
+changed: [10.11.5.85]
+
+TASK [kds-data : chown OWNER] ***********************************************************************************************************************************************************************************
+changed: [10.11.5.73]
+changed: [10.11.5.36]
+changed: [10.11.5.38]
+changed: [10.11.5.37]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.77]
+changed: [10.11.5.78]
+changed: [10.11.5.35]
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+
+TASK [kds-data : Start "kds-data" service] **********************************************************************************************************************************************************************
+fatal: [10.11.5.36]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.023728", "end": "2018-12-20 18:43:22.302924", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.279196", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.35]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.041108", "end": "2018-12-20 18:43:22.350844", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.309736", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.38]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.043088", "end": "2018-12-20 18:43:22.343980", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.300892", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.37]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.044132", "end": "2018-12-20 18:43:22.339556", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.295424", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: 行 54: 语法错误: 未预期的文件结尾", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: 行 54: 语法错误: 未预期的文件结尾"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.74]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.041965", "end": "2018-12-20 18:43:22.442509", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.400544", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.73]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.042489", "end": "2018-12-20 18:43:22.367296", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.324807", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.016000", "end": "2018-12-20 18:43:22.492129", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.476129", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.78]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.039581", "end": "2018-12-20 18:43:22.552394", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.512813", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.79]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.027484", "end": "2018-12-20 18:43:22.597912", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.570428", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.75]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.039229", "end": "2018-12-20 18:43:22.659256", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.620027", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.76]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.042206", "end": "2018-12-20 18:43:22.727386", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.685180", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.042091", "end": "2018-12-20 18:43:22.703137", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.661046", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.85]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.041098", "end": "2018-12-20 18:43:22.760478", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.719380", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+fatal: [10.11.5.86]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.040779", "end": "2018-12-20 18:43:22.985219", "msg": "non-zero return code", "rc": 2, "start": "2018-12-20 18:43:22.944440", "stderr": "/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file", "stderr_lines": ["/data/CI/kds-data_mesh/kds-data.sh: line 54: syntax error: unexpected end of file"], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar"]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ******************************************************************************************************************************************************************************************************
+10.11.5.35                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.36                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.37                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.38                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.73                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.74                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.75                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.76                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.77                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.78                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.79                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.81                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.85                 : ok=3    changed=2    unreachable=0    failed=1   
+10.11.5.86                 : ok=3    changed=2    unreachable=0    failed=1   
+
+[Finish] Failed to start  [871]

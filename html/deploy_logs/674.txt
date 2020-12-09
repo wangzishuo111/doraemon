@@ -1,0 +1,243 @@
+2018-11-28 20:46:15,310 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:46:15,310 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.75
+2018-11-28 20:46:15,322 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:15,412 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:15,462 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:15,886 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-28 20:46:15,886 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:46:15,887 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-28 20:46:15,887 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:46:25,892 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.75:
+2018-11-28 20:46:25,904 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:25,955 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:25,999 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:26,397 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-28 20:46:26,397 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:46:26,398 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-28 20:46:26,398 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:46:26,398 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:46:26,398 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.75
+2018-11-28 20:46:26,410 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:26,464 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:26,506 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:26,887 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+2018-11-28 20:46:26,887 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:46:26,887 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-28 20:46:26,888 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:46:36,897 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.75:
+2018-11-28 20:46:36,906 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:36,989 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:37,012 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:37,234 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh start
+2018-11-28 20:46:37,234 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:46:37,235 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-28 20:46:37,235 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:46:37,235 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:46:37,235 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.75
+2018-11-28 20:46:37,244 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:37,330 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:37,349 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:37,612 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+2018-11-28 20:46:37,613 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:46:37,613 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-28 20:46:37,613 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:46:47,624 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.75:
+2018-11-28 20:46:47,632 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:47,717 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:47,738 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:47,961 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh start
+2018-11-28 20:46:47,962 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:46:47,962 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-28 20:46:47,962 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:46:47,962 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:46:47,963 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.73
+2018-11-28 20:46:47,975 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:48,064 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:48,085 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:48,501 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-28 20:46:48,501 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:46:48,502 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-28 20:46:48,502 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:46:58,512 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.73:
+2018-11-28 20:46:58,523 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:58,614 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:58,638 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:59,026 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-28 20:46:59,026 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:46:59,027 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-28 20:46:59,027 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:46:59,027 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:46:59,027 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.73
+2018-11-28 20:46:59,036 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:46:59,088 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:46:59,128 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:46:59,505 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_73_23260/kds-data.sh stop
+2018-11-28 20:46:59,505 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:46:59,506 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-28 20:46:59,506 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:47:09,516 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.73:
+2018-11-28 20:47:09,524 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:09,611 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:09,630 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:09,892 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_73_23260/kds-data.sh start
+2018-11-28 20:47:09,892 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:47:09,892 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n']
+2018-11-28 20:47:09,893 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:47:09,893 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:47:09,893 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.73
+2018-11-28 20:47:09,902 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:09,987 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:10,007 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:10,266 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_73_23270/kds-data.sh stop
+2018-11-28 20:47:10,267 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:47:10,267 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-28 20:47:10,268 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:47:20,278 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.73:
+2018-11-28 20:47:20,287 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:20,375 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:20,394 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:20,654 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_73_23270/kds-data.sh start
+2018-11-28 20:47:20,655 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:47:20,655 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n']
+2018-11-28 20:47:20,655 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:47:20,656 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:47:20,656 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.74
+2018-11-28 20:47:20,668 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:20,723 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:20,764 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:21,160 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-28 20:47:21,160 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:47:21,161 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-28 20:47:21,161 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:47:31,169 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.74:
+2018-11-28 20:47:31,181 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:31,236 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:31,275 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:31,663 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-28 20:47:31,663 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:47:31,663 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-28 20:47:31,664 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:47:31,664 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:47:31,664 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.74
+2018-11-28 20:47:31,676 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:31,763 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:31,789 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:32,122 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_74_23260/kds-data.sh stop
+2018-11-28 20:47:32,122 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:47:32,122 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-28 20:47:32,123 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:47:42,133 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.74:
+2018-11-28 20:47:42,143 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:42,229 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:42,248 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:42,512 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_74_23260/kds-data.sh start
+2018-11-28 20:47:42,513 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:47:42,513 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n']
+2018-11-28 20:47:42,513 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:47:42,513 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:47:42,514 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.74
+2018-11-28 20:47:42,523 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:42,573 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:42,604 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:42,895 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_74_23270/kds-data.sh stop
+2018-11-28 20:47:42,895 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:47:42,896 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-28 20:47:42,896 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:47:52,907 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.74:
+2018-11-28 20:47:52,915 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:53,001 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:53,025 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:53,279 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_74_23270/kds-data.sh start
+2018-11-28 20:47:53,279 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:47:53,280 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n']
+2018-11-28 20:47:53,280 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:47:53,280 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:47:53,280 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.76
+2018-11-28 20:47:53,292 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:47:53,346 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:47:53,387 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:47:53,811 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-28 20:47:53,812 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:47:53,812 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-28 20:47:53,812 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:48:03,822 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.76:
+2018-11-28 20:48:03,835 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:03,886 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:03,930 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:04,337 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-28 20:48:04,337 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:48:04,338 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-28 20:48:04,338 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:48:04,338 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:48:04,338 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.76
+2018-11-28 20:48:04,350 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:04,401 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:04,446 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:04,803 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_76_23260/kds-data.sh stop
+2018-11-28 20:48:04,803 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:48:04,804 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-28 20:48:04,804 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:48:14,807 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.76:
+2018-11-28 20:48:14,817 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:14,904 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:14,923 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:15,146 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_76_23260/kds-data.sh start
+2018-11-28 20:48:15,147 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:48:15,147 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n']
+2018-11-28 20:48:15,147 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:48:15,148 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:48:15,148 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.76
+2018-11-28 20:48:15,157 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:15,244 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:15,262 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:15,503 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_76_23270/kds-data.sh stop
+2018-11-28 20:48:15,504 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:48:15,504 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-28 20:48:15,505 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:48:25,508 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.76:
+2018-11-28 20:48:25,522 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:25,609 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:25,628 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:25,884 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_76_23270/kds-data.sh start
+2018-11-28 20:48:25,884 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:48:25,884 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n']
+2018-11-28 20:48:25,885 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:48:25,885 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:48:25,885 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.78
+2018-11-28 20:48:25,898 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:25,948 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:25,994 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:26,366 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+2018-11-28 20:48:26,367 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:48:26,367 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-28 20:48:26,368 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:48:36,373 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.78:
+2018-11-28 20:48:36,386 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:36,444 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:36,479 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:36,858 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh start
+2018-11-28 20:48:36,858 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:48:36,858 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-28 20:48:36,859 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+2018-11-28 20:48:36,859 INFO 175193[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-28 20:48:36,859 INFO 175193[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.78
+2018-11-28 20:48:36,870 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:36,925 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:36,968 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:37,262 INFO 175193[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+2018-11-28 20:48:37,262 INFO 175193[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-28 20:48:37,263 INFO 175193[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-28 20:48:37,263 INFO 175193[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+2018-11-28 20:48:47,269 INFO 175193[guizhou_restart.py:32 start_cmd]: now start the host 10.11.5.78:
+2018-11-28 20:48:47,279 INFO 175193[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 20:48:47,367 INFO 175193[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 20:48:47,384 INFO 175193[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 20:48:47,631 INFO 175193[guizhou_restart.py:38 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh start
+2018-11-28 20:48:47,632 INFO 175193[guizhou_restart.py:39 start_cmd]: error list start is :[]
+2018-11-28 20:48:47,632 INFO 175193[guizhou_restart.py:40 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-28 20:48:47,633 INFO 175193[guizhou_restart.py:41 start_cmd]: process is starting,wait a momunt
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_restart.py", line 45, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [674]

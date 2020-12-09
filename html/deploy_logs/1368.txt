@@ -1,0 +1,13 @@
+
+PLAY [kts] *********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.77]
+
+TASK [all : Start "kts" service] ***********************************************
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kts_mesh/kts.sh start", "delta": "0:00:00.147102", "end": "2019-03-08 09:57:40.501816", "msg": "non-zero return code", "rc": 1, "start": "2019-03-08 09:57:40.354714", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kts_mesh\nkts.jar\nkts.jar pid=19195 alreay started.", "stdout_lines": ["/data/CI/kts_mesh", "kts.jar", "kts.jar pid=19195 alreay started."]}
+
+PLAY RECAP *********************************************************************
+10.11.5.77                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1368]

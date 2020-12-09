@@ -1,0 +1,9 @@
+2018-11-23 13:30:06,605 INFO 93196[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 13:30:06,606 INFO 93196[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.80
+2018-11-23 13:30:06,617 INFO 93196[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 13:30:06,714 INFO 93196[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-23 13:30:07,018 INFO 93196[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kpms_30_13410/kpms.sh start
+2018-11-23 13:30:07,019 INFO 93196[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-23 13:30:07,019 INFO 93196[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kpms_30_13410\n', u'kpms.war\n', u'kpms.war port: 13410 is exist. \n', u'kpms.war start failed!\n']
+2018-11-23 13:30:07,019 INFO 93196[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+[Finish] Success to deploy [434]

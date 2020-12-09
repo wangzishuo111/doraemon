@@ -1,0 +1,16 @@
+
+PLAY [autohdmap_multilane] *********************************************************************************
+
+TASK [Gathering Facts] *************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [10.11.5.137]
+
+TASK [autohdmap_multilane : Run container for autohdmap_multilane op-01.gzproduction.com/autohdmap/autohdmap_multilane:v4.6.8] ***
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+fatal: [10.11.5.137]: FAILED! => {"changed": false, "msg": "Error pulling image op-01.gzproduction.com/autohdmap/autohdmap_multilane:v4.6.8 - 404 Client Error: Not Found (\"manifest for op-01.gzproduction.com/autohdmap/autohdmap_multilane:v4.6.8 not found\")"}
+	to retry, use: --limit @/home/op/autohdmap_deploy_v2/autohdmap_multilane.retry
+
+PLAY RECAP *************************************************************************************************
+10.11.5.137                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/autohdmap/autohdmap_multilane:v4.6.8]

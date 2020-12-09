@@ -1,0 +1,117 @@
+2018-11-26 19:11:03,323 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:03,323 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-26 19:11:03,334 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:03,425 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:03,446 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:03,895 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:03,896 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-26 19:11:03,896 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-26 19:11:13,906 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:13,906 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-26 19:11:13,918 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:13,973 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:14,015 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:14,457 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:14,457 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-26 19:11:14,457 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+2018-11-26 19:11:24,468 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:24,468 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-26 19:11:24,480 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:24,532 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:24,574 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:24,952 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:24,952 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-26 19:11:24,953 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+2018-11-26 19:11:34,963 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:34,963 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:11:35,021 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:35,084 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:35,120 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:35,693 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:35,694 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-26 19:11:35,694 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-26 19:11:45,705 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:45,705 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:11:45,724 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:45,779 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:45,829 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:46,614 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:46,614 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-26 19:11:46,615 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_73_23260/kds-data.sh stop
+2018-11-26 19:11:56,625 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:11:56,625 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:11:56,638 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:11:56,691 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:11:56,734 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:11:57,125 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:11:57,126 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-26 19:11:57,126 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_73_23270/kds-data.sh stop
+2018-11-26 19:12:07,136 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:07,137 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:12:07,147 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:07,234 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:07,252 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:12:07,540 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:12:07,541 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-26 19:12:07,541 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-26 19:12:17,551 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:17,552 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:12:17,560 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:17,646 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:17,667 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:12:18,027 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:12:18,028 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-26 19:12:18,028 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_74_23260/kds-data.sh stop
+2018-11-26 19:12:28,037 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:28,038 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:12:28,049 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:28,097 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:28,136 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:12:28,472 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:12:28,472 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-26 19:12:28,472 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_74_23270/kds-data.sh stop
+2018-11-26 19:12:38,482 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:38,483 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-26 19:12:38,495 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:38,548 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:38,592 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:12:38,988 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:12:38,989 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-26 19:12:38,989 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+2018-11-26 19:12:48,999 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:48,999 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-26 19:12:49,012 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:49,064 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:49,108 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:12:49,530 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:12:49,530 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-26 19:12:49,531 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_76_23260/kds-data.sh stop
+2018-11-26 19:12:59,533 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:12:59,534 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-26 19:12:59,546 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:12:59,600 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:12:59,642 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:13:00,017 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:13:00,017 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-26 19:13:00,017 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_76_23270/kds-data.sh stop
+2018-11-26 19:13:10,028 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:13:10,028 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.78:
+2018-11-26 19:13:10,040 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:13:10,127 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:13:10,153 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:13:10,531 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:13:10,531 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-26 19:13:10,532 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+2018-11-26 19:13:20,542 INFO 82876[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:13:20,542 INFO 82876[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.78:
+2018-11-26 19:13:20,554 INFO 82876[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:13:20,644 INFO 82876[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:13:20,667 INFO 82876[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:13:21,020 INFO 82876[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:13:21,020 INFO 82876[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-26 19:13:21,020 INFO 82876[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_stop.py", line 32, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [558]

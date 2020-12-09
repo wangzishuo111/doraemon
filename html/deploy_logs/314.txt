@@ -1,0 +1,5 @@
+  File "/home/op/mesh_deploy_5.80/clear_lane.py", line 28
+    if 0 == len(err_list) and 0 == len(stdout_list) 
+                                                   ^
+SyntaxError: invalid syntax
+[Finish] Failed to deploy [314]

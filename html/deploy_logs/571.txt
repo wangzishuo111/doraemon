@@ -1,0 +1,23 @@
+2018-11-26 19:22:21,260 INFO 107960[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:21,260 INFO 107960[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:22:21,273 INFO 107960[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:21,359 INFO 107960[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:21,382 INFO 107960[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:21,701 INFO 107960[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh start
+2018-11-26 19:22:21,701 INFO 107960[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:21,702 INFO 107960[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n']
+2018-11-26 19:22:21,702 INFO 107960[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:21,702 INFO 107960[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:21,702 INFO 107960[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.74
+2018-11-26 19:22:21,714 INFO 107960[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:21,767 INFO 107960[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:21,812 INFO 107960[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:22,144 INFO 107960[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh start
+2018-11-26 19:22:22,145 INFO 107960[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:22,145 INFO 107960[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n']
+2018-11-26 19:22:22,145 INFO 107960[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_start.py", line 32, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [571]

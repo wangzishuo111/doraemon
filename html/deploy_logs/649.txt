@@ -1,0 +1,15 @@
+kts-web
+yor path is : /mnt/data1/release-data/kts-web_release/v1.4.5.5/ 
+rm the web_bak
+error_list is :  [u'/usr/local/bin/rm: 10: [: -rf: unexpected operator\n', u'/usr/local/bin/rm: 47: /usr/local/bin/rm: Bad substitution\n']
+stdout_list is :  []
+mv the web to web_bak
+error_list is :  []
+stdout_list is :  []
+uzip the web to web.tar
+error_list is :  []
+stdout_list is :  []
+now is check config
+error_list is :  []
+stdout_list is :  []
+[Finish] Success to deploy [649]

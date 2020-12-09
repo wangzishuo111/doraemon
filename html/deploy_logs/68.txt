@@ -1,0 +1,2 @@
+ERROR! the playbook: /home/kddev/cheng/autohdmap_deploy/hbase-store-release.yml could not be found
+[Finish] Failed to deploy [68]

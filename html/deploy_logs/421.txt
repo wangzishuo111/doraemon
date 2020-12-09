@@ -1,0 +1,16 @@
+now oprate the host : mongo-03the instance is autohdmap_lane_0
+docker exec autohdmap_lane_0 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : mongo-03the instance is autohdmap_lane_1
+docker exec autohdmap_lane_1 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : mongo-03the instance is autohdmap_lane_2
+docker exec autohdmap_lane_2 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : mongo-03the instance is autohdmap_lane_3
+docker exec autohdmap_lane_3 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : mongo-03the instance is autohdmap_lane_4
+docker exec autohdmap_lane_4 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+[Finish] Success to deploy [421]

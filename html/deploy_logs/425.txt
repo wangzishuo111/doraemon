@@ -1,0 +1,2 @@
+2018-11-23 12:13:56,037 INFO 167683[check_automap_ver_v2.py:83 main]: mismatch list []
+[Finish] Success to check [221221212]

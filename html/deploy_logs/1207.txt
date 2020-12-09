@@ -1,0 +1,33 @@
+
+PLAY [kds-data-commitEdit] ******************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ok: [10.11.5.75]
+ok: [10.11.5.74]
+ok: [10.11.5.73]
+ok: [10.11.5.76]
+
+TASK [all : Stop "kds-data-commitEdit" service] *********************************************************************************************************************************************************
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.73]
+changed: [10.11.5.76]
+
+TASK [all : Copy "kds-data-commitEdit" Package To Target-Hosts] *****************************************************************************************************************************************
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.73]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kds-data-commitEdit_release/v.RELEASE/kds-data-commitEdit.jar' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.74]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kds-data-commitEdit_release/v.RELEASE/kds-data-commitEdit.jar' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.75]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kds-data-commitEdit_release/v.RELEASE/kds-data-commitEdit.jar' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.76]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kds-data-commitEdit_release/v.RELEASE/kds-data-commitEdit.jar' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.73                 : ok=2    changed=1    unreachable=0    failed=1   
+10.11.5.74                 : ok=2    changed=1    unreachable=0    failed=1   
+10.11.5.75                 : ok=2    changed=1    unreachable=0    failed=1   
+10.11.5.76                 : ok=2    changed=1    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1207]

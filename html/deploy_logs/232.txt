@@ -1,0 +1,24 @@
+task 1229347 checking...
+scan meta...
+scan table...
+Traceback (most recent call last):
+  File "/home/op/cheng/hbase-store/scan_table.py", line 80, in <module>
+    main(task_id);
+  File "/home/op/cheng/hbase-store/scan_table.py", line 67, in main
+    for row_data in table.scan(row_start = start_row, row_stop = stop_row, batch_size = 1):
+  File "/usr/local/lib/python2.7/dist-packages/happybase/table.py", line 415, in scan
+    scan_id, how_many)
+  File "/usr/local/lib/python2.7/dist-packages/thriftpy/thrift.py", line 198, in _req
+    return self._recv(_api)
+  File "/usr/local/lib/python2.7/dist-packages/thriftpy/thrift.py", line 210, in _recv
+    fname, mtype, rseqid = self._iprot.read_message_begin()
+  File "thriftpy/protocol/cybin/cybin.pyx", line 429, in cybin.TCyBinaryProtocol.read_message_begin (thriftpy/protocol/cybin/cybin.c:6325)
+  File "thriftpy/protocol/cybin/cybin.pyx", line 60, in cybin.read_i32 (thriftpy/protocol/cybin/cybin.c:1546)
+  File "thriftpy/transport/buffered/cybuffered.pyx", line 65, in thriftpy.transport.buffered.cybuffered.TCyBufferedTransport.c_read (thriftpy/transport/buffered/cybuffered.c:1881)
+  File "thriftpy/transport/buffered/cybuffered.pyx", line 69, in thriftpy.transport.buffered.cybuffered.TCyBufferedTransport.read_trans (thriftpy/transport/buffered/cybuffered.c:1948)
+  File "thriftpy/transport/cybase.pyx", line 61, in thriftpy.transport.cybase.TCyBuffer.read_trans (thriftpy/transport/cybase.c:1472)
+  File "/usr/local/lib/python2.7/dist-packages/thriftpy/transport/socket.py", line 108, in read
+    buff = self.sock.recv(sz)
+KeyboardInterrupt
+129648 129648 10854 10854
+[Finish] Failed to check [1229347]

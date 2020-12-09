@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- bootstrap-css -->
+<link rel="stylesheet" href="css/bootstrap.css">
+<!-- //bootstrap-css -->
+<!-- Custom CSS -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- font CSS -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<!-- font-awesome icons -->
+<link rel="stylesheet" href="css/font.css" type="text/css"/>
+<link href="css/font-awesome.css" rel="stylesheet">
+<!-- //font-awesome icons -->
+<script>
+        (function () {
+          var js;
+          if (typeof JSON !== 'undefined' && 'querySelector' in document && 'addEventListener' in window) {
+            js = 'js/jquery.min.js';
+          } else {
+            js = 'js/jquery.min.js';
+          }
+          document.write('<script src="' + js + '"><\/script>');
+        }());
+ </script>
+<script src="js/modernizr.js"></script>
+<script src="js/jquery.cookie.js"></script>
+<script src="js/screenfull.js"></script>
+		<script>
+		$(function () {
+			$('#supported').text('Supported/allowed: ' + !!screenfull.enabled);
+
+			if (!screenfull.enabled) {
+				return false;
+			}
+
+			$('#toggle').click(function () {
+				screenfull.toggle($('#container')[0]);
+			});
+		});
+		</script>
+<script src="js/raphael-min.js"></script>
+<script src="js/morris.js"></script>
+<link rel="stylesheet" href="css/morris.css">
+<script src="js/skycons.js"></script>
+</head>
+<body class="dashboard-page">
+	<script>
+	        var theme = $.cookie('protonTheme') || 'default';
+	        $('body').removeClass (function (index, css) {
+	            return (css.match (/\btheme-\S+/g) || []).join(' ');
+	        });
+	        if (theme !== 'default') $('body').addClass(theme);
+        </script>
+
+	<div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网页模板</a></div>
+	<section class="wrapper scrollable">
+		<nav class="user-menu">
+			<a href="javascript:;" class="main-menu-access">
+			<i class="icon-proton-logo"></i>
+			<i class="icon-reorder"></i>
+			</a>
+		</nav>
+
+
+			<div class="agile-signup">
+			<div class="content2">
+				<div class="grids-heading gallery-heading signup-heading">
+					<h2>贵州组网平台hbase-store图片查询</h2>
+				</div>
+				<form action="/api/imagequery/deploy/start" method="get">
+					<input type="text" name="trackId" value="trackId" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+					<input type="text" name="trackPointId" value="trackPointId" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+					<input type="text" name="type1" value="type:00" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+					<input type="text" name="seq" value="seq:004" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+					<input type="text" name="imageType" value="imageType:jpg" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
+					<input type="submit" class="register" value="search">
+				</form>
+			</div>
+		</div>
+
+		<div class="one" id="one" style="float:left;width="300px;background:red; color:red">
+		</div>
+
+	</section>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/proton.js"></script>
+</body>
+</html>

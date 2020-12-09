@@ -1,0 +1,14 @@
+
+PLAY [kts-job] *******************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************
+ok: [10.11.5.77]
+
+TASK [all : Stop "kts-job" service] **********************************************************
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kts-job_mesh/kts-job.sh stop", "delta": "0:00:00.010545", "end": "2018-12-28 17:42:10.835440", "msg": "non-zero return code", "rc": 127, "start": "2018-12-28 17:42:10.824895", "stderr": "bash: /data/CI/kts-job_mesh/kts-job.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kts-job_mesh/kts-job.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.77                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [976]

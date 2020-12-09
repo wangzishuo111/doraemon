@@ -1,0 +1,2 @@
+bash: /opt/doraemon/model_release.sh: No such file or directory
+[Finish] Failed to check []

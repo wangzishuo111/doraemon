@@ -1,0 +1,13 @@
+
+PLAY [kcs-edit] ****************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.80]
+
+TASK [all : Stop "kcs-edit" service] *******************************************
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kcs-edit_prod/kcs-edit.sh stop", "delta": "0:00:00.018182", "end": "2019-05-07 17:03:14.814666", "msg": "non-zero return code", "rc": 127, "start": "2019-05-07 17:03:14.796484", "stderr": "bash: /data/CI/kcs-edit_prod/kcs-edit.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kcs-edit_prod/kcs-edit.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1429]

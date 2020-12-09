@@ -1,0 +1,37 @@
+kts
+right way : /mnt/data1/release-data/kts_release/v2.6.3.RELEASE//mnt/data1/release-data/kts_release/v2.6.3.RELEASE/kts.jar
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 861, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 734, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not enough arguments for format string
+Logged from file no_cat_release.py, line 26
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 861, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 734, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not enough arguments for format string
+Logged from file no_cat_release.py, line 26
+2018-11-15 16:43:37,345 INFO 57922[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-15 16:43:37,597 INFO 57922[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-15 16:43:37,631 INFO 57922[transport.py:1546 _log]: Authentication (password) successful!
+now opreate the host :10.11.5.77
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 88, in <module>
+    stop_cmd(ip , krs_sh, krs_jar, krs_jar_bak,release_path)
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 38, in stop_cmd
+    print "error list is : " + err_list
+TypeError: cannot concatenate 'str' and 'list' objects
+[Finish] Failed to deploy [346]

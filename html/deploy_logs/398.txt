@@ -1,0 +1,112 @@
+kds-data-commitEdit
+2018-11-21 11:36:48,655 INFO 41203[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-commitEdit_release/v1.16.4.RELEASE/kds-data-commitEdit.jar
+2018-11-21 11:36:48,655 INFO 41203[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:36:48,667 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-21 11:36:48,897 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:36:48,925 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:36:49,219 INFO 41203[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:36:49,219 INFO 41203[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:36:49,220 INFO 41203[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:36:49,480 INFO 41203[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop]
+2018-11-21 11:36:49,480 INFO 41203[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:36:49,480 INFO 41203[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-21 11:36:59,510 INFO 41203[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar_bak]
+2018-11-21 11:36:59,511 INFO 41203[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:36:59,511 INFO 41203[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:36:59,511 INFO 41203[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:36:59,523 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:36:59,753 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:36:59,775 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:01,513 INFO 41203[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-commitEdit_73_23230/lib:
+2018-11-21 11:37:11,521 INFO 41203[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.73
+2018-11-21 11:37:11,534 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:11,733 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:11,775 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:12,138 INFO 41203[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:37:12,139 INFO 41203[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-21 11:37:12,139 INFO 41203[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:37:12,139 INFO 41203[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh already started
+2018-11-21 11:37:12,139 INFO 41203[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-commitEdit_release/v1.16.4.RELEASE/kds-data-commitEdit.jar
+2018-11-21 11:37:12,140 INFO 41203[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.74
+2018-11-21 11:37:12,152 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:12,349 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:12,392 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:12,664 INFO 41203[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:37:12,664 INFO 41203[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:37:12,665 INFO 41203[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.74
+2018-11-21 11:37:12,923 INFO 41203[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop]
+2018-11-21 11:37:12,924 INFO 41203[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:37:12,924 INFO 41203[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-21 11:37:22,954 INFO 41203[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar_bak]
+2018-11-21 11:37:22,955 INFO 41203[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:37:22,955 INFO 41203[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:37:22,955 INFO 41203[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.74
+2018-11-21 11:37:22,967 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:23,166 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:23,209 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:25,182 INFO 41203[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-commitEdit_73_23230/lib:
+2018-11-21 11:37:35,189 INFO 41203[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.74
+2018-11-21 11:37:35,202 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:35,411 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:35,457 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:35,811 INFO 41203[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:37:35,811 INFO 41203[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-21 11:37:35,811 INFO 41203[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:37:35,812 INFO 41203[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh already started
+2018-11-21 11:37:35,812 INFO 41203[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-commitEdit_release/v1.16.4.RELEASE/kds-data-commitEdit.jar
+2018-11-21 11:37:35,812 INFO 41203[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.75
+2018-11-21 11:37:35,824 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:36,020 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:36,067 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:36,357 INFO 41203[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:37:36,357 INFO 41203[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:37:36,358 INFO 41203[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.75
+2018-11-21 11:37:36,599 INFO 41203[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop]
+2018-11-21 11:37:36,600 INFO 41203[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:37:36,600 INFO 41203[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-21 11:37:46,630 INFO 41203[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar_bak]
+2018-11-21 11:37:46,631 INFO 41203[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:37:46,631 INFO 41203[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:37:46,631 INFO 41203[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.75
+2018-11-21 11:37:46,642 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:46,941 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:46,971 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:48,690 INFO 41203[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-commitEdit_73_23230/lib:
+2018-11-21 11:37:58,701 INFO 41203[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.75
+2018-11-21 11:37:58,714 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:58,944 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:58,966 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:59,321 INFO 41203[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:37:59,322 INFO 41203[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-21 11:37:59,322 INFO 41203[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:37:59,322 INFO 41203[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh already started
+2018-11-21 11:37:59,322 INFO 41203[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-commitEdit_release/v1.16.4.RELEASE/kds-data-commitEdit.jar
+2018-11-21 11:37:59,322 INFO 41203[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.76
+2018-11-21 11:37:59,335 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:37:59,558 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:37:59,586 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:37:59,885 INFO 41203[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:37:59,886 INFO 41203[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:37:59,886 INFO 41203[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.76
+2018-11-21 11:38:00,158 INFO 41203[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop]
+2018-11-21 11:38:00,159 INFO 41203[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:38:00,159 INFO 41203[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-21 11:38:10,189 INFO 41203[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar /data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar_bak]
+2018-11-21 11:38:10,190 INFO 41203[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:38:10,190 INFO 41203[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:38:10,190 INFO 41203[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.76
+2018-11-21 11:38:10,202 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:38:10,444 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:38:10,491 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:38:12,469 INFO 41203[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-commitEdit_73_23230/lib:
+2018-11-21 11:38:22,480 INFO 41203[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.76
+2018-11-21 11:38:22,493 INFO 41203[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:38:22,698 INFO 41203[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:38:22,741 INFO 41203[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:38:23,095 INFO 41203[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:38:23,096 INFO 41203[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-21 11:38:23,096 INFO 41203[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:38:23,096 INFO 41203[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh already started
+[Finish] Success to deploy [398]

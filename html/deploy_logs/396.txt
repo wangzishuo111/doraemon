@@ -1,0 +1,3 @@
+kds-data-commitEdit
+2018-11-21 11:35:29,048 INFO 39201[no_cat_release.py:27 checkfile]: you enter a wrong path
+[Finish] Failed to deploy [396]

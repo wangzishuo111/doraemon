@@ -1,0 +1,16 @@
+
+PLAY [kds-data-commitEdit] *****************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.74]
+
+TASK [all : Stop "kds-data-commitEdit" service] ********************************
+changed: [10.11.5.74]
+
+TASK [all : Start "kds-data-commitEdit" service] *******************************
+changed: [10.11.5.74]
+
+PLAY RECAP *********************************************************************
+10.11.5.74                 : ok=3    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to start [1386]

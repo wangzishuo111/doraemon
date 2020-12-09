@@ -1,0 +1,6 @@
+kts
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/web_release.py", line 74, in <module>
+    ip , dest_path  = line.strip().split()
+ValueError: too many values to unpack
+[Finish] Failed to deploy [756]

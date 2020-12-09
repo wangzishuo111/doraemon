@@ -1,0 +1,2 @@
+2018-11-13 12:09:24,253 INFO 39040[check_automap_ver.py:57 main]: mismatch list []
+[Finish] Success to check [kss-automap-laneabc]

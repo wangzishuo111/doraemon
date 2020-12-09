@@ -1,0 +1,14 @@
+
+PLAY [autohdmap_lane] **********************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : Run container for autohdmap_lane_0 op-01.gzproduction.com/library/autohdmap_lane:v4.6.8] ****************************************************************************************************************************
+fatal: [10.11.5.137]: FAILED! => {"changed": false, "msg": "Error starting container dc5a57d2541004875b2d0a4f30269b4d85b198aa5ccb8add5c57f24f067f9bf8: 400 Client Error: Bad Request (\"OCI runtime create failed: container_linux.go:348: starting container process caused \"exec: \\\"/docker_entrypoint.sh\\\": stat /docker_entrypoint.sh: no such file or directory\": unknown\")"}
+	to retry, use: --limit @/home/op/autohdmap_deploy_v2/autohdmap_lane.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.137                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/library/autohdmap_lane:v4.6.8]

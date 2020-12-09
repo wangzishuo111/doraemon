@@ -1,0 +1,24 @@
+
+PLAY [kds-meta] ****************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.80]
+ok: [10.11.5.79]
+ok: [10.11.5.81]
+
+TASK [all : Stop "kds-meta" service] *******************************************
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.80]
+
+TASK [all : Start "kds-meta" service] ******************************************
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.80]
+
+PLAY RECAP *********************************************************************
+10.11.5.79                 : ok=3    changed=2    unreachable=0    failed=0   
+10.11.5.80                 : ok=3    changed=2    unreachable=0    failed=0   
+10.11.5.81                 : ok=3    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to start [1382]

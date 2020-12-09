@@ -1,0 +1,9 @@
+ [WARNING]: Could not match supplied host pattern, ignoring: task-frame-
+managment
+
+PLAY [task-frame-managment] ****************************************************
+skipping: no hosts matched
+
+PLAY RECAP *********************************************************************
+
+[Finish] Success to start [1414]

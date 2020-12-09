@@ -1,0 +1,162 @@
+
+PLAY [krs] *********************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.85]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.11]
+ok: [10.11.5.16]
+ok: [10.11.5.19]
+ok: [10.11.5.12]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.13]
+ok: [10.11.5.18]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.17]
+ok: [10.11.5.15]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.33]
+ok: [10.11.5.72]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.2]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.21]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.20]
+ok: [10.11.5.1]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.4]
+ok: [10.11.5.22]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.3]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.74]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.73]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.84]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.77]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.83]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.82]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.76]
+ok: [10.11.5.75]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.79]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.78]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.86]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.81]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.80]
+
+TASK [Java_service : Start "krs" service] **************************************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.12]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.148664", "end": "2018-12-05 14:12:13.363278", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.214614", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=31731 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=31731 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.85]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.145643", "end": "2018-12-05 14:12:13.383686", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.238043", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=14376 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=14376 alreay started."]}
+fatal: [10.11.5.11]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.171514", "end": "2018-12-05 14:12:13.383706", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.212192", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=30737 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=30737 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.33]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.169662", "end": "2018-12-05 14:12:13.393736", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.224074", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=24357 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=24357 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.13]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.155022", "end": "2018-12-05 14:12:13.447403", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.292381", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=36002 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=36002 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.15]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.157273", "end": "2018-12-05 14:12:13.496697", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.339424", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=7978 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=7978 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.16]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.156529", "end": "2018-12-05 14:12:13.539545", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.383016", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=15908 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=15908 alreay started."]}
+fatal: [10.11.5.17]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.128187", "end": "2018-12-05 14:12:13.536471", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.408284", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=26043 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=26043 alreay started."]}
+fatal: [10.11.5.18]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.156753", "end": "2018-12-05 14:12:13.546345", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.389592", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=39066 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=39066 alreay started."]}
+fatal: [10.11.5.19]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.147306", "end": "2018-12-05 14:12:13.572073", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.424767", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=25042 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=25042 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.20]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.158580", "end": "2018-12-05 14:12:13.788902", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.630322", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=9229 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=9229 alreay started."]}
+fatal: [10.11.5.21]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.144574", "end": "2018-12-05 14:12:13.873218", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.728644", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=19762 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=19762 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.22]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.144537", "end": "2018-12-05 14:12:13.887485", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.742948", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=30230 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=30230 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.2]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.155969", "end": "2018-12-05 14:12:13.995780", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.839811", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=35871 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=35871 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.1]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.247486", "end": "2018-12-05 14:12:14.044537", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.797051", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=32680 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=32680 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.4]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.154730", "end": "2018-12-05 14:12:14.085725", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.930995", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=2385 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=2385 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.3]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.213301", "end": "2018-12-05 14:12:14.091295", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.877994", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=42410 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=42410 alreay started."]}
+fatal: [10.11.5.72]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.158446", "end": "2018-12-05 14:12:14.158130", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.999684", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=28085 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=28085 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.73]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.225333", "end": "2018-12-05 14:12:14.211303", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:13.985970", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=15937 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=15937 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.74]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.239189", "end": "2018-12-05 14:12:14.343051", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.103862", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=44391 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=44391 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.75]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.251335", "end": "2018-12-05 14:12:14.399937", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.148602", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=11698 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=11698 alreay started."]}
+fatal: [10.11.5.76]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.217615", "end": "2018-12-05 14:12:14.379130", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.161515", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=41841 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=41841 alreay started."]}
+fatal: [10.11.5.83]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.100443", "end": "2018-12-05 14:12:14.405544", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.305101", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=5513 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=5513 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.79]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.150025", "end": "2018-12-05 14:12:14.410661", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.260636", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=8544 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=8544 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.78]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.188110", "end": "2018-12-05 14:12:14.504212", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.316102", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=23018 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=23018 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.84]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.095605", "end": "2018-12-05 14:12:14.480502", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.384897", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=15990 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=15990 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.82]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.157186", "end": "2018-12-05 14:12:14.451299", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.294113", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=23506 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=23506 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.117377", "end": "2018-12-05 14:12:14.515639", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.398262", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=21759 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=21759 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.86]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.127662", "end": "2018-12-05 14:12:14.697020", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.569358", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=35815 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=35815 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.149554", "end": "2018-12-05 14:12:14.747426", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.597872", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=21032 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=21032 alreay started."]}
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs/krs.sh start", "delta": "0:00:00.178320", "end": "2018-12-05 14:12:14.776480", "msg": "non-zero return code", "rc": 1, "start": "2018-12-05 14:12:14.598160", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/krs\nkrs.jar\nkrs.jar pid=43722 alreay started.", "stdout_lines": ["/data/CI/krs", "krs.jar", "krs.jar pid=43722 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.1                  : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.11                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.12                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.13                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.15                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.16                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.17                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.18                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.19                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.2                  : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.20                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.21                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.22                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.3                  : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.33                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.4                  : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.72                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.73                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.74                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.75                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.76                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.77                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.78                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.79                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.82                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.83                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.84                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.85                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.86                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [761]

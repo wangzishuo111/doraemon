@@ -1,0 +1,3 @@
+no do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=hbase-hadoop-rest-hadoop-0025.log -e dest_path=/home/hadoop/
+[Finish] Success to deploy [647]

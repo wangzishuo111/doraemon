@@ -1,0 +1,168 @@
+
+PLAY [gz-hadoop-worker] *****************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************************************************************************************************************************
+ok: [hadoop-0037]
+ok: [hadoop-0036]
+ok: [hadoop-0038]
+ok: [hadoop-0035]
+ok: [hadoop-0024]
+ok: [hadoop-0003]
+ok: [hadoop-0019]
+ok: [hadoop-0018]
+ok: [hadoop-0002]
+ok: [hadoop-0021]
+ok: [hadoop-0028]
+ok: [hadoop-0029]
+ok: [hadoop-0010]
+ok: [hadoop-0032]
+ok: [hadoop-0008]
+ok: [hadoop-0027]
+ok: [hadoop-0004]
+ok: [hadoop-0020]
+ok: [hadoop-0030]
+ok: [hadoop-0005]
+ok: [hadoop-0006]
+ok: [hadoop-0001]
+ok: [hadoop-0007]
+ok: [hadoop-0031]
+ok: [hadoop-0017]
+ok: [hadoop-0015]
+ok: [hadoop-0033]
+ok: [hadoop-0009]
+ok: [hadoop-0013]
+ok: [hadoop-0012]
+ok: [hadoop-0022]
+ok: [hadoop-0025]
+ok: [hadoop-0026]
+ok: [hadoop-0023]
+ok: [hadoop-0016]
+ok: [hadoop-0011]
+ok: [hadoop-0034]
+ok: [hadoop-0014]
+
+TASK [scp file to hadoop-worker] ********************************************************************************************************************************************************************************
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0001]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0002]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0003]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0004]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0005]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0006]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0007]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0008]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0009]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0010]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0011]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0012]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0013]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0014]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0015]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0016]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0017]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0018]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0019]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0020]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0021]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0022]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0023]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0024]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0025]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0026]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0027]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0028]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0029]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0030]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0031]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0032]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0033]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0034]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0035]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0036]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0037]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [hadoop-0038]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/wzs/mesh' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+	to retry, use: --limit @/home/op/wzs/python/trancefile_hadoop.retry
+
+PLAY RECAP ******************************************************************************************************************************************************************************************************
+hadoop-0001                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0002                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0003                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0004                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0005                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0006                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0007                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0008                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0009                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0010                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0011                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0012                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0013                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0014                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0015                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0016                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0017                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0018                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0019                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0020                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0021                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0022                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0023                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0024                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0025                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0026                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0027                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0028                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0029                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0030                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0031                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0032                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0033                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0034                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0035                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0036                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0037                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0038                : ok=1    changed=0    unreachable=0    failed=1   
+
+scp -r hadoop@hadoop-0020:/tmp/compiler/data/mesh /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+now do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=mesh -e dest_path=/tmp/compiler/data/ -e file_mode=0644 -f 40
+512
+[Finish] Success to deploy [1293]

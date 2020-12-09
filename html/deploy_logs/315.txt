@@ -1,0 +1,18 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+now oprate the host :mongo-02the instance isautohdmap_lane_0
+docker exec autohdmap_lane_0 bash -c rm -rf /data/CI/autohdmap_lane/task*
+clean up over
+now oprate the host :mongo-02the instance isautohdmap_lane_1
+docker exec autohdmap_lane_1 bash -c rm -rf /data/CI/autohdmap_lane/task*
+clean up over
+now oprate the host :mongo-02the instance isautohdmap_lane_2
+docker exec autohdmap_lane_2 bash -c rm -rf /data/CI/autohdmap_lane/task*
+clean up over
+now oprate the host :mongo-02the instance isautohdmap_lane_3
+docker exec autohdmap_lane_3 bash -c rm -rf /data/CI/autohdmap_lane/task*
+clean up over
+now oprate the host :mongo-02the instance isautohdmap_lane_4
+docker exec autohdmap_lane_4 bash -c rm -rf /data/CI/autohdmap_lane/task*
+clean up over
+[Finish] Success to deploy [315]

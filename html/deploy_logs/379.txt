@@ -1,0 +1,12 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+now oprate the host :srv-v1-05the instance isautohdmap_lane_0
+docker exec autohdmap_lane_0 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clear fail !!!
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/clear_lane.py", line 37, in <module>
+    get_ip(ip)
+  File "/home/op/mesh_deploy_5.80/clear_lane.py", line 32, in get_ip
+    print "error list is : " +  err_list
+TypeError: cannot concatenate 'str' and 'list' objects
+[Finish] Failed to deploy [379]

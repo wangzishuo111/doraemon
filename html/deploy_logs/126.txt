@@ -1,0 +1,14 @@
+
+PLAY [autohdmap_lane] **********************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : Run container for autohdmap_lane_0 op-01.gzproduction.com/autohdmap/autohdmap_lane:v4.6.9] **************************************************************************
+fatal: [10.11.5.137]: FAILED! => {"changed": false, "msg": "Error starting container 754397aba881f3c33f0530509a728785b74f4fc9159b35b7e3982d091305345b: 500 Server Error: Internal Server Error (\"driver failed programming external connectivity on endpoint autohdmap_lane_0 (b84872c8a645f556d829dd2e33c0acb2c0ef8df43ee959032ff3d691ab0bfdae): Bind for 0.0.0.0:20527 failed: port is already allocated\")"}
+	to retry, use: --limit @/home/op/autohdmap_deploy_v2/autohdmap_lane.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************
+10.11.5.137                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/autohdmap/autohdmap_lane:v4.6.9]

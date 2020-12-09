@@ -1,0 +1,114 @@
+
+PLAY [autohdmap_multilane_0] *************************************************************************************************
+
+TASK [clean task-0] **********************************************************************************************************
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.64]
+changed: [10.11.5.15]
+changed: [10.11.5.20]
+changed: [10.11.5.16]
+changed: [10.11.5.21]
+changed: [10.11.5.19]
+changed: [10.11.5.18]
+changed: [10.11.5.17]
+changed: [10.11.5.22]
+changed: [10.11.5.40]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.32]
+changed: [10.11.5.38]
+changed: [10.11.5.34]
+changed: [10.11.5.36]
+changed: [10.11.5.79]
+changed: [10.11.5.41]
+changed: [10.11.5.51]
+changed: [10.11.5.35]
+changed: [10.11.5.39]
+changed: [10.11.5.109]
+changed: [10.11.5.74]
+changed: [10.11.5.78]
+changed: [10.11.5.73]
+changed: [10.11.5.75]
+changed: [10.11.5.33]
+changed: [10.11.5.71]
+changed: [10.11.5.44]
+changed: [10.11.5.76]
+
+PLAY [autohdmap_multilane_1] *************************************************************************************************
+
+TASK [clean task-1] **********************************************************************************************************
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.15]
+changed: [10.11.5.19]
+changed: [10.11.5.21]
+changed: [10.11.5.18]
+changed: [10.11.5.20]
+changed: [10.11.5.22]
+changed: [10.11.5.34]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.32]
+changed: [10.11.5.61]
+changed: [10.11.5.42]
+changed: [10.11.5.36]
+changed: [10.11.5.54]
+changed: [10.11.5.35]
+changed: [10.11.5.38]
+changed: [10.11.5.41]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.43]
+changed: [10.11.5.79]
+changed: [10.11.5.109]
+changed: [10.11.5.33]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.73]
+changed: [10.11.5.78]
+changed: [10.11.5.51]
+changed: [10.11.5.71]
+changed: [10.11.5.44]
+changed: [10.11.5.76]
+
+PLAY RECAP *******************************************************************************************************************
+10.11.5.109                : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.15                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.16                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.17                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.18                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.19                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.20                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.21                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.22                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.32                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.33                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.34                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.35                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.36                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.38                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.39                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.40                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.41                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.42                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.43                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.44                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.51                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.54                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.61                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.62                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.63                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.64                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.71                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.73                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.74                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.75                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.76                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.78                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.79                 : ok=2    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to clean [539]

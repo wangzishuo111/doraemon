@@ -1,0 +1,193 @@
+0
+
+PLAY [gz-hadoop-worker] **************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ***************************************************************************************************************************************************************
+ok: [hadoop-0004]
+ok: [hadoop-0005]
+ok: [hadoop-0002]
+ok: [hadoop-0001]
+ok: [hadoop-0003]
+ok: [hadoop-0007]
+ok: [hadoop-0006]
+ok: [hadoop-0008]
+ok: [hadoop-0010]
+ok: [hadoop-0009]
+ok: [hadoop-0012]
+ok: [hadoop-0011]
+ok: [hadoop-0013]
+ok: [hadoop-0016]
+ok: [hadoop-0014]
+ok: [hadoop-0017]
+ok: [hadoop-0015]
+ok: [hadoop-0018]
+ok: [hadoop-0021]
+ok: [hadoop-0020]
+ok: [hadoop-0019]
+ok: [hadoop-0022]
+ok: [hadoop-0023]
+ok: [hadoop-0024]
+ok: [hadoop-0025]
+ok: [hadoop-0029]
+ok: [hadoop-0026]
+ok: [hadoop-0030]
+ok: [hadoop-0027]
+ok: [hadoop-0028]
+ok: [hadoop-0035]
+ok: [hadoop-0032]
+ok: [hadoop-0034]
+ok: [hadoop-0031]
+ok: [hadoop-0033]
+ok: [hadoop-0037]
+ok: [hadoop-0036]
+ok: [hadoop-0038]
+
+TASK [copy model to hadoop cluster] **************************************************************************************************************************************************
+ [ERROR]: User interrupted execution
+Process WorkerProcess-41:
+Traceback (most recent call last):
+Process WorkerProcess-43:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 510, in run
+    module_return = self._copy_file(source_full, source_rel, content, content_tempfile, dest, task_vars, follow)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 297, in _copy_file
+    remote_path = self._transfer_file(source_full, tmp_src)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 361, in _transfer_file
+    self._connection.put_file(local_path, remote_path)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1094, in put_file
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 510, in run
+    return self._file_transport_command(in_path, out_path, 'put')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1013, in _file_transport_command
+    (returncode, stdout, stderr) = self._bare_run(cmd, in_data, checkrc=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    module_return = self._copy_file(source_full, source_rel, content, content_tempfile, dest, task_vars, follow)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 297, in _copy_file
+    remote_path = self._transfer_file(source_full, tmp_src)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 361, in _transfer_file
+    self._connection.put_file(local_path, remote_path)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1094, in put_file
+    return self._file_transport_command(in_path, out_path, 'put')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1013, in _file_transport_command
+    (returncode, stdout, stderr) = self._bare_run(cmd, in_data, checkrc=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+Process WorkerProcess-39:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 510, in run
+    module_return = self._copy_file(source_full, source_rel, content, content_tempfile, dest, task_vars, follow)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 297, in _copy_file
+    remote_path = self._transfer_file(source_full, tmp_src)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 361, in _transfer_file
+Process WorkerProcess-40:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._connection.put_file(local_path, remote_path)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1094, in put_file
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    return self._file_transport_command(in_path, out_path, 'put')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1013, in _file_transport_command
+    (returncode, stdout, stderr) = self._bare_run(cmd, in_data, checkrc=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 510, in run
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+    module_return = self._copy_file(source_full, source_rel, content, content_tempfile, dest, task_vars, follow)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 297, in _copy_file
+KeyboardInterrupt
+    remote_path = self._transfer_file(source_full, tmp_src)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 361, in _transfer_file
+    self._connection.put_file(local_path, remote_path)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1094, in put_file
+    return self._file_transport_command(in_path, out_path, 'put')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1013, in _file_transport_command
+    (returncode, stdout, stderr) = self._bare_run(cmd, in_data, checkrc=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+Process WorkerProcess-42:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 510, in run
+    module_return = self._copy_file(source_full, source_rel, content, content_tempfile, dest, task_vars, follow)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/copy.py", line 297, in _copy_file
+    remote_path = self._transfer_file(source_full, tmp_src)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 361, in _transfer_file
+    self._connection.put_file(local_path, remote_path)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1094, in put_file
+    return self._file_transport_command(in_path, out_path, 'put')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1013, in _file_transport_command
+    (returncode, stdout, stderr) = self._bare_run(cmd, in_data, checkrc=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+99
+[Finish] Failed to check [germanyup2]

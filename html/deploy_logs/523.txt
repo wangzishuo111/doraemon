@@ -1,0 +1,2 @@
+sh: 1: zhangversion: not found
+[Finish] Failed to CheckVersion [523]

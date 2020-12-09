@@ -1,0 +1,22 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+kms
+right way : /mnt/data1/release-data/kms_release/v2.4.2.1.RELEASE//mnt/data1/release-data/kms_release/v2.4.2.1.RELEASE/kms.jar
+now stopping the host :10.11.5.74
+[]
+[]
+[]
+[u'/data/CI/kms_33_13320\n', u'kms.jar\n', u'/data/CI/kms_33_13320/lib/kms.jar is not started.\n']
+sudo /data/CI/kms_33_13320/kms.sh stop
+[u"mv: cannot move '/data/CI/kms_33_13320/lib/kms.jar' to '/data/CI/kds-meta_30_13200/lib/kms.jar_bak': No such file or directory\n"]
+[]
+now distribution to the host :10.11.5.74
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 80, in <module>
+    release_service(ip , krs_sh, krs_jar, krs_jar_bak,release_path, lib_path, server)
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 52, in release_service
+    scp.send_file(jar_file, preserve_times=True)
+  File "/usr/local/lib/python2.7/dist-packages/scpclient.py", line 301, in _send_file
+    with open(local_filename, 'rb') as fl:
+IOError: [Errno 13] Permission denied: '/mnt/data1/release-data/kms_release/v2.4.2.1.RELEASE/kms.jar'
+[Finish] Failed to deploy [235]

@@ -1,0 +1,25 @@
+
+PLAY [kds-meta-auto] ***********************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.79]
+ok: [10.11.5.81]
+ok: [10.11.5.80]
+
+TASK [Java_service : Stop "kds-meta-auto" service] *****************************************************************************************************************************************************************************************
+changed: [10.11.5.81]
+changed: [10.11.5.79]
+changed: [10.11.5.80]
+
+TASK [Java_service : Copy "kds-meta-auto" Package To Target-Hosts] *************************************************************************************************************************************************************************
+fatal: [10.11.5.79]: FAILED! => {"msg": "an error occurred while trying to read the file '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar': [Errno 13] Permission denied: '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar'"}
+fatal: [10.11.5.80]: FAILED! => {"msg": "an error occurred while trying to read the file '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar': [Errno 13] Permission denied: '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar'"}
+fatal: [10.11.5.81]: FAILED! => {"msg": "an error occurred while trying to read the file '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar': [Errno 13] Permission denied: '/mnt/data1/release-data/kds-meta-auto_release/v1.7.6.RELEASE/kds-meta-auto.jar'"}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.79                 : ok=2    changed=1    unreachable=0    failed=1   
+10.11.5.80                 : ok=2    changed=1    unreachable=0    failed=1   
+10.11.5.81                 : ok=2    changed=1    unreachable=0    failed=1   
+
+[Finish] Failed to start  [613]

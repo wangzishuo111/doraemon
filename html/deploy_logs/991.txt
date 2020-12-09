@@ -1,0 +1,18 @@
+
+PLAY [kpms] **********************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************
+ok: [10.11.5.80]
+
+TASK [all : Stop "kpms" service] *************************************************************
+changed: [10.11.5.80]
+
+TASK [all : Copy "kpms" Package To Target-Hosts] *********************************************
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option
+fatal: [10.11.5.80]: FAILED! => {"changed": false, "msg": "Could not find or access '/mnt/data1/release-data/kpms_release/v1.3.1.RELEASE/kpms.*' on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.80                 : ok=2    changed=1    unreachable=0    failed=1   
+
+[Finish] Failed to start  [991]

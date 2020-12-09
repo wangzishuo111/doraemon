@@ -1,0 +1,816 @@
+2019-08-16 00:09:28,146 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:09:29,286 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:09:29,286 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:09:29,288 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1142.64ms
+2019-08-16 00:09:29,292 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:09:30,499 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:09:30,500 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:09:30,501 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1208.82ms
+2019-08-16 00:09:30,511 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:09:31,484 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:09:31,484 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:09:31,485 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 975.20ms
+2019-08-16 00:19:28,164 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:19:29,486 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:19:29,486 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:19:29,487 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1323.86ms
+2019-08-16 00:19:29,492 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:19:30,733 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:19:30,733 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:19:30,734 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1243.48ms
+2019-08-16 00:19:30,744 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:19:31,773 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:19:31,773 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:19:31,774 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1030.08ms
+2019-08-16 00:29:28,166 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:29:29,443 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:29:29,443 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 00:29:29,445 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1280.29ms
+2019-08-16 00:29:29,449 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:29:30,537 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:29:30,537 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 00:29:30,539 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1090.03ms
+2019-08-16 00:29:30,543 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:29:31,789 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:29:31,789 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 00:29:31,791 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1247.83ms
+2019-08-16 00:39:28,126 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:39:29,399 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:39:29,400 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:39:29,401 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1276.32ms
+2019-08-16 00:39:29,406 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:39:30,419 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:39:30,419 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:39:30,421 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1015.78ms
+2019-08-16 00:39:30,425 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:39:31,438 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:39:31,438 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 00:39:31,439 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1014.89ms
+2019-08-16 00:49:28,107 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:49:29,299 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:49:29,300 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 00:49:29,301 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1194.65ms
+2019-08-16 00:49:29,305 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:49:30,496 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:49:30,496 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 00:49:30,498 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1192.84ms
+2019-08-16 00:49:30,503 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:49:31,452 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:49:31,452 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 00:49:31,454 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 952.23ms
+2019-08-16 00:59:28,099 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:59:29,191 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:59:29,191 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 00:59:29,193 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1095.28ms
+2019-08-16 00:59:29,198 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:59:30,582 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:59:30,582 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 00:59:30,583 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1385.98ms
+2019-08-16 00:59:30,592 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 00:59:31,962 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 00:59:31,962 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 00:59:31,963 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1371.67ms
+2019-08-16 01:10:28,210 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:10:29,528 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:10:29,529 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:10:29,530 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1320.56ms
+2019-08-16 01:10:29,533 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:10:30,754 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:10:30,754 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:10:30,755 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1222.68ms
+2019-08-16 01:10:30,758 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:10:31,733 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:10:31,734 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:10:31,735 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 977.91ms
+2019-08-16 01:20:28,109 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:20:29,371 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:20:29,372 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 01:20:29,373 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1265.06ms
+2019-08-16 01:20:29,377 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:20:30,332 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:20:30,333 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 01:20:30,334 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 957.28ms
+2019-08-16 01:20:30,338 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:20:31,296 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:20:31,297 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 01:20:31,298 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 960.94ms
+2019-08-16 01:30:28,115 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:30:29,220 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:30:29,220 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 01:30:29,221 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1106.74ms
+2019-08-16 01:30:29,225 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:30:30,176 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:30:30,177 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 01:30:30,178 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 952.85ms
+2019-08-16 01:30:30,181 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:30:31,423 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:30:31,423 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 01:30:31,424 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1243.41ms
+2019-08-16 01:40:28,109 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:40:29,337 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:40:29,338 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:40:29,339 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1230.20ms
+2019-08-16 01:40:29,343 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:40:30,329 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:40:30,329 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:40:30,330 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 987.64ms
+2019-08-16 01:40:30,334 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:40:31,371 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:40:31,371 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 01:40:31,373 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1039.30ms
+2019-08-16 01:50:28,131 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:50:29,478 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:50:29,478 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 01:50:29,479 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1348.64ms
+2019-08-16 01:50:29,483 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:50:30,504 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:50:30,504 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 01:50:30,506 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1022.82ms
+2019-08-16 01:50:30,511 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 01:50:31,676 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 01:50:31,676 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 01:50:31,678 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1168.36ms
+2019-08-16 02:00:28,153 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:00:29,330 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:00:29,330 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:00:29,332 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1179.50ms
+2019-08-16 02:00:29,336 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:00:30,554 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:00:30,554 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:00:30,555 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1219.60ms
+2019-08-16 02:00:30,559 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:00:31,675 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:00:31,676 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:00:31,677 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1118.58ms
+2019-08-16 02:10:28,144 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:10:29,458 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:10:29,458 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:10:29,459 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1315.47ms
+2019-08-16 02:10:29,463 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:10:30,447 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:10:30,447 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:10:30,449 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 985.83ms
+2019-08-16 02:10:30,458 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:10:31,756 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:10:31,757 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 02:10:31,758 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1301.33ms
+2019-08-16 02:20:28,250 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:20:30,495 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:20:30,495 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 02:20:30,496 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2247.51ms
+2019-08-16 02:20:30,501 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:20:32,778 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:20:32,778 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 02:20:32,780 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2279.39ms
+2019-08-16 02:20:32,784 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:20:35,366 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:20:35,367 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 02:20:35,369 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2584.93ms
+2019-08-16 02:30:28,146 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:30:30,381 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:30:30,381 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:30:30,382 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2237.08ms
+2019-08-16 02:30:30,387 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:30:32,468 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:30:32,469 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:30:32,470 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2083.23ms
+2019-08-16 02:30:32,474 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:30:34,517 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:30:34,517 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:30:34,518 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2044.50ms
+2019-08-16 02:40:28,225 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:40:31,233 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:40:31,319 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:40:31,320 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 02:40:31,322 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3097.03ms
+2019-08-16 02:40:33,511 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:40:33,511 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 02:40:33,513 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2280.96ms
+2019-08-16 02:40:33,518 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:40:35,711 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:40:35,712 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 02:40:35,713 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2195.07ms
+2019-08-16 02:50:28,230 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:50:30,458 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:50:30,458 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:50:30,460 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2229.84ms
+2019-08-16 02:50:30,464 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:50:32,682 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:50:32,683 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:50:32,684 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2221.04ms
+2019-08-16 02:50:32,688 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 02:50:34,712 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 02:50:34,712 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 02:50:34,714 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2026.15ms
+2019-08-16 03:00:28,159 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:00:30,906 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:00:30,906 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:00:30,908 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2750.29ms
+2019-08-16 03:00:30,913 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:00:33,595 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:00:33,595 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:00:33,596 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2684.12ms
+2019-08-16 03:00:33,601 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:00:35,553 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:00:35,553 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:00:35,554 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1953.58ms
+2019-08-16 03:10:28,158 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:10:30,218 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:10:30,218 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:10:30,219 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2061.94ms
+2019-08-16 03:10:30,223 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:10:32,865 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:10:32,865 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:10:32,866 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2643.00ms
+2019-08-16 03:10:32,870 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:10:35,625 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:10:35,626 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:10:35,627 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2757.57ms
+2019-08-16 03:20:28,162 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:20:29,377 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:20:29,377 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:20:29,379 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1218.38ms
+2019-08-16 03:20:29,384 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:20:30,271 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:20:30,271 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:20:30,272 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 888.99ms
+2019-08-16 03:20:30,280 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:20:31,187 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:20:31,187 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:20:31,188 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 908.24ms
+2019-08-16 03:30:28,163 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:30:30,325 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:30:30,325 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:30:30,327 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2164.38ms
+2019-08-16 03:30:30,331 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:30:33,292 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:30:33,292 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:30:33,294 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2963.08ms
+2019-08-16 03:30:33,299 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:30:35,442 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:30:35,442 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:30:35,444 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2145.17ms
+2019-08-16 03:40:28,168 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:40:29,323 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:40:29,323 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:40:29,324 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1156.89ms
+2019-08-16 03:40:29,329 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:40:30,301 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:40:30,301 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:40:30,302 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 973.83ms
+2019-08-16 03:40:30,306 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:40:31,757 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:40:31,757 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 03:40:31,759 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1453.24ms
+2019-08-16 03:50:28,171 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:50:30,453 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:50:30,453 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 03:50:30,457 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2286.53ms
+2019-08-16 03:50:30,461 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:50:33,109 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:50:33,109 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 03:50:33,111 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2650.15ms
+2019-08-16 03:50:33,115 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 03:50:35,037 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:50:35,038 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 03:50:35,039 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1924.59ms
+2019-08-16 03:54:28,215 INFO 80112[service.py:504 process]: title[hbase_log_summary] message[hadoop-0012,Slow syn] to_party[27]
+2019-08-16 03:54:31,585 INFO 80112[wechat_v2.py:38 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 03:54:31,585 INFO 80112[service.py:506 process]: wechat_v2 return True
+2019-08-16 03:54:31,587 INFO 80112[web.py:2162 log_request]: 200 POST /api/msg/send/text?message=hadoop-0012%2CSlow+sync+cost%2C9%0Ahadoop-0034%2CSlow+sync+cost%2C8%0Ahadoop-0052%2CSlow+sync+cost%2C7%0Ahadoop-0049%2CSlow+sync+cost%2C7%0Ahadoop-0020%2CSlow+sync+cost%2C7%0Ahadoop-0006%2CSlow+sync+cost%2C7%0Ahadoop-0011%2CSlow+sync+cost%2C6%0Ahadoop-0029%2CSlow+sync+cost%2C6%0A&to_party=27&title=hbase_log_summary (10.11.5.243) 3371.81ms
+2019-08-16 04:00:28,173 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:00:30,260 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:00:30,260 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 04:00:30,261 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2088.82ms
+2019-08-16 04:00:30,265 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:00:32,506 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:00:32,506 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 04:00:32,508 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2243.24ms
+2019-08-16 04:00:32,512 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:00:35,442 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:00:35,442 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 04:00:35,444 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2932.09ms
+2019-08-16 04:10:28,181 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:10:30,803 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:10:30,804 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 04:10:30,805 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2624.39ms
+2019-08-16 04:10:30,810 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:10:33,433 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:10:33,433 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 04:10:33,435 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2626.12ms
+2019-08-16 04:10:33,441 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:10:35,550 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:10:35,551 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 04:10:35,553 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2112.21ms
+2019-08-16 04:20:28,181 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:20:30,325 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:20:30,326 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 04:20:30,334 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2154.22ms
+2019-08-16 04:20:30,340 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:20:32,470 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:20:32,471 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 04:20:32,472 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2133.41ms
+2019-08-16 04:20:32,477 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:20:34,890 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:20:34,890 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 04:20:34,892 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2415.48ms
+2019-08-16 04:30:28,531 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:30:31,404 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:30:31,404 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 04:30:31,406 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2875.42ms
+2019-08-16 04:30:31,411 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:30:33,441 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:30:33,441 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 04:30:33,443 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2032.07ms
+2019-08-16 04:30:33,453 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:30:36,381 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:30:36,381 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 04:30:36,383 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2930.32ms
+2019-08-16 04:40:28,325 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:40:31,132 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:40:31,133 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 04:40:31,134 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2809.69ms
+2019-08-16 04:40:31,139 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:40:33,821 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:40:33,821 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 04:40:33,823 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2684.39ms
+2019-08-16 04:40:33,828 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:40:36,085 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:40:36,085 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 04:40:36,087 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2259.15ms
+2019-08-16 04:50:28,338 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:50:30,394 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:50:30,394 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 04:50:30,396 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2058.34ms
+2019-08-16 04:50:30,401 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:50:32,923 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:50:32,924 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 04:50:32,925 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2525.39ms
+2019-08-16 04:50:32,930 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 04:50:35,391 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:50:35,391 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 04:50:35,393 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2463.54ms
+2019-08-16 04:54:28,598 INFO 80112[service.py:504 process]: title[hbase_log_summary] message[hadoop-0005,Slow syn] to_party[27]
+2019-08-16 04:54:31,291 INFO 80112[wechat_v2.py:38 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 04:54:31,291 INFO 80112[service.py:506 process]: wechat_v2 return True
+2019-08-16 04:54:31,293 INFO 80112[web.py:2162 log_request]: 200 POST /api/msg/send/text?message=hadoop-0005%2CSlow+sync+cost%2C7%0Ahadoop-0034%2CSlow+sync+cost%2C5%0Ahadoop-0023%2CSlow+sync+cost%2C5%0A&to_party=27&title=hbase_log_summary (10.11.5.243) 2695.03ms
+2019-08-16 05:00:28,357 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:00:30,910 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:00:30,911 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:00:30,912 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2556.07ms
+2019-08-16 05:00:30,916 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:00:33,008 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:00:33,008 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:00:33,009 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2093.72ms
+2019-08-16 05:00:33,013 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:00:35,200 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:00:35,200 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:00:35,201 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2188.74ms
+2019-08-16 05:11:28,298 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:11:31,304 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:11:31,363 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:11:31,363 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 05:11:31,364 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3066.95ms
+2019-08-16 05:11:33,333 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:11:33,334 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 05:11:33,335 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2031.36ms
+2019-08-16 05:11:33,352 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:11:34,147 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:11:34,147 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 05:11:34,149 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 797.18ms
+2019-08-16 05:21:28,250 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:21:30,914 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:21:30,915 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:21:30,916 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2667.16ms
+2019-08-16 05:21:30,920 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:21:33,941 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:21:34,235 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:21:34,235 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:21:34,236 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3316.28ms
+2019-08-16 05:21:35,810 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:21:35,810 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 05:21:35,811 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1871.54ms
+2019-08-16 05:31:28,226 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:31:30,782 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:31:30,782 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:31:30,783 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2558.51ms
+2019-08-16 05:31:30,788 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:31:33,808 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:31:33,938 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:31:33,938 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:31:33,939 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3152.08ms
+2019-08-16 05:31:36,289 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:31:36,289 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 05:31:36,291 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2483.02ms
+2019-08-16 05:41:28,212 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:41:30,839 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:41:30,840 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:41:30,841 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2629.72ms
+2019-08-16 05:41:30,846 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:41:32,740 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:41:32,740 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:41:32,742 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1896.68ms
+2019-08-16 05:41:32,751 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:41:35,088 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:41:35,089 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:41:35,090 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2339.70ms
+2019-08-16 05:51:02,892 INFO 99923[service.py:479 process]: title[task timeout alert] message[task_type:element, j] to_party[20]
+2019-08-16 05:51:04,867 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:51:04,867 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 05:51:04,868 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1977.33ms
+2019-08-16 05:51:28,207 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:51:30,161 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:51:30,162 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 05:51:30,164 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1957.42ms
+2019-08-16 05:51:30,169 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:51:32,709 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:51:32,710 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 05:51:32,711 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2543.01ms
+2019-08-16 05:51:32,720 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 05:51:35,455 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 05:51:35,456 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 05:51:35,458 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2737.91ms
+2019-08-16 06:01:28,190 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:01:30,746 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:01:30,747 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:01:30,748 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2558.98ms
+2019-08-16 06:01:30,753 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:01:33,345 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:01:33,345 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:01:33,346 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2594.09ms
+2019-08-16 06:01:33,364 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:01:36,309 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:01:36,310 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:01:36,311 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2948.26ms
+2019-08-16 06:11:28,181 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:11:30,250 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:11:30,250 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:11:30,251 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2070.57ms
+2019-08-16 06:11:30,255 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:11:32,100 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:11:32,100 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:11:32,102 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1846.66ms
+2019-08-16 06:11:32,106 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:11:35,114 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:11:35,114 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:11:35,116 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3010.16ms
+2019-08-16 06:21:28,174 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:21:30,260 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:21:30,261 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:21:30,262 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2088.61ms
+2019-08-16 06:21:30,268 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:21:31,217 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:21:31,218 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:21:31,219 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 951.37ms
+2019-08-16 06:21:31,223 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:21:33,487 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:21:33,487 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:21:33,488 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2266.19ms
+2019-08-16 06:31:28,162 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:31:30,240 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:31:30,241 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:31:30,242 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2080.65ms
+2019-08-16 06:31:30,247 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:31:32,837 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:31:32,838 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:31:32,839 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2592.80ms
+2019-08-16 06:31:32,844 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:31:35,447 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:31:35,448 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 06:31:35,450 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2606.51ms
+2019-08-16 06:41:28,151 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:41:30,758 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:41:30,758 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:41:30,760 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2609.59ms
+2019-08-16 06:41:30,764 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:41:33,776 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:41:34,064 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:41:34,065 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 06:41:34,067 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3303.74ms
+2019-08-16 06:41:36,135 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:41:36,136 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 06:41:36,137 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2361.87ms
+2019-08-16 06:51:28,140 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:51:29,286 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:51:29,287 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:51:29,288 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1148.90ms
+2019-08-16 06:51:29,293 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:51:30,219 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:51:30,220 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:51:30,221 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 928.70ms
+2019-08-16 06:51:30,229 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 06:51:31,287 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:51:31,287 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 06:51:31,289 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1059.79ms
+2019-08-16 06:54:28,641 INFO 80110[service.py:504 process]: title[hbase_log_summary] message[hadoop-0034,Slow syn] to_party[27]
+2019-08-16 06:54:29,882 INFO 80110[wechat_v2.py:38 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 06:54:29,882 INFO 80110[service.py:506 process]: wechat_v2 return True
+2019-08-16 06:54:29,883 INFO 80110[web.py:2162 log_request]: 200 POST /api/msg/send/text?message=hadoop-0034%2CSlow+sync+cost%2C6%0A&to_party=27&title=hbase_log_summary (10.11.5.243) 1242.18ms
+2019-08-16 07:01:28,484 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:01:29,653 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:01:29,653 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:01:29,655 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1171.22ms
+2019-08-16 07:01:29,659 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:01:31,007 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:01:31,007 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 07:01:31,009 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1350.18ms
+2019-08-16 07:01:31,013 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:01:31,991 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:01:31,991 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 07:01:31,992 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 979.60ms
+2019-08-16 07:11:28,353 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:11:29,572 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:11:29,572 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 07:11:29,574 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1221.66ms
+2019-08-16 07:11:29,578 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:11:30,602 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:11:30,602 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:11:30,604 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1026.21ms
+2019-08-16 07:11:30,608 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:11:31,601 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:11:31,602 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:11:31,603 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 995.29ms
+2019-08-16 07:21:28,373 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:21:29,576 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:21:29,576 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:21:29,578 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1205.26ms
+2019-08-16 07:21:29,599 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:21:30,642 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:21:30,642 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:21:30,643 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1044.33ms
+2019-08-16 07:21:30,647 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:21:31,692 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:21:31,693 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:21:31,694 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1047.52ms
+2019-08-16 07:31:28,290 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:31:29,309 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:31:29,309 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 07:31:29,310 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1020.45ms
+2019-08-16 07:31:29,314 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:31:30,336 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:31:30,336 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 07:31:30,337 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1023.79ms
+2019-08-16 07:31:30,341 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:31:31,392 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:31:31,392 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 07:31:31,394 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1052.97ms
+2019-08-16 07:41:28,313 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:41:29,592 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:41:29,592 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 07:41:29,593 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1281.38ms
+2019-08-16 07:41:29,598 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:41:30,858 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:41:30,858 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 07:41:30,859 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1261.84ms
+2019-08-16 07:41:30,863 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:41:31,796 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:41:31,797 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 07:41:31,798 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 934.95ms
+2019-08-16 07:51:28,257 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:51:29,487 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:51:29,487 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:51:29,489 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1232.48ms
+2019-08-16 07:51:29,493 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:51:30,578 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:51:30,578 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:51:30,580 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1087.47ms
+2019-08-16 07:51:30,584 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 07:51:31,596 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:51:31,596 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 07:51:31,597 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1013.87ms
+2019-08-16 07:54:28,731 INFO 80111[service.py:504 process]: title[hbase_log_summary] message[hadoop-0039,Slow syn] to_party[27]
+2019-08-16 07:54:29,805 INFO 80111[wechat_v2.py:38 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 07:54:29,805 INFO 80111[service.py:506 process]: wechat_v2 return True
+2019-08-16 07:54:29,807 INFO 80111[web.py:2162 log_request]: 200 POST /api/msg/send/text?message=hadoop-0039%2CSlow+sync+cost%2C5%0A&to_party=27&title=hbase_log_summary (10.11.5.243) 1076.39ms
+2019-08-16 08:01:28,361 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:01:29,600 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:01:29,600 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 08:01:29,602 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1241.74ms
+2019-08-16 08:01:29,606 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:01:31,042 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:01:31,043 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 08:01:31,044 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1438.79ms
+2019-08-16 08:01:31,053 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:01:32,047 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:01:32,047 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 08:01:32,048 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 995.91ms
+2019-08-16 08:11:28,252 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:11:29,487 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:11:29,487 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 08:11:29,490 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1238.27ms
+2019-08-16 08:11:29,494 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:11:30,795 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:11:30,796 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 08:11:30,797 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1303.61ms
+2019-08-16 08:11:30,800 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:11:31,755 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:11:31,755 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 08:11:31,756 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 956.48ms
+2019-08-16 08:21:28,200 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:21:29,523 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:21:29,523 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 08:21:29,525 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1325.47ms
+2019-08-16 08:21:29,529 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:21:30,698 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:21:30,698 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 08:21:30,700 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1171.48ms
+2019-08-16 08:21:30,704 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:21:31,864 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:21:31,864 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 08:21:31,865 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1161.80ms
+2019-08-16 08:31:28,585 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:31:29,780 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:31:29,781 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:31:29,782 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1197.11ms
+2019-08-16 08:31:29,786 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:31:30,786 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:31:30,786 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:31:30,788 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1002.72ms
+2019-08-16 08:31:30,793 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:31:31,748 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:31:31,749 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 08:31:31,750 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 958.36ms
+2019-08-16 08:41:28,270 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:41:30,316 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:41:30,316 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:41:30,318 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2048.36ms
+2019-08-16 08:41:30,322 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:41:31,829 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:41:31,829 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:41:31,830 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1509.11ms
+2019-08-16 08:41:31,835 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:41:33,550 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:41:33,550 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:41:33,552 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1717.20ms
+2019-08-16 08:51:28,679 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:51:29,958 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:51:29,959 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 08:51:29,960 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1281.50ms
+2019-08-16 08:51:29,965 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:51:30,993 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:51:30,993 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 08:51:30,995 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1030.09ms
+2019-08-16 08:51:30,999 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 08:51:31,958 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 08:51:31,958 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 08:51:31,959 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 961.02ms
+2019-08-16 09:01:59,756 INFO 99923[service.py:479 process]: title[[告警恢复] [告警类型 Transacation告警][krs ImageController-All-failRatio]] message[[告警已恢复][�] to_party[22]
+2019-08-16 09:02:01,209 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:02:01,209 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:02:01,211 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1455.47ms
+2019-08-16 09:02:28,227 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:02:29,260 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:02:29,260 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:02:29,262 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1036.21ms
+2019-08-16 09:02:29,267 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:02:30,311 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:02:30,312 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:02:30,315 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1048.68ms
+2019-08-16 09:02:30,319 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:02:32,576 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:02:32,577 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:02:32,578 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2259.29ms
+2019-08-16 09:11:59,700 INFO 99924[service.py:479 process]: title[[告警恢复] [告警类型 Transacation告警][krs ImageController-All-failRatio]] message[[告警已恢复][�] to_party[22]
+2019-08-16 09:12:00,691 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:12:00,692 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 09:12:00,694 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 994.90ms
+2019-08-16 09:12:28,230 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:12:29,350 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:12:29,350 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:12:29,352 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1122.18ms
+2019-08-16 09:12:29,356 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:12:30,591 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:12:30,591 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:12:30,592 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1236.46ms
+2019-08-16 09:12:30,596 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:12:32,037 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:12:32,037 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:12:32,038 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1442.41ms
+2019-08-16 09:22:28,234 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:22:29,580 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:22:29,580 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:22:29,582 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1348.14ms
+2019-08-16 09:22:29,587 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:22:30,799 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:22:30,800 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:22:30,801 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1214.10ms
+2019-08-16 09:22:30,806 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:22:31,810 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:22:31,810 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 09:22:31,812 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1006.72ms
+2019-08-16 09:32:28,238 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:32:29,363 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:32:29,363 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 09:32:29,365 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1127.81ms
+2019-08-16 09:32:29,370 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:32:30,486 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:32:30,486 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 09:32:30,487 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1118.12ms
+2019-08-16 09:32:30,491 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:32:31,737 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:32:31,737 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 09:32:31,739 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1248.03ms
+2019-08-16 09:42:28,451 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:42:29,699 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:42:29,699 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 09:42:29,701 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1250.80ms
+2019-08-16 09:42:29,706 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:42:31,123 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:42:31,123 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:42:31,125 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1419.27ms
+2019-08-16 09:42:31,129 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:42:32,076 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:42:32,077 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:42:32,078 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 949.78ms
+2019-08-16 09:53:28,306 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:53:29,353 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:53:29,354 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:53:29,355 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1049.24ms
+2019-08-16 09:53:29,360 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:53:30,355 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:53:30,356 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:53:30,357 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 998.11ms
+2019-08-16 09:53:30,362 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 09:53:31,520 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 09:53:31,521 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 09:53:31,522 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1160.94ms
+2019-08-16 10:04:28,561 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:04:30,089 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:04:30,090 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 10:04:30,091 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1531.18ms
+2019-08-16 10:04:30,096 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:04:31,046 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:04:31,047 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:04:31,048 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 952.67ms
+2019-08-16 10:04:31,052 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:04:32,140 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:04:32,140 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:04:32,142 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1090.14ms
+2019-08-16 10:14:28,271 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:14:29,527 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:14:29,527 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:14:29,529 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1259.25ms
+2019-08-16 10:14:29,533 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:14:30,611 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:14:30,611 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:14:30,613 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1079.92ms
+2019-08-16 10:14:30,622 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:14:31,681 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:14:31,681 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:14:31,683 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1061.50ms
+2019-08-16 10:24:28,262 INFO 99923[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:24:29,559 INFO 99923[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:24:29,560 INFO 99923[service.py:481 process]: wechat return True
+2019-08-16 10:24:29,561 INFO 99923[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1299.50ms
+2019-08-16 10:24:29,566 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:24:30,640 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:24:30,641 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:24:30,642 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1077.21ms
+2019-08-16 10:24:30,646 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:24:32,124 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:24:32,124 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:24:32,125 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1479.79ms
+2019-08-16 10:34:28,267 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:34:30,375 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:34:30,376 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:34:30,377 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2110.08ms
+2019-08-16 10:34:30,382 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:34:32,858 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:34:32,858 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:34:32,860 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 2478.66ms
+2019-08-16 10:34:32,864 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:34:34,533 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:34:34,534 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:34:34,535 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1672.04ms
+2019-08-16 10:44:28,241 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:44:29,493 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:44:29,493 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:44:29,495 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1254.02ms
+2019-08-16 10:44:29,499 INFO 99921[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:44:30,505 INFO 99921[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:44:30,505 INFO 99921[service.py:481 process]: wechat return True
+2019-08-16 10:44:30,506 INFO 99921[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1008.07ms
+2019-08-16 10:44:30,511 INFO 99922[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:44:32,049 INFO 99922[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:44:32,049 INFO 99922[service.py:481 process]: wechat return True
+2019-08-16 10:44:32,051 INFO 99922[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1540.66ms
+2019-08-16 10:47:59,802 INFO 99924[service.py:479 process]: title[[告警恢复] [告警类型 Transacation告警][kds-data CommonDataController-All-failRatio]] message[[告警已恢复][�] to_party[22]
+2019-08-16 10:48:00,910 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:48:00,910 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:48:00,912 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1110.01ms
+2019-08-16 10:54:28,257 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: krs] [监控项: ImageController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:54:28,620 INFO 80109[service.py:504 process]: title[hbase_log_summary] message[hadoop-0052,Slow syn] to_party[27]
+2019-08-16 10:54:29,328 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:54:29,328 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:54:29,329 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1072.75ms
+2019-08-16 10:54:29,335 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: TaskDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:54:29,661 INFO 80109[wechat_v2.py:38 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:54:29,661 INFO 80109[service.py:506 process]: wechat_v2 return True
+2019-08-16 10:54:29,663 INFO 80109[web.py:2162 log_request]: 200 POST /api/msg/send/text?message=hadoop-0052%2CSlow+sync+cost%2C6%0Ahadoop-0020%2CSlow+sync+cost%2C5%0Ahadoop-0023%2CSlow+sync+cost%2C5%0Ahadoop-0038%2CSlow+sync+cost%2C5%0A&to_party=27&title=hbase_log_summary (10.11.5.243) 1043.33ms
+2019-08-16 10:54:30,357 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:54:30,358 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:54:30,359 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1024.80ms
+2019-08-16 10:54:30,363 INFO 99924[service.py:479 process]: title[[CAT Transaction告警] [项目: kds-data] [监控项: CommonDataController-All-failRatio]] message[[CAT Transaction告�] to_party[22]
+2019-08-16 10:54:31,368 INFO 99924[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-08-16 10:54:31,368 INFO 99924[service.py:481 process]: wechat return True
+2019-08-16 10:54:31,369 INFO 99924[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1007.12ms

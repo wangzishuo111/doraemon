@@ -1,0 +1,129 @@
+
+PLAY [gz-hadoop-worker] *****************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************************************************************************************************************************
+ok: [hadoop-0002]
+ok: [hadoop-0003]
+ok: [hadoop-0001]
+ok: [hadoop-0005]
+ok: [hadoop-0004]
+ok: [hadoop-0006]
+ok: [hadoop-0007]
+ok: [hadoop-0008]
+ok: [hadoop-0009]
+ok: [hadoop-0010]
+ok: [hadoop-0011]
+ok: [hadoop-0015]
+ok: [hadoop-0012]
+ok: [hadoop-0013]
+ok: [hadoop-0019]
+ok: [hadoop-0016]
+ok: [hadoop-0017]
+ok: [hadoop-0018]
+ok: [hadoop-0020]
+ok: [hadoop-0014]
+ok: [hadoop-0021]
+ok: [hadoop-0022]
+ok: [hadoop-0023]
+ok: [hadoop-0024]
+ok: [hadoop-0025]
+ok: [hadoop-0027]
+ok: [hadoop-0026]
+ok: [hadoop-0028]
+ok: [hadoop-0029]
+ok: [hadoop-0030]
+ok: [hadoop-0032]
+ok: [hadoop-0031]
+ok: [hadoop-0033]
+ok: [hadoop-0037]
+ok: [hadoop-0035]
+ok: [hadoop-0034]
+ok: [hadoop-0038]
+ok: [hadoop-0036]
+
+TASK [scp file to hadoop-worker] ********************************************************************************************************************************************************************************
+ok: [hadoop-0002]
+ok: [hadoop-0005]
+ok: [hadoop-0004]
+ok: [hadoop-0001]
+ok: [hadoop-0003]
+ok: [hadoop-0006]
+ok: [hadoop-0007]
+ok: [hadoop-0010]
+ok: [hadoop-0009]
+ok: [hadoop-0008]
+ok: [hadoop-0015]
+ok: [hadoop-0012]
+ok: [hadoop-0011]
+ok: [hadoop-0013]
+ok: [hadoop-0014]
+ok: [hadoop-0019]
+ok: [hadoop-0017]
+ok: [hadoop-0018]
+ok: [hadoop-0016]
+ok: [hadoop-0020]
+ok: [hadoop-0022]
+ok: [hadoop-0021]
+ok: [hadoop-0023]
+ok: [hadoop-0024]
+ok: [hadoop-0025]
+ok: [hadoop-0026]
+ok: [hadoop-0027]
+ok: [hadoop-0029]
+ok: [hadoop-0028]
+ok: [hadoop-0030]
+ok: [hadoop-0033]
+ok: [hadoop-0034]
+ok: [hadoop-0031]
+ok: [hadoop-0032]
+changed: [hadoop-0035]
+changed: [hadoop-0037]
+changed: [hadoop-0038]
+changed: [hadoop-0036]
+
+PLAY RECAP ******************************************************************************************************************************************************************************************************
+hadoop-0001                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0002                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0003                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0004                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0005                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0006                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0007                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0008                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0009                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0010                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0011                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0012                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0013                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0014                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0015                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0016                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0017                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0018                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0019                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0020                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0021                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0022                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0023                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0024                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0025                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0026                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0027                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0028                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0029                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0030                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0031                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0032                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0033                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0034                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0035                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0036                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0037                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0038                : ok=2    changed=1    unreachable=0    failed=0   
+
+scp -r hadoop@hadoop-0012:/opt/mr_binary /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+now do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=mr_binary -e dest_path=/opt/
+0
+[Finish] Success to deploy [854]

@@ -1,0 +1,2 @@
+2018-11-13 16:54:15,450 INFO 89710[check_automap_ver_v2.py:83 main]: mismatch list []
+[Finish] Success to check [kss-autohdmap-lane]

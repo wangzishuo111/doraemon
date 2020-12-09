@@ -1,0 +1,27 @@
+2018-11-27 14:18:49,382 INFO 124794[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:18:49,382 INFO 124794[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.79
+2018-11-27 14:18:49,390 INFO 124794[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:18:49,481 INFO 124794[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-27 14:18:49,499 INFO 124794[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-27 14:18:49,764 INFO 124794[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh start
+2018-11-27 14:18:49,764 INFO 124794[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:18:49,765 INFO 124794[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n']
+2018-11-27 14:18:49,765 INFO 124794[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-27 14:18:49,765 INFO 124794[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:18:49,766 INFO 124794[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.80
+2018-11-27 14:18:49,774 INFO 124794[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:18:49,861 INFO 124794[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-27 14:18:50,108 INFO 124794[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh start
+2018-11-27 14:18:50,109 INFO 124794[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:18:50,109 INFO 124794[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n']
+2018-11-27 14:18:50,109 INFO 124794[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-27 14:18:50,110 INFO 124794[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:18:50,110 INFO 124794[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.81
+2018-11-27 14:18:50,118 INFO 124794[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:18:50,205 INFO 124794[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-27 14:18:50,224 INFO 124794[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-27 14:18:50,479 INFO 124794[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh start
+2018-11-27 14:18:50,480 INFO 124794[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:18:50,480 INFO 124794[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n']
+2018-11-27 14:18:50,480 INFO 124794[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+[Finish] Success to deploy [603]

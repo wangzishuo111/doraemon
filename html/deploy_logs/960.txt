@@ -1,0 +1,14 @@
+
+PLAY [kts] ***********************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************
+ok: [10.11.5.77]
+
+TASK [all : Stop "kts" service] **************************************************************
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kts_mesh/kts.sh stop", "delta": "0:00:00.012264", "end": "2018-12-27 16:50:25.824826", "msg": "non-zero return code", "rc": 127, "start": "2018-12-27 16:50:25.812562", "stderr": "bash: /data/CI/kts_mesh/kts.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kts_mesh/kts.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.77                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [960]

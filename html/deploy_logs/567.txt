@@ -1,0 +1,24 @@
+2018-11-26 19:17:05,480 INFO 92453[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:17:05,480 INFO 92453[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.79:
+2018-11-26 19:17:05,491 INFO 92453[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:17:05,576 INFO 92453[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:17:05,596 INFO 92453[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:17:05,929 INFO 92453[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:17:05,929 INFO 92453[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n', u'/data/CI/kds-meta-fusion_34_13280/lib/kds-meta-fusion.jar is not started.\n']
+2018-11-26 19:17:05,930 INFO 92453[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh stop
+2018-11-26 19:17:15,940 INFO 92453[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:17:15,940 INFO 92453[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.80:
+2018-11-26 19:17:15,952 INFO 92453[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:17:16,040 INFO 92453[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-26 19:17:16,403 INFO 92453[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:17:16,403 INFO 92453[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n', u'/data/CI/kds-meta-fusion_34_13280/lib/kds-meta-fusion.jar (13280) shutdown.\n']
+2018-11-26 19:17:16,404 INFO 92453[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh stop
+2018-11-26 19:17:26,405 INFO 92453[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:17:26,405 INFO 92453[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.81:
+2018-11-26 19:17:26,417 INFO 92453[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:17:26,471 INFO 92453[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:17:26,513 INFO 92453[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:17:26,888 INFO 92453[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:17:26,888 INFO 92453[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-fusion_34_13280\n', u'kds-meta-fusion.jar\n', u'/data/CI/kds-meta-fusion_34_13280/lib/kds-meta-fusion.jar (13280) shutdown.\n']
+2018-11-26 19:17:26,889 INFO 92453[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-fusion_34_13280/kds-meta-fusion.sh stop
+[Finish] Success to deploy [567]

@@ -1,0 +1,83 @@
+
+PLAY [reco_release] ************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.111]
+ok: [10.11.5.113]
+ok: [10.11.5.114]
+ok: [10.11.5.112]
+ok: [10.11.5.115]
+ok: [10.11.5.116]
+ok: [10.11.5.118]
+ok: [10.11.5.117]
+ok: [10.11.5.121]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.122]
+ok: [10.11.5.124]
+ok: [10.11.5.123]
+ok: [10.11.5.125]
+ok: [10.11.5.126]
+ok: [10.11.5.127]
+ok: [10.11.5.129]
+ok: [10.11.5.128]
+ok: [10.11.5.132]
+ok: [10.11.5.130]
+ok: [10.11.5.131]
+ok: [10.11.5.134]
+ok: [10.11.5.133]
+
+TASK [reco_release : pull reco images op-01.gzproduction.com/kd-mr/lane:2.8] ***************************************************************************************************************************************************************
+changed: [10.11.5.115]
+changed: [10.11.5.112]
+changed: [10.11.5.113]
+changed: [10.11.5.116]
+changed: [10.11.5.111]
+changed: [10.11.5.118]
+changed: [10.11.5.117]
+changed: [10.11.5.119]
+changed: [10.11.5.121]
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:2.8", "delta": "0:00:01.768512", "end": "2018-11-07 23:34:41.823766", "msg": "non-zero return code", "rc": 1, "start": "2018-11-07 23:34:40.055254", "stderr": "error pulling image configuration: Get http://op-01.gzproduction.com/v2/kd-mr/lane/blobs/sha256:30a636bb5ee51037f9176f2378a960bac233f3d8b58f2137aaa33c09db9e3b85: dial tcp: lookup op-01.gzproduction.com on 192.168.7.2:53: write udp 10.11.5.114:53000->192.168.7.2:53: write: operation not permitted", "stderr_lines": ["error pulling image configuration: Get http://op-01.gzproduction.com/v2/kd-mr/lane/blobs/sha256:30a636bb5ee51037f9176f2378a960bac233f3d8b58f2137aaa33c09db9e3b85: dial tcp: lookup op-01.gzproduction.com on 192.168.7.2:53: write udp 10.11.5.114:53000->192.168.7.2:53: write: operation not permitted"], "stdout": "2.8: Pulling from kd-mr/lane\n50aff78429b1: Already exists\nf6d82e297bce: Already exists\n275abb2c8a6f: Already exists\n9f15a39356d6: Already exists\nfc0342a94c89: Already exists\n6d9552e7ecde: Already exists\ndbde7eb6829c: Already exists\ne11ab76561f9: Already exists\ne4e15898e587: Already exists\n9121d173bcbd: Already exists\n036ad662e046: Already exists\n9ff0ca6996c1: Already exists\n8da52dc7c7db: Already exists\n805a745df7ee: Already exists\n0568b62794c2: Already exists\n7e33398a4dbb: Already exists\nad3fe7f43700: Already exists\nf09e25543a2a: Already exists\n3d5cfac4d3ca: Already exists\ndf4c24536996: Already exists\nff06393485fd: Already exists\nef2a3fc63ec6: Already exists\n42299a3ad5e2: Already exists\n539ca434cc02: Already exists\n661f8ed25b06: Already exists\n1e7031cd8af2: Already exists\n258ff2ad510a: Already exists\n6301fd3534c9: Already exists\nb8765e7e64f9: Already exists\nb2f1bdf06391: Already exists\n48be530a3522: Already exists\n286de52f4950: Already exists\n07ce63d32cab: Already exists\n17202e2d04d2: Already exists\n1b0ce849c77d: Already exists\n165fd998e34c: Already exists\n7f0635cf8fad: Already exists\nfcaa00e69d32: Already exists\n464cbaaad9b4: Already exists\n8c8eab2497e7: Already exists\nca4f59a77b80: Already exists\nb160c98797e1: Already exists\n39c9b30c7b74: Already exists\n57e99026221a: Already exists\n8560b59815d8: Already exists\n790a8240060a: Already exists\n73cf47561098: Already exists\nbebaf06103b0: Already exists\n32e3397309b1: Already exists\nf6606f7be646: Already exists\n8fce93101b48: Already exists\n07377b8a4514: Already exists\n82c46cb1360b: Already exists\n62abe5bf5205: Already exists\n6dc8986fc154: Already exists\n3bd7de630fe0: Already exists\n308e792277c1: Already exists\n4fa7e0c4e48d: Already exists\n108622058924: Already exists\n42a4dd1473cc: Already exists\n902d8cc7cb46: Already exists\n70e69b5e8837: Already exists\nd8cfb89d9eba: Already exists\n7d4a7d4ecbc0: Already exists\ne8c1d78c153b: Already exists\nf50e6f79a456: Already exists\nb4b2c0b4a9c5: Already exists\n6e42d658b2eb: Already exists\n9aad7192e233: Already exists\n94e4ba3309b7: Already exists\n578b7054af28: Already exists\n7a1c248e074d: Already exists\ne8c0d4d34a3b: Already exists\n922c7d000af2: Already exists\n8a767e41b84d: Already exists\n5c4fdab0a988: Already exists\ne868a26132e7: Already exists\n566dc3e01d5a: Already exists\ne0b75eb3b844: Already exists\nff4f12aa7e81: Already exists\n83f7846bebbd: Already exists\n584e49ebd0de: Already exists\n1945b3533cb0: Already exists\nf93281da38d2: Already exists\n3ba011d143dc: Already exists\n12eab0471b1f: Already exists\n043146693acb: Already exists\ncfaab6a7395f: Already exists\n605c22ff1212: Already exists\nfc9d38ec5bd5: Already exists\na0553e4f219e: Already exists\na21bb7a5c320: Already exists\ncdb9cc4e55a5: Already exists\n1e98aed96a5b: Already exists\n12cab075fd44: Already exists\n73f72b206660: Already exists\n20d4a44afe30: Already exists\n61cab16d8ba1: Pulling fs layer", "stdout_lines": ["2.8: Pulling from kd-mr/lane", "50aff78429b1: Already exists", "f6d82e297bce: Already exists", "275abb2c8a6f: Already exists", "9f15a39356d6: Already exists", "fc0342a94c89: Already exists", "6d9552e7ecde: Already exists", "dbde7eb6829c: Already exists", "e11ab76561f9: Already exists", "e4e15898e587: Already exists", "9121d173bcbd: Already exists", "036ad662e046: Already exists", "9ff0ca6996c1: Already exists", "8da52dc7c7db: Already exists", "805a745df7ee: Already exists", "0568b62794c2: Already exists", "7e33398a4dbb: Already exists", "ad3fe7f43700: Already exists", "f09e25543a2a: Already exists", "3d5cfac4d3ca: Already exists", "df4c24536996: Already exists", "ff06393485fd: Already exists", "ef2a3fc63ec6: Already exists", "42299a3ad5e2: Already exists", "539ca434cc02: Already exists", "661f8ed25b06: Already exists", "1e7031cd8af2: Already exists", "258ff2ad510a: Already exists", "6301fd3534c9: Already exists", "b8765e7e64f9: Already exists", "b2f1bdf06391: Already exists", "48be530a3522: Already exists", "286de52f4950: Already exists", "07ce63d32cab: Already exists", "17202e2d04d2: Already exists", "1b0ce849c77d: Already exists", "165fd998e34c: Already exists", "7f0635cf8fad: Already exists", "fcaa00e69d32: Already exists", "464cbaaad9b4: Already exists", "8c8eab2497e7: Already exists", "ca4f59a77b80: Already exists", "b160c98797e1: Already exists", "39c9b30c7b74: Already exists", "57e99026221a: Already exists", "8560b59815d8: Already exists", "790a8240060a: Already exists", "73cf47561098: Already exists", "bebaf06103b0: Already exists", "32e3397309b1: Already exists", "f6606f7be646: Already exists", "8fce93101b48: Already exists", "07377b8a4514: Already exists", "82c46cb1360b: Already exists", "62abe5bf5205: Already exists", "6dc8986fc154: Already exists", "3bd7de630fe0: Already exists", "308e792277c1: Already exists", "4fa7e0c4e48d: Already exists", "108622058924: Already exists", "42a4dd1473cc: Already exists", "902d8cc7cb46: Already exists", "70e69b5e8837: Already exists", "d8cfb89d9eba: Already exists", "7d4a7d4ecbc0: Already exists", "e8c1d78c153b: Already exists", "f50e6f79a456: Already exists", "b4b2c0b4a9c5: Already exists", "6e42d658b2eb: Already exists", "9aad7192e233: Already exists", "94e4ba3309b7: Already exists", "578b7054af28: Already exists", "7a1c248e074d: Already exists", "e8c0d4d34a3b: Already exists", "922c7d000af2: Already exists", "8a767e41b84d: Already exists", "5c4fdab0a988: Already exists", "e868a26132e7: Already exists", "566dc3e01d5a: Already exists", "e0b75eb3b844: Already exists", "ff4f12aa7e81: Already exists", "83f7846bebbd: Already exists", "584e49ebd0de: Already exists", "1945b3533cb0: Already exists", "f93281da38d2: Already exists", "3ba011d143dc: Already exists", "12eab0471b1f: Already exists", "043146693acb: Already exists", "cfaab6a7395f: Already exists", "605c22ff1212: Already exists", "fc9d38ec5bd5: Already exists", "a0553e4f219e: Already exists", "a21bb7a5c320: Already exists", "cdb9cc4e55a5: Already exists", "1e98aed96a5b: Already exists", "12cab075fd44: Already exists", "73f72b206660: Already exists", "20d4a44afe30: Already exists", "61cab16d8ba1: Pulling fs layer"]}
+changed: [10.11.5.122]
+changed: [10.11.5.123]
+changed: [10.11.5.120]
+changed: [10.11.5.124]
+changed: [10.11.5.125]
+changed: [10.11.5.126]
+changed: [10.11.5.128]
+changed: [10.11.5.127]
+changed: [10.11.5.131]
+changed: [10.11.5.130]
+changed: [10.11.5.133]
+changed: [10.11.5.132]
+changed: [10.11.5.134]
+changed: [10.11.5.129]
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.111                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.112                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.113                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.116                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.117                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.118                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.119                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.120                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.121                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.122                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.123                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.124                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.125                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.126                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.127                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.128                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.129                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.130                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.131                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.132                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.133                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.134                : ok=2    changed=1    unreachable=0    failed=0   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/kd-mr/lane:2.8]

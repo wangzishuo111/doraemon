@@ -1,0 +1,20 @@
+
+PLAY [10.11.5.111] **************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.111]
+
+TASK [scp file to hadoop-worker] ************************************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.111]
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.111                : ok=2    changed=1    unreachable=0    failed=0   
+
+scp -r hadoop@hadoop-0025:/opt/hbase-2.0.0/logs/hbase-hadoop-rest-hadoop-0025.log /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+now do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=hbase-hadoop-rest-hadoop-0025.log -e dest_path=/home/hadoop/
+0
+[Finish] Success to deploy [648]

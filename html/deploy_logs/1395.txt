@@ -1,0 +1,9 @@
+ [WARNING]: Could not match supplied host pattern, ignoring: kds-data-
+commitedit
+
+PLAY [kds-data-commitedit] *****************************************************
+skipping: no hosts matched
+
+PLAY RECAP *********************************************************************
+
+[Finish] Success to start [1395]

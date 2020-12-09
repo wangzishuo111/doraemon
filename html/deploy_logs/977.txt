@@ -1,0 +1,14 @@
+
+PLAY [kpms] **********************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************
+ok: [10.11.5.80]
+
+TASK [all : Start "kpms" service] ************************************************************
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kpms_mesh/kpms.sh start", "delta": "0:00:00.166703", "end": "2018-12-28 17:42:54.237436", "msg": "non-zero return code", "rc": 1, "start": "2018-12-28 17:42:54.070733", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kpms_mesh\nkpms.war\nkpms.war pid=7473 alreay started.", "stdout_lines": ["/data/CI/kpms_mesh", "kpms.war", "kpms.war pid=7473 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [977]

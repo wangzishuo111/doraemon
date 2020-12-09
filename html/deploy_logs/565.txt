@@ -1,0 +1,24 @@
+2018-11-26 19:16:12,986 INFO 90988[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:16:12,986 INFO 90988[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.79:
+2018-11-26 19:16:12,992 INFO 90988[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:16:13,080 INFO 90988[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:16:13,102 INFO 90988[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:16:13,676 INFO 90988[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:16:13,676 INFO 90988[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n', u'/data/CI/kds-meta-auto_30_13270/lib/kds-meta-auto.jar (13270) shutdown.\n']
+2018-11-26 19:16:13,676 INFO 90988[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh stop
+2018-11-26 19:16:23,687 INFO 90988[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:16:23,687 INFO 90988[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.80:
+2018-11-26 19:16:23,696 INFO 90988[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:16:23,783 INFO 90988[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-26 19:16:24,150 INFO 90988[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:16:24,150 INFO 90988[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n', u'/data/CI/kds-meta-auto_30_13270/lib/kds-meta-auto.jar (13270) shutdown.\n']
+2018-11-26 19:16:24,151 INFO 90988[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh stop
+2018-11-26 19:16:34,161 INFO 90988[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:16:34,161 INFO 90988[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.81:
+2018-11-26 19:16:34,173 INFO 90988[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:16:34,226 INFO 90988[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:16:34,271 INFO 90988[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:16:34,632 INFO 90988[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:16:34,632 INFO 90988[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n', u'/data/CI/kds-meta-auto_30_13270/lib/kds-meta-auto.jar (13270) shutdown.\n']
+2018-11-26 19:16:34,633 INFO 90988[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh stop
+[Finish] Success to deploy [565]

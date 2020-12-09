@@ -1,0 +1,6 @@
+kds-data-commitEdit
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 86, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 5 values to unpack
+[Finish] Failed to deploy [394]

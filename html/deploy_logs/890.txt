@@ -1,0 +1,87 @@
+
+PLAY [autohdmap_multilane_0] *****************************************************************
+
+TASK [clean task-0] **************************************************************************
+fatal: [10.11.5.62]: UNREACHABLE! => {"changed": false, "msg": "mkdir: cannot create directory ‘/home/op/.ansible/tmp/ansible-tmp-1545447827.27-42966094136541’: No space left on device\n", "unreachable": true}
+changed: [10.11.5.42]
+changed: [10.11.5.39]
+changed: [10.11.5.36]
+changed: [10.11.5.75]
+changed: [10.11.5.78]
+changed: [10.11.5.74]
+changed: [10.11.5.33]
+changed: [10.11.5.54]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.43]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.61]
+changed: [10.11.5.38]
+changed: [10.11.5.41]
+changed: [10.11.5.35]
+changed: [10.11.5.40]
+changed: [10.11.5.44]
+changed: [10.11.5.81]
+changed: [10.11.5.32]
+changed: [10.11.5.34]
+changed: [10.11.5.79]
+changed: [10.11.5.76]
+
+PLAY [autohdmap_multilane_1] *****************************************************************
+
+TASK [clean task-1] **************************************************************************
+changed: [10.11.5.33]
+changed: [10.11.5.81]
+changed: [10.11.5.36]
+changed: [10.11.5.35]
+changed: [10.11.5.32]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.74]
+changed: [10.11.5.54]
+changed: [10.11.5.34]
+changed: [10.11.5.71]
+changed: [10.11.5.63]
+changed: [10.11.5.78]
+changed: [10.11.5.43]
+changed: [10.11.5.73]
+changed: [10.11.5.64]
+changed: [10.11.5.38]
+changed: [10.11.5.75]
+changed: [10.11.5.44]
+changed: [10.11.5.61]
+changed: [10.11.5.76]
+changed: [10.11.5.41]
+changed: [10.11.5.79]
+changed: [10.11.5.42]
+	to retry, use: --limit @/home/op/autohdmap_multilane_ma/clean_task.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.32                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.33                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.34                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.35                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.36                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.38                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.39                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.40                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.41                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.42                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.43                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.44                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.54                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.61                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.62                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.63                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.64                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.71                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.73                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.74                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.75                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.76                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.78                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.79                 : ok=2    changed=2    unreachable=0    failed=0   
+10.11.5.81                 : ok=2    changed=2    unreachable=0    failed=0   
+
+[Finish] Failed to clean [890]

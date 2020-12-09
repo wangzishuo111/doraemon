@@ -1,0 +1,36 @@
+
+PLAY [krms] *******************************************************************************************************************
+
+TASK [Gathering Facts] ********************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.80]
+
+TASK [Java_service : Stop "krms" service] *************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.80]
+
+TASK [Java_service : Copy "krms" Package To Target-Hosts] *********************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.80]
+
+TASK [Java_service : chown OWNER] *********************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.80]
+
+TASK [Java_service : Start "krms" service] ************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [10.11.5.80]
+
+TASK [Java_service : check sum] ***********************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [10.11.5.80]
+
+TASK [Java_service : show md5 sum] ********************************************************************************************
+ok: [10.11.5.80] => {
+    "md5_info['stat']['checksum']": "45f788de6e9e64eba121cbd84dfb1664"
+}
+
+PLAY RECAP ********************************************************************************************************************
+10.11.5.80                 : ok=7    changed=3    unreachable=0    failed=0   
+
+[Finish] Success to start [747]

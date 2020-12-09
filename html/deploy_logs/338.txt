@@ -1,0 +1,232 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+kds-data
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.75
+[]
+[]
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.75
+file has arrive :/data/CI/kds-data_63_23210/lib
+now start the host :10.11.5.75
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.75
+[]
+[]
+[]
+[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.75
+file has arrive :/data/CI/kds-data_75_23260/lib
+now start the host :10.11.5.75
+[]
+[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_75_23260/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.75
+[]
+[]
+[]
+[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+[u"mv: cannot stat '/data/CI/kds-data_75_23270/lib/kds-data.jar': No such file or directory\n"]
+[]
+now distribution to the host :10.11.5.75
+file has arrive :/data/CI/kds-data_75_23270/lib
+now start the host :10.11.5.75
+[]
+[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_75_23270/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.73
+[]
+[]
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.73
+file has arrive :/data/CI/kds-data_63_23210/lib
+now start the host :10.11.5.73
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.73
+[]
+[]
+[]
+[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23260/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_73_23260/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.73
+file has arrive :/data/CI/kds-data_73_23260/lib
+now start the host :10.11.5.73
+[]
+[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_73_23260/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.73
+[]
+[]
+[]
+[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23270/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_73_23270/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.73
+file has arrive :/data/CI/kds-data_73_23270/lib
+now start the host :10.11.5.73
+[]
+[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_73_23270/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.74
+[]
+[]
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.74
+file has arrive :/data/CI/kds-data_63_23210/lib
+now start the host :10.11.5.74
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.74
+[]
+[]
+[]
+[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23260/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_74_23260/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.74
+file has arrive :/data/CI/kds-data_74_23260/lib
+now start the host :10.11.5.74
+[]
+[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_74_23260/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.74
+[]
+[]
+[]
+[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23270/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_74_23270/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.74
+file has arrive :/data/CI/kds-data_74_23270/lib
+now start the host :10.11.5.74
+[]
+[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_74_23270/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.76
+[]
+[]
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.76
+file has arrive :/data/CI/kds-data_63_23210/lib
+now start the host :10.11.5.76
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.76
+[]
+[]
+[]
+[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23260/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_76_23260/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.76
+file has arrive :/data/CI/kds-data_76_23260/lib
+now start the host :10.11.5.76
+[]
+[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_76_23260/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.76
+[]
+[]
+[]
+[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23270/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_76_23270/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.76
+file has arrive :/data/CI/kds-data_76_23270/lib
+now start the host :10.11.5.76
+[]
+[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_76_23270/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.78
+[]
+[]
+[]
+[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_75_23260/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.78
+file has arrive :/data/CI/kds-data_75_23260/lib
+now start the host :10.11.5.78
+[]
+[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_75_23260/kds-data.sh already started
+right way : /mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.16.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.78
+[]
+[]
+[]
+[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar is not started.\n']
+sudo /data/CI/kds-data_75_23270/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.78
+file has arrive :/data/CI/kds-data_75_23270/lib
+now start the host :10.11.5.78
+[]
+[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+process is starting,wait a momunt
+sudo /data/CI/kds-data_75_23270/kds-data.sh already started
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 85, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [338]

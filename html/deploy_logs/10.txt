@@ -1,0 +1,83 @@
+
+PLAY [reco_release] ******************************************************************************************************************************************
+
+TASK [Gathering Facts] ***************************************************************************************************************************************
+ok: [10.11.5.111]
+ok: [10.11.5.115]
+ok: [10.11.5.112]
+ok: [10.11.5.114]
+ok: [10.11.5.113]
+ok: [10.11.5.117]
+ok: [10.11.5.118]
+ok: [10.11.5.116]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.122]
+ok: [10.11.5.121]
+ok: [10.11.5.125]
+ok: [10.11.5.124]
+ok: [10.11.5.123]
+ok: [10.11.5.126]
+ok: [10.11.5.127]
+ok: [10.11.5.129]
+ok: [10.11.5.130]
+ok: [10.11.5.128]
+ok: [10.11.5.131]
+ok: [10.11.5.132]
+ok: [10.11.5.133]
+ok: [10.11.5.134]
+
+TASK [reco_release : pull reco images 镜像名称] ******************************************************************************************************************
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.091972", "end": "2018-10-26 16:24:23.309125", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.217153", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.150110", "end": "2018-10-26 16:24:23.430585", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.280475", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.134981", "end": "2018-10-26 16:24:23.410793", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.275812", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.142991", "end": "2018-10-26 16:24:23.449045", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.306054", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.482582", "end": "2018-10-26 16:24:23.857196", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.374614", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.136981", "end": "2018-10-26 16:24:23.799901", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.662920", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.143632", "end": "2018-10-26 16:24:24.004581", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.860949", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.331217", "end": "2018-10-26 16:24:24.062076", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.730859", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.336299", "end": "2018-10-26 16:24:24.109562", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:23.773263", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.141591", "end": "2018-10-26 16:24:24.264265", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.122674", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.307936", "end": "2018-10-26 16:24:24.343089", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.035153", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.273567", "end": "2018-10-26 16:24:24.504227", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.230660", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.101910", "end": "2018-10-26 16:24:24.657459", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.555549", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.275076", "end": "2018-10-26 16:24:24.713208", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.438132", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.378621", "end": "2018-10-26 16:24:24.857624", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.479003", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.138413", "end": "2018-10-26 16:24:24.868665", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.730252", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.138595", "end": "2018-10-26 16:24:25.018493", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.879898", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.219241", "end": "2018-10-26 16:24:25.196488", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:24.977247", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.171945", "end": "2018-10-26 16:24:25.271743", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.099798", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.111701", "end": "2018-10-26 16:24:25.386342", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.274641", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.113890", "end": "2018-10-26 16:24:25.425889", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.311999", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.284336", "end": "2018-10-26 16:24:25.495009", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.210673", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.216267", "end": "2018-10-26 16:24:25.887374", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.671107", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull 镜像名称", "delta": "0:00:00.182799", "end": "2018-10-26 16:24:25.832200", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 16:24:25.649401", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/kddev/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP ***************************************************************************************************************************************************
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [镜像名称]

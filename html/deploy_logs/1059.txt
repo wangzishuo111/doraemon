@@ -1,0 +1,125 @@
+
+PLAY [reco_release] **********************************************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *******************************************************************************************************************************************************************************************************************************************************
+ok: [10.11.5.101]
+ok: [10.11.5.102]
+ok: [10.11.5.104]
+ok: [10.11.5.105]
+ok: [10.11.5.103]
+ok: [10.11.5.108]
+ok: [10.11.5.107]
+ok: [10.11.5.106]
+ok: [10.11.5.109]
+ok: [10.11.5.110]
+ok: [10.11.5.111]
+ok: [10.11.5.115]
+ok: [10.11.5.113]
+ok: [10.11.5.117]
+ok: [10.11.5.118]
+ok: [10.11.5.112]
+ok: [10.11.5.114]
+ok: [10.11.5.116]
+ok: [10.11.5.119]
+ok: [10.11.5.121]
+ok: [10.11.5.122]
+ok: [10.11.5.123]
+ok: [10.11.5.120]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.126]
+ok: [10.11.5.128]
+ok: [10.11.5.127]
+ok: [10.11.5.129]
+ok: [10.11.5.130]
+ok: [10.11.5.131]
+ok: [10.11.5.132]
+ok: [10.11.5.133]
+ok: [10.11.5.134]
+ok: [10.11.5.19]
+ok: [10.11.5.20]
+ok: [10.11.5.21]
+ok: [10.11.5.22]
+
+TASK [reco_release : pull reco images op-01.gzproduction.com/kd-mr/lane:4.1.2] ***********************************************************************************************************************************************************************************************
+fatal: [10.11.5.101]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.605237", "end": "2019-01-04 12:01:55.287017", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:54.681780", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.104]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.590261", "end": "2019-01-04 12:01:55.369556", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:54.779295", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.102]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.658096", "end": "2019-01-04 12:01:55.334600", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:54.676504", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.105]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.619449", "end": "2019-01-04 12:01:55.478024", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:54.858575", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.106]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.486932", "end": "2019-01-04 12:01:56.163900", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:55.676968", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.108]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.413640", "end": "2019-01-04 12:01:56.148636", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:55.734996", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.107]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.459103", "end": "2019-01-04 12:01:56.133167", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:55.674064", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.109]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.413032", "end": "2019-01-04 12:01:56.163405", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:55.750373", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.110]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.233092", "end": "2019-01-04 12:01:56.719346", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.486254", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.103]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:02.086331", "end": "2019-01-04 12:01:56.839886", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:54.753555", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.265519", "end": "2019-01-04 12:01:56.840324", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.574805", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.286051", "end": "2019-01-04 12:01:56.924180", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.638129", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.210451", "end": "2019-01-04 12:01:57.144824", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.934373", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.288016", "end": "2019-01-04 12:01:57.286963", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.998947", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.216491", "end": "2019-01-04 12:01:57.309041", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:57.092550", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.484059", "end": "2019-01-04 12:01:57.719384", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:57.235325", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.352017", "end": "2019-01-04 12:01:57.844116", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:57.492099", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.476408", "end": "2019-01-04 12:01:58.158009", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:57.681601", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.495711", "end": "2019-01-04 12:01:58.194699", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:57.698988", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:01.825693", "end": "2019-01-04 12:01:58.314196", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:56.488503", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.621875", "end": "2019-01-04 12:01:58.659374", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.037499", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.482951", "end": "2019-01-04 12:01:58.708181", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.225230", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.360989", "end": "2019-01-04 12:01:58.770622", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.409633", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.445723", "end": "2019-01-04 12:01:59.008064", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.562341", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.438069", "end": "2019-01-04 12:01:59.023144", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.585075", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.216175", "end": "2019-01-04 12:01:59.065238", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:58.849063", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.386312", "end": "2019-01-04 12:01:59.469732", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.083420", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.222087", "end": "2019-01-04 12:01:59.333062", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.110975", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.202863", "end": "2019-01-04 12:01:59.497793", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.294930", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.227370", "end": "2019-01-04 12:01:59.590482", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.363112", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.320307", "end": "2019-01-04 12:01:59.559997", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.239690", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.234234", "end": "2019-01-04 12:01:59.878003", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.643769", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.380669", "end": "2019-01-04 12:02:00.091766", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.711097", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.19]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.754252", "end": "2019-01-03 23:02:00.589747", "msg": "non-zero return code", "rc": 1, "start": "2019-01-03 23:01:59.835495", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.863313", "end": "2019-01-04 12:02:00.568332", "msg": "non-zero return code", "rc": 1, "start": "2019-01-04 12:01:59.705019", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.20]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:01.176807", "end": "2019-01-03 23:02:01.045740", "msg": "non-zero return code", "rc": 1, "start": "2019-01-03 23:01:59.868933", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.21]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:01.058016", "end": "2019-01-03 23:02:01.232182", "msg": "non-zero return code", "rc": 1, "start": "2019-01-03 23:02:00.174166", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.22]: FAILED! => {"changed": true, "cmd": "docker pull op-01.gzproduction.com/kd-mr/lane:4.1.2", "delta": "0:00:00.978608", "end": "2019-01-03 23:02:01.424850", "msg": "non-zero return code", "rc": 1, "start": "2019-01-03 23:02:00.446242", "stderr": "Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found", "stderr_lines": ["Error response from daemon: manifest for op-01.gzproduction.com/kd-mr/lane:4.1.2 not found"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP *******************************************************************************************************************************************************************************************************************************************************************
+10.11.5.101                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.102                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.103                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.104                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.105                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.106                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.107                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.108                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.109                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.110                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.19                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.20                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.21                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.22                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/kd-mr/lane:4.1.2]

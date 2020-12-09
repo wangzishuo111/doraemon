@@ -1,0 +1,126 @@
+1
+
+PLAY [gz-hadoop-worker] *******************************************************************************
+
+TASK [Gathering Facts] ********************************************************************************
+ok: [hadoop-0001]
+ok: [hadoop-0005]
+ok: [hadoop-0004]
+ok: [hadoop-0003]
+ok: [hadoop-0006]
+ok: [hadoop-0007]
+ok: [hadoop-0002]
+ok: [hadoop-0008]
+ok: [hadoop-0009]
+ok: [hadoop-0011]
+ok: [hadoop-0010]
+ok: [hadoop-0012]
+ok: [hadoop-0013]
+ok: [hadoop-0016]
+ok: [hadoop-0015]
+ok: [hadoop-0017]
+ok: [hadoop-0014]
+ok: [hadoop-0018]
+ok: [hadoop-0020]
+ok: [hadoop-0019]
+ok: [hadoop-0022]
+ok: [hadoop-0021]
+ok: [hadoop-0023]
+ok: [hadoop-0024]
+ok: [hadoop-0026]
+ok: [hadoop-0027]
+ok: [hadoop-0025]
+ok: [hadoop-0028]
+ok: [hadoop-0029]
+ok: [hadoop-0030]
+ok: [hadoop-0033]
+ok: [hadoop-0032]
+ok: [hadoop-0031]
+ok: [hadoop-0035]
+ok: [hadoop-0037]
+ok: [hadoop-0036]
+ok: [hadoop-0038]
+ok: [hadoop-0034]
+
+TASK [copy model to hadoop cluster] *******************************************************************
+changed: [hadoop-0003]
+changed: [hadoop-0004]
+changed: [hadoop-0001]
+changed: [hadoop-0005]
+changed: [hadoop-0002]
+fatal: [hadoop-0008]: FAILED! => {"changed": false, "checksum": "484eb3eec145a032da421af010360853f289f7ca", "expected_checksum": "dbe1a146dd5bad347afa87df529c9e96744fa798", "msg": "Copied file does not match the expected checksum. Transfer failed."}
+fatal: [hadoop-0007]: FAILED! => {"changed": false, "checksum": "484eb3eec145a032da421af010360853f289f7ca", "expected_checksum": "dbe1a146dd5bad347afa87df529c9e96744fa798", "msg": "Copied file does not match the expected checksum. Transfer failed."}
+fatal: [hadoop-0010]: FAILED! => {"changed": false, "checksum": "484eb3eec145a032da421af010360853f289f7ca", "expected_checksum": "dbe1a146dd5bad347afa87df529c9e96744fa798", "msg": "Copied file does not match the expected checksum. Transfer failed."}
+fatal: [hadoop-0009]: FAILED! => {"changed": false, "checksum": "484eb3eec145a032da421af010360853f289f7ca", "expected_checksum": "dbe1a146dd5bad347afa87df529c9e96744fa798", "msg": "Copied file does not match the expected checksum. Transfer failed."}
+fatal: [hadoop-0006]: FAILED! => {"changed": false, "checksum": "484eb3eec145a032da421af010360853f289f7ca", "expected_checksum": "dbe1a146dd5bad347afa87df529c9e96744fa798", "msg": "Copied file does not match the expected checksum. Transfer failed."}
+changed: [hadoop-0014]
+changed: [hadoop-0012]
+changed: [hadoop-0011]
+changed: [hadoop-0013]
+changed: [hadoop-0015]
+changed: [hadoop-0017]
+changed: [hadoop-0019]
+changed: [hadoop-0016]
+changed: [hadoop-0018]
+changed: [hadoop-0020]
+changed: [hadoop-0024]
+changed: [hadoop-0021]
+changed: [hadoop-0023]
+changed: [hadoop-0022]
+changed: [hadoop-0025]
+changed: [hadoop-0027]
+changed: [hadoop-0029]
+changed: [hadoop-0026]
+changed: [hadoop-0028]
+changed: [hadoop-0030]
+changed: [hadoop-0031]
+changed: [hadoop-0034]
+changed: [hadoop-0035]
+changed: [hadoop-0032]
+changed: [hadoop-0033]
+changed: [hadoop-0036]
+changed: [hadoop-0038]
+changed: [hadoop-0037]
+	to retry, use: --limit @/opt/doraemon/model-release.retry
+
+PLAY RECAP ********************************************************************************************
+hadoop-0001                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0002                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0003                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0004                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0005                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0006                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0007                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0008                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0009                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0010                : ok=1    changed=0    unreachable=0    failed=1   
+hadoop-0011                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0012                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0013                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0014                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0015                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0016                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0017                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0018                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0019                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0020                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0021                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0022                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0023                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0024                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0025                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0026                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0027                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0028                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0029                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0030                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0031                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0032                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0033                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0034                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0035                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0036                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0037                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0038                : ok=2    changed=1    unreachable=0    failed=0   
+
+2

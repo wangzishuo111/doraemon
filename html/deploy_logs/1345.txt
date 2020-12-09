@@ -1,0 +1,30 @@
+
+PLAY [task-frame-management] ***************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.80]
+
+TASK [all : Stop "task-frame-management" service] ******************************
+changed: [10.11.5.80]
+
+TASK [all : Copy "task-frame-management" Package To Target-Hosts] **************
+changed: [10.11.5.80]
+
+TASK [all : chown OWNER] *******************************************************
+ok: [10.11.5.80]
+
+TASK [all : Start "task-frame-management" service] *****************************
+changed: [10.11.5.80]
+
+TASK [all : check sum] *********************************************************
+ok: [10.11.5.80]
+
+TASK [all : show md5 sum] ******************************************************
+ok: [10.11.5.80] => {
+    "md5_info['stat']['checksum']": "15e9f8b65f5da080b0bb42af262cf1d4"
+}
+
+PLAY RECAP *********************************************************************
+10.11.5.80                 : ok=7    changed=3    unreachable=0    failed=0   
+
+[Finish] Success to start [1345]

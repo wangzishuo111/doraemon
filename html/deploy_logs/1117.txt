@@ -1,0 +1,175 @@
+
+PLAY [gz-hadoop-worker] ********************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [hadoop-0002]
+ok: [hadoop-0003]
+ok: [hadoop-0004]
+ok: [hadoop-0005]
+ok: [hadoop-0001]
+ok: [hadoop-0006]
+ok: [hadoop-0007]
+ok: [hadoop-0008]
+ok: [hadoop-0009]
+ok: [hadoop-0010]
+ok: [hadoop-0011]
+ok: [hadoop-0012]
+ok: [hadoop-0013]
+ok: [hadoop-0015]
+ok: [hadoop-0016]
+Process WorkerProcess-17:
+Process WorkerProcess-20:
+Process WorkerProcess-14:
+Traceback (most recent call last):
+Process WorkerProcess-19:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process WorkerProcess-18:
+Traceback (most recent call last):
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self.run()
+    self.run()
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self._final_q
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/normal.py", line 55, in run
+    self._remove_tmp_path(self._connection._shell.tmpdir)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 352, in _remove_tmp_path
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/normal.py", line 46, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/normal.py", line 46, in run
+    result = merge_hash(result, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = merge_hash(result, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/normal.py", line 46, in run
+    tmp_rm_res = self._low_level_execute_command(cmd, sudoable=False)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    result = merge_hash(result, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 836, in _execute_module
+ [ERROR]: User interrupted execution
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    res = self._execute()
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/normal.py", line 46, in run
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+    self._fixup_perms2(remote_files, self._play_context.remote_user)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    result = merge_hash(result, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 470, in _fixup_perms2
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = func(*args, **kwargs)
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+    res = self._remote_chmod(remote_paths, 'u+x')
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 481, in _remote_chmod
+    events = selector.select(timeout)
+KeyboardInterrupt
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    res = self._low_level_execute_command(cmd, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    events = selector.select(timeout)
+    result = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+KeyboardInterrupt
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+scp -r hadoop@hadoop-0015:/opt/mr_binary/test_multi_polesign_client /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+now do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=test_multi_polesign_client -e dest_path=/opt/mr_binary
+2
+[Finish] Failed to deploy [1117]

@@ -1,0 +1,15 @@
+
+PLAY [autohdmap_lane] ************************************************************************************************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : Run container for autohdmap_lane op-01.gzproduction.com/autohdmap/autohdmap_lane:v4.6.8] ******************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+changed: [10.11.5.137]
+
+PLAY RECAP ***********************************************************************************************************************************************************************
+10.11.5.137                : ok=2    changed=1    unreachable=0    failed=0   
+
+[Finish] Success to deploy [op-01.gzproduction.com/autohdmap/autohdmap_lane:v4.6.8]

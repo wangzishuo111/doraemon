@@ -1,0 +1,7 @@
+---
+- hosts: gz-hadoop-worker
+  become: yes
+  #name: model-release
+  tasks:
+    - name: copy model to hadoop cluster
+      copy: src=/tmp/{{ dir }} dest=/data2/model/sign-retina-mask/ owner=hadoop group=hadoop

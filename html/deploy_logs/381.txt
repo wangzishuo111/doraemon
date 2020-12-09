@@ -1,0 +1,22 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+now oprate the host : 10.11.5.36the instance is autohdmap_lane_0
+docker exec autohdmap_lane_0 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : 10.11.5.36the instance is autohdmap_lane_1
+docker exec autohdmap_lane_1 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clear fail !!!
+error list is : [u"rm: cannot remove '/data/CI/autohdmap_lane/task_1495068/test_1003273_20180629113013150/objects': Directory not empty\n"]
+stdout list is : []
+now oprate the host : 10.11.5.36the instance is autohdmap_lane_2
+docker exec autohdmap_lane_2 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+now oprate the host : 10.11.5.36the instance is autohdmap_lane_3
+docker exec autohdmap_lane_3 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clear fail !!!
+error list is : [u"rm: cannot remove '/data/CI/autohdmap_lane/task_1495045/test_1000019_20180728144009623/objects': Directory not empty\n"]
+stdout list is : []
+now oprate the host : 10.11.5.36the instance is autohdmap_lane_4
+docker exec autohdmap_lane_4 bash -c rm -rf /data/CI/autohdmap_lane/task_*
+clean up over
+[Finish] Success to deploy [381]

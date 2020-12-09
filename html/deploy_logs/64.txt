@@ -1,0 +1,16 @@
+
+PLAY [autohdmap_lane] **************************************************************************************
+
+TASK [Gathering Facts] *************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : run container for container_name image_name] ****************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+fatal: [10.11.5.137]: FAILED! => {"changed": false, "msg": "Error pulling image image_name:latest - 404 Client Error: Not Found (\"pull access denied for image_name, repository does not exist or may require 'docker login'\")"}
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy_v2/autohdmap_lane.retry
+
+PLAY RECAP *************************************************************************************************
+10.11.5.137                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [image_name]

@@ -1,0 +1,30 @@
+kds-data-copyData
+2018-11-21 11:22:26,335 INFO 19412[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-copyData_release/v1.16.4.RELEASE/kds-data-copyData.jar
+2018-11-21 11:22:26,335 INFO 19412[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:22:26,343 INFO 19412[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-21 11:22:26,564 INFO 19412[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:22:26,602 INFO 19412[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:22:26,784 INFO 19412[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:22:26,784 INFO 19412[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:22:26,785 INFO 19412[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:22:27,008 INFO 19412[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh stop]
+2018-11-21 11:22:27,008 INFO 19412[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:22:27,009 INFO 19412[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n', u'/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar (23240) shutdown.\n']
+2018-11-21 11:22:37,038 INFO 19412[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar_bak]
+2018-11-21 11:22:37,038 INFO 19412[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:22:37,038 INFO 19412[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:22:37,039 INFO 19412[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:22:37,051 INFO 19412[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:22:37,258 INFO 19412[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:22:37,294 INFO 19412[transport.py:1546 _log]: Authentication (password) successful!
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 90, in <module>
+    release_service(ip , krs_sh, krs_jar, krs_jar_bak,release_path, lib_path, server)
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 61, in release_service
+    scp.send_file(jar_file, preserve_times=True)
+  File "/usr/local/lib/python2.7/dist-packages/scpclient.py", line 301, in _send_file
+    with open(local_filename, 'rb') as fl:
+IOError: [Errno 13] Permission denied: '/mnt/data1/release-data/kds-data-copyData_release/v1.16.4.RELEASE/kds-data-copyData.jar'
+[Finish] Failed to deploy [391]

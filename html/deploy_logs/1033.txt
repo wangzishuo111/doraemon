@@ -1,0 +1,16 @@
+web_editor
+yor path is : /mnt/data1/release-data/web_editor_release/v2.5.1/ 
+right way : /mnt/data1/release-data/web_editor_release/v2.5.1/web_editor.tar.gz
+rm the web_bak
+error_list is :  []
+stdout_list is :  []
+mv the web to web_bak
+error_list is :  []
+stdout_list is :  []
+uzip the web to web.tar
+error_list is :  []
+stdout_list is :  []
+now is check config
+error_list is :  []
+stdout_list is :  []
+[Finish] Success to deploy [1033]

@@ -1,0 +1,33 @@
+2018-11-26 19:14:16,510 INFO 87831[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:16,510 INFO 87831[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:14:16,522 INFO 87831[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:16,615 INFO 87831[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:16,637 INFO 87831[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:17,063 INFO 87831[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:17,063 INFO 87831[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-26 19:14:17,063 INFO 87831[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop
+2018-11-26 19:14:27,073 INFO 87831[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:27,074 INFO 87831[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:14:27,086 INFO 87831[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:27,138 INFO 87831[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:27,182 INFO 87831[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:27,606 INFO 87831[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:27,607 INFO 87831[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-26 19:14:27,607 INFO 87831[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop
+2018-11-26 19:14:37,617 INFO 87831[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:37,617 INFO 87831[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-26 19:14:37,629 INFO 87831[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:37,684 INFO 87831[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:37,726 INFO 87831[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:38,149 INFO 87831[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:38,150 INFO 87831[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-26 19:14:38,150 INFO 87831[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop
+2018-11-26 19:14:48,151 INFO 87831[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:48,152 INFO 87831[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-26 19:14:48,164 INFO 87831[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:48,216 INFO 87831[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:48,261 INFO 87831[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:48,678 INFO 87831[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:48,679 INFO 87831[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n', u'/data/CI/kds-data-commitEdit_73_23230/lib/kds-data-commitEdit.jar (23230) shutdown.\n']
+2018-11-26 19:14:48,679 INFO 87831[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh stop
+[Finish] Success to deploy [560]

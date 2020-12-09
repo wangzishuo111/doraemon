@@ -1,0 +1,22 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+kds-data
+right way : /mnt/data1/release-data/kds-data_release/v1.6.3.RELEASE//mnt/data1/release-data/kds-data_release/v1.6.3.RELEASE/kds-data.jar
+now opreate the host :10.11.5.75
+[]
+[]
+[]
+[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+sudo /data/CI/kds-data_63_23210/kds-data.sh stop
+[]
+[]
+now distribution to the host :10.11.5.75
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 88, in <module>
+    release_service(ip , krs_sh, krs_jar, krs_jar_bak,release_path, lib_path, server)
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 59, in release_service
+    scp.send_file(jar_file, preserve_times=True)
+  File "/usr/local/lib/python2.7/dist-packages/scpclient.py", line 301, in _send_file
+    with open(local_filename, 'rb') as fl:
+IOError: [Errno 13] Permission denied: '/mnt/data1/release-data/kds-data_release/v1.6.3.RELEASE/kds-data.jar'
+[Finish] Failed to deploy [325]

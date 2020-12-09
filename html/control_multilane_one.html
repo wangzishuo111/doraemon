@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script language="javascript" type="text/javascript" src="js/getUsername.js"></script>
+<!-- bootstrap-css -->
+<link rel="stylesheet" href="css/bootstrap.css">
+<!-- //bootstrap-css -->
+<!-- Custom CSS -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- font CSS -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<!-- font-awesome icons -->
+<link rel="stylesheet" href="css/font.css" type="text/css"/>
+<link href="css/font-awesome.css" rel="stylesheet">
+<!-- //font-awesome icons -->
+<script>
+        (function () {
+          var js;
+          if (typeof JSON !== 'undefined' && 'querySelector' in document && 'addEventListener' in window) {
+            js = 'js/jquery.min.js';
+          } else {
+            js = 'js/jquery.min.js';
+          }
+          document.write('<script src="' + js + '"><\/script>');
+        }());
+ </script>
+<script src="js/modernizr.js"></script>
+<script src="js/jquery.cookie.js"></script>
+<script src="js/screenfull.js"></script>
+		<script>
+		$(function () {
+			$('#supported').text('Supported/allowed: ' + !!screenfull.enabled);
+
+			if (!screenfull.enabled) {
+				return false;
+			}
+
+			$('#toggle').click(function () {
+				screenfull.toggle($('#container')[0]);
+			});
+		});
+		</script>
+<!-- charts -->
+<script src="js/raphael-min.js"></script>
+<script src="js/morris.js"></script>
+<link rel="stylesheet" href="css/morris.css">
+<!-- //charts -->
+<!--skycons-icons-->
+<script src="js/skycons.js"></script>
+<!--//skycons-icons-->	
+<style>
+.divsize{ border:8px solid #F00; border-color:gray;  width:650px; height:550px} 
+</style>
+</head>
+<body class="dashboard-page" onLoad="getUsername()" >
+	<script>
+	        var theme = $.cookie('protonTheme') || 'default';
+	        $('body').removeClass (function (index, css) {
+	            return (css.match (/\btheme-\S+/g) || []).join(' ');
+	        });
+	        if (theme !== 'default') $('body').addClass(theme);
+        </script>
+
+	<div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网页模板</a></div>
+	<section class="wrapper scrollable">
+		<nav class="user-menu">
+			<a href="javascript:;" class="main-menu-access">
+			<i class="icon-proton-logo"></i>
+			<i class="icon-reorder"></i>
+			</a>
+		</nav>
+		<div class="main-grid">
+			<!--<iframe src="auto_start.html" frameborder="0" height="750" width="1700"></iframe>-->
+			<div class="agile-signup">
+			<div class="divsize">
+				<div class="grids-heading gallery-heading signup-heading">
+					<h2>autohdmap_multilane opreation center</h2>
+				</div>
+				<form action="/api/autohdmap_multilane_one/control" method="get">
+					<input type="text" style="width:550px;height:50px;margin-top:10% ;margin-left:7%" name="instance_id" onfocus="this.value = '';" placeholder="10.11.5.44:KSS-AUTOMAP-MULTILANE:20550">
+					<input type="text" name="action" style="width:550px;height:50px;margin-top:14%;margin-left:7%" onfocus="this.value = '';" placeholder="start,stop">
+					<input type="hidden" name="username" id="user" style="width:550px;height:50px;margin-top:14%;margin-left:7%" >
+					<input type="submit" style="margin-left:6%" class="register" value="Go">
+				</form>
+			</div>
+		</div>
+		</div>
+
+	</section>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/proton.js"></script>
+
+</body>
+</html>

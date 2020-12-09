@@ -1,0 +1,201 @@
+
+PLAY [autohdmap_lane_0] **********************************************************************
+
+TASK [clean task-0] **************************************************************************
+fatal: [10.11.5.62]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_0 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.095915", "end": "2018-12-22 23:28:50.157045", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:28:50.061130", "stderr": "Error: No such container: autohdmap_lane_0", "stderr_lines": ["Error: No such container: autohdmap_lane_0"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.64]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_0 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.101951", "end": "2018-12-22 23:28:50.170725", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:28:50.068774", "stderr": "Error: No such container: autohdmap_lane_0", "stderr_lines": ["Error: No such container: autohdmap_lane_0"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.63]
+changed: [10.11.5.12]
+changed: [10.11.5.11]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.42]
+changed: [10.11.5.61]
+changed: [10.11.5.40]
+changed: [10.11.5.13]
+changed: [10.11.5.32]
+changed: [10.11.5.74]
+changed: [10.11.5.36]
+changed: [10.11.5.39]
+changed: [10.11.5.54]
+changed: [10.11.5.43]
+changed: [10.11.5.4]
+changed: [10.11.5.38]
+changed: [10.11.5.84]
+changed: [10.11.5.86]
+changed: [10.11.5.1]
+changed: [10.11.5.34]
+changed: [10.11.5.44]
+changed: [10.11.5.78]
+changed: [10.11.5.35]
+changed: [10.11.5.76]
+changed: [10.11.5.80]
+changed: [10.11.5.79]
+changed: [10.11.5.2]
+changed: [10.11.5.33]
+changed: [10.11.5.82]
+changed: [10.11.5.41]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.81]
+changed: [10.11.5.83]
+changed: [10.11.5.3]
+
+PLAY [autohdmap_lane_1] **********************************************************************
+
+TASK [clean task-1] **************************************************************************
+changed: [10.11.5.33]
+changed: [10.11.5.86]
+changed: [10.11.5.13]
+changed: [10.11.5.85]
+changed: [10.11.5.11]
+changed: [10.11.5.14]
+changed: [10.11.5.4]
+changed: [10.11.5.39]
+changed: [10.11.5.2]
+changed: [10.11.5.32]
+changed: [10.11.5.42]
+changed: [10.11.5.34]
+changed: [10.11.5.35]
+changed: [10.11.5.61]
+changed: [10.11.5.76]
+changed: [10.11.5.79]
+changed: [10.11.5.36]
+changed: [10.11.5.12]
+changed: [10.11.5.1]
+changed: [10.11.5.38]
+changed: [10.11.5.63]
+changed: [10.11.5.54]
+changed: [10.11.5.74]
+changed: [10.11.5.44]
+changed: [10.11.5.78]
+changed: [10.11.5.40]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.83]
+changed: [10.11.5.71]
+changed: [10.11.5.80]
+changed: [10.11.5.43]
+changed: [10.11.5.41]
+changed: [10.11.5.73]
+changed: [10.11.5.84]
+changed: [10.11.5.3]
+
+PLAY [autohdmap_lane_2] **********************************************************************
+
+TASK [clean task-2] **************************************************************************
+changed: [10.11.5.11]
+changed: [10.11.5.1]
+changed: [10.11.5.13]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.35]
+changed: [10.11.5.36]
+changed: [10.11.5.61]
+changed: [10.11.5.42]
+changed: [10.11.5.54]
+changed: [10.11.5.2]
+changed: [10.11.5.39]
+changed: [10.11.5.76]
+changed: [10.11.5.71]
+changed: [10.11.5.33]
+changed: [10.11.5.41]
+changed: [10.11.5.34]
+changed: [10.11.5.63]
+changed: [10.11.5.79]
+changed: [10.11.5.12]
+changed: [10.11.5.78]
+changed: [10.11.5.83]
+changed: [10.11.5.4]
+changed: [10.11.5.43]
+changed: [10.11.5.81]
+changed: [10.11.5.38]
+changed: [10.11.5.32]
+changed: [10.11.5.40]
+changed: [10.11.5.44]
+changed: [10.11.5.74]
+changed: [10.11.5.73]
+changed: [10.11.5.80]
+changed: [10.11.5.82]
+changed: [10.11.5.84]
+changed: [10.11.5.3]
+
+PLAY [autohdmap_lane_3] **********************************************************************
+
+TASK [clean task-3] **************************************************************************
+fatal: [10.11.5.86]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.092852", "end": "2018-12-22 23:29:43.320545", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.227693", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.33]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.100739", "end": "2018-12-22 23:29:43.321630", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.220891", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.14]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.142162", "end": "2018-12-22 23:29:43.291920", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.149758", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.13]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.104493", "end": "2018-12-22 23:29:43.344228", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.239735", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.32]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.135358", "end": "2018-12-22 23:29:43.369126", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.233768", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.85]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.131578", "end": "2018-12-22 23:29:43.370734", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.239156", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.36]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.115693", "end": "2018-12-22 23:29:43.454593", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.338900", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.73]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.085640", "end": "2018-12-22 23:29:43.478261", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.392621", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.42]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.091891", "end": "2018-12-22 23:29:43.474491", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.382600", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.61]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.083313", "end": "2018-12-22 23:29:43.511491", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.428178", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.41]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.091208", "end": "2018-12-22 23:29:43.488797", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.397589", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.35]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.133747", "end": "2018-12-22 23:29:43.495145", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.361398", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.44]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.097197", "end": "2018-12-22 23:29:43.508086", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.410889", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.71]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.076385", "end": "2018-12-22 23:29:43.511085", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.434700", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.76]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.084227", "end": "2018-12-22 23:29:43.506710", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.422483", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.39]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.095058", "end": "2018-12-22 23:29:43.520374", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.425316", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.63]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.067696", "end": "2018-12-22 23:29:43.512804", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.445108", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.83]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.078995", "end": "2018-12-22 23:29:43.529566", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.450571", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.38]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.176890", "end": "2018-12-22 23:29:43.536881", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.359991", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.54]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.141166", "end": "2018-12-22 23:29:43.542733", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.401567", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.091004", "end": "2018-12-22 23:29:43.554079", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.463075", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.43]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.122722", "end": "2018-12-22 23:29:43.560501", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.437779", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.79]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.126593", "end": "2018-12-22 23:29:43.579098", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.452505", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.34]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.176597", "end": "2018-12-22 23:29:43.562337", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.385740", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.40]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.187821", "end": "2018-12-22 23:29:43.601334", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.413513", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.74]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.137490", "end": "2018-12-22 23:29:43.621634", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.484144", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.78]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.135426", "end": "2018-12-22 23:29:43.613783", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.478357", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.153935", "end": "2018-12-22 23:29:43.631132", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.477197", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.84]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.185461", "end": "2018-12-22 23:29:43.737178", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.551717", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.82]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.244215", "end": "2018-12-22 23:29:43.897657", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 23:29:43.653442", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+
+PLAY [autohdmap_lane_4] **********************************************************************
+	to retry, use: --limit @/home/op/autohdmap_lane_release/clean_task.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.1                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.11                 : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.12                 : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.13                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.14                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.2                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.3                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.32                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.33                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.34                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.35                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.36                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.38                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.39                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.4                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.40                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.41                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.42                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.43                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.44                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.54                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.61                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.62                 : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.63                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.64                 : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.71                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.73                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.74                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.76                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.78                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.79                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.80                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.81                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.82                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.83                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.84                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.85                 : ok=3    changed=3    unreachable=0    failed=1   
+10.11.5.86                 : ok=3    changed=3    unreachable=0    failed=1   
+
+[Finish] Failed to clean [924]

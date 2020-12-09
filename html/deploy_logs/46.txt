@@ -1,0 +1,83 @@
+
+PLAY [reco_release] **********************************************************************************************************************************************************
+
+TASK [Gathering Facts] *******************************************************************************************************************************************************
+ok: [10.11.5.113]
+ok: [10.11.5.111]
+ok: [10.11.5.115]
+ok: [10.11.5.114]
+ok: [10.11.5.112]
+ok: [10.11.5.116]
+ok: [10.11.5.117]
+ok: [10.11.5.118]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.121]
+ok: [10.11.5.123]
+ok: [10.11.5.122]
+ok: [10.11.5.125]
+ok: [10.11.5.124]
+ok: [10.11.5.126]
+ok: [10.11.5.127]
+ok: [10.11.5.130]
+ok: [10.11.5.128]
+ok: [10.11.5.129]
+ok: [10.11.5.131]
+ok: [10.11.5.132]
+ok: [10.11.5.134]
+ok: [10.11.5.133]
+
+TASK [reco_release : pull reco images 11] ************************************************************************************************************************************
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.839459", "end": "2018-11-04 11:11:48.602357", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:44.762898", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.855393", "end": "2018-11-04 11:11:48.516476", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:44.661083", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.852049", "end": "2018-11-04 11:11:48.482413", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:44.630364", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.885048", "end": "2018-11-04 11:11:48.492346", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:44.607298", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:04.012979", "end": "2018-11-04 11:11:48.705604", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:44.692625", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.667846", "end": "2018-11-04 11:11:52.526904", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:48.859058", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.810077", "end": "2018-11-04 11:11:52.736265", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:48.926188", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.893447", "end": "2018-11-04 11:11:52.907161", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:49.013714", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:04.024120", "end": "2018-11-04 11:11:53.017028", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:48.992908", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:04.189262", "end": "2018-11-04 11:11:53.100596", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:48.911334", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.779321", "end": "2018-11-04 11:11:56.791238", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:53.011917", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.957016", "end": "2018-11-04 11:11:56.821421", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:52.864405", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.897284", "end": "2018-11-04 11:11:57.078053", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:53.180769", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.860156", "end": "2018-11-04 11:11:57.171686", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:53.311530", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.978911", "end": "2018-11-04 11:11:57.423530", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:53.444619", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.732290", "end": "2018-11-04 11:12:00.896609", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:57.164319", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:04.066680", "end": "2018-11-04 11:12:01.195307", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:57.128627", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.842146", "end": "2018-11-04 11:12:01.604392", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:57.762246", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:04.434025", "end": "2018-11-04 11:12:01.907284", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:57.473259", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:05.053955", "end": "2018-11-04 11:12:02.533396", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:11:57.479441", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.955756", "end": "2018-11-04 11:12:05.297325", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:12:01.341569", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.881196", "end": "2018-11-04 11:12:05.457146", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:12:01.575950", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.958872", "end": "2018-11-04 11:12:05.960018", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:12:02.001146", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull 11", "delta": "0:00:03.800575", "end": "2018-11-04 11:12:06.064813", "msg": "non-zero return code", "rc": 1, "start": "2018-11-04 11:12:02.264238", "stderr": "Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for 11, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP *******************************************************************************************************************************************************************
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [11]

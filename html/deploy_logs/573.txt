@@ -1,0 +1,37 @@
+2018-11-26 19:23:09,915 INFO 111218[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:23:09,915 INFO 111218[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:23:09,924 INFO 111218[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:23:10,012 INFO 111218[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:23:10,034 INFO 111218[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:23:10,260 INFO 111218[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh start
+2018-11-26 19:23:10,261 INFO 111218[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:23:10,262 INFO 111218[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-26 19:23:10,262 INFO 111218[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:23:10,262 INFO 111218[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:23:10,262 INFO 111218[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.74
+2018-11-26 19:23:10,270 INFO 111218[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:23:10,321 INFO 111218[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:23:10,355 INFO 111218[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:23:10,693 INFO 111218[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh start
+2018-11-26 19:23:10,693 INFO 111218[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:23:10,693 INFO 111218[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-26 19:23:10,693 INFO 111218[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:23:10,693 INFO 111218[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:23:10,694 INFO 111218[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.75
+2018-11-26 19:23:10,702 INFO 111218[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:23:10,753 INFO 111218[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:23:10,786 INFO 111218[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:23:11,116 INFO 111218[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh start
+2018-11-26 19:23:11,116 INFO 111218[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:23:11,116 INFO 111218[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-26 19:23:11,117 INFO 111218[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:23:11,117 INFO 111218[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:23:11,117 INFO 111218[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.76
+2018-11-26 19:23:11,126 INFO 111218[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:23:11,175 INFO 111218[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:23:11,209 INFO 111218[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:23:11,440 INFO 111218[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-commitEdit_73_23230/kds-data-commitEdit.sh start
+2018-11-26 19:23:11,440 INFO 111218[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:23:11,441 INFO 111218[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-commitEdit_73_23230\n', u'kds-data-commitEdit.jar\n']
+2018-11-26 19:23:11,441 INFO 111218[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+[Finish] Success to deploy [573]

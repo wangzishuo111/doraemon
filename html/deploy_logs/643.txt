@@ -1,0 +1,9 @@
+scp hadoop@hadoop-0025:/opt/hbase-2.0.0/logs/hbase-hadoop-rest-hadoop-0025.log /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+Traceback (most recent call last):
+  File "/home/op/wzs/python/transfile_hadoop.py", line 29, in <module>
+    play_ansible(scp_file, dest_path)
+  File "/home/op/wzs/python/transfile_hadoop.py", line 20, in play_ansible
+    cmd = 'ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=%s -e dest_path=%s' %(scpfile, dest_path)
+NameError: global name 'scpfile' is not defined
+[Finish] Failed to deploy [643]

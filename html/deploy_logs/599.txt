@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/web_release.py", line 65, in <module>
+    release_pathold = sys.argv[1]
+IndexError: list index out of range
+[Finish] Failed to deploy [599]

@@ -1,0 +1,28 @@
+krms
+2018-11-21 17:32:04,252 INFO 39978[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/krms_release/v1.0.3.RELEASE/krms.jar
+2018-11-21 17:32:04,252 INFO 39978[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.80
+2018-11-21 17:32:04,259 INFO 39978[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-21 17:32:04,530 INFO 39978[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-21 17:32:04,754 INFO 39978[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 17:32:04,755 INFO 39978[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 17:32:04,755 INFO 39978[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.80
+2018-11-21 17:32:04,993 INFO 39978[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/krms_30_14100/krms.sh stop]
+2018-11-21 17:32:04,993 INFO 39978[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 17:32:04,993 INFO 39978[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/krms_30_14100\n', u'krms.jar\n', u'/data/CI/krms_30_14100/lib/krms.jar (14100) shutdown.\n']
+2018-11-21 17:32:15,014 INFO 39978[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/krms_30_14100/lib/krms.jar /data/CI/krms_30_14100/lib/krms.jar_bak]
+2018-11-21 17:32:15,014 INFO 39978[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 17:32:15,014 INFO 39978[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 17:32:15,015 INFO 39978[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.80
+2018-11-21 17:32:15,020 INFO 39978[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 17:32:15,240 INFO 39978[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-21 17:32:16,389 INFO 39978[no_cat_release.py:62 release_service]: file has arrive /data/CI/krms_30_14100/lib:
+2018-11-21 17:32:26,400 INFO 39978[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.80
+2018-11-21 17:32:26,406 INFO 39978[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 17:32:26,643 INFO 39978[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-21 17:32:26,896 INFO 39978[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 17:32:26,896 INFO 39978[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/krms_30_14100\n', u'krms.jar\n']
+2018-11-21 17:32:26,897 INFO 39978[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 17:32:26,897 INFO 39978[no_cat_release.py:74 start_cmd]: sudo /data/CI/krms_30_14100/krms.sh already started
+[Finish] Success to deploy [404]

@@ -1,0 +1,2 @@
+md5sum: '/release-data/automap_lane_release/*/autohdmap_lane_server': No such file or directory
+[Finish] Failed to CheckVersion [630]

@@ -1,0 +1,53 @@
+
+PLAY [kds-data] *****************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ok: [10.11.5.77]
+ok: [10.11.5.35]
+ok: [10.11.5.37]
+ok: [10.11.5.75]
+ok: [10.11.5.74]
+ok: [10.11.5.36]
+ok: [10.11.5.38]
+ok: [10.11.5.76]
+ok: [10.11.5.78]
+ok: [10.11.5.73]
+ok: [10.11.5.79]
+ok: [10.11.5.85]
+ok: [10.11.5.81]
+ok: [10.11.5.86]
+
+TASK [all : Start "kds-data" service] *******************************************************************************************************************************************************************
+fatal: [10.11.5.35]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.134338", "end": "2019-01-22 15:21:46.630304", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.495966", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=38979 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=38979 alreay started."]}
+fatal: [10.11.5.73]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.172334", "end": "2019-01-22 15:21:46.690961", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.518627", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=5138 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=5138 alreay started."]}
+fatal: [10.11.5.37]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.170174", "end": "2019-01-22 15:21:46.694475", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.524301", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=10538 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=10538 alreay started."]}
+fatal: [10.11.5.38]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.218679", "end": "2019-01-22 15:21:46.773803", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.555124", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=40879 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=40879 alreay started."]}
+fatal: [10.11.5.36]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.289223", "end": "2019-01-22 15:21:46.824843", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.535620", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=43985 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=43985 alreay started."]}
+fatal: [10.11.5.74]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.235658", "end": "2019-01-22 15:21:46.829580", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.593922", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=13046 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=13046 alreay started."]}
+fatal: [10.11.5.77]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.160210", "end": "2019-01-22 15:21:46.839028", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.678818", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=2617 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=2617 alreay started."]}
+fatal: [10.11.5.75]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.239816", "end": "2019-01-22 15:21:46.870655", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.630839", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=31610 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=31610 alreay started."]}
+fatal: [10.11.5.76]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.251858", "end": "2019-01-22 15:21:46.926070", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.674212", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=19052 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=19052 alreay started."]}
+fatal: [10.11.5.78]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.233927", "end": "2019-01-22 15:21:46.982223", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.748296", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=9930 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=9930 alreay started."]}
+fatal: [10.11.5.79]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.162129", "end": "2019-01-22 15:21:47.046077", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.883948", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=40438 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=40438 alreay started."]}
+fatal: [10.11.5.85]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.184843", "end": "2019-01-22 15:21:47.205607", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:47.020764", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=32285 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=32285 alreay started."]}
+fatal: [10.11.5.86]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.211772", "end": "2019-01-22 15:21:47.315499", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:47.103727", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=21170 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=21170 alreay started."]}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kds-data_mesh/kds-data.sh start", "delta": "0:00:00.322470", "end": "2019-01-22 15:21:47.293225", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 15:21:46.970755", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kds-data_mesh\nkds-data.jar\nkds-data.jar pid=9259 alreay started.", "stdout_lines": ["/data/CI/kds-data_mesh", "kds-data.jar", "kds-data.jar pid=9259 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.35                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.36                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.37                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.38                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.73                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.74                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.75                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.76                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.77                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.78                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.79                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.85                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.86                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1201]

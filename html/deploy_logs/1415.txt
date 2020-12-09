@@ -1,0 +1,13 @@
+
+PLAY [task-frame-management] ***************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.81]
+
+TASK [all : Start "task-frame-management" service] *****************************
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/task-frame-management_prod/task-frame-management.sh start", "delta": "0:00:00.123162", "end": "2019-04-18 17:47:42.516493", "msg": "non-zero return code", "rc": 1, "start": "2019-04-18 17:47:42.393331", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/task-frame-management_prod\ntask-frame-management.jar\ntask-frame-management.jar pid=31083 alreay started.", "stdout_lines": ["/data/CI/task-frame-management_prod", "task-frame-management.jar", "task-frame-management.jar pid=31083 alreay started."]}
+
+PLAY RECAP *********************************************************************
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1415]

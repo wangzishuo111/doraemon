@@ -1,0 +1,83 @@
+
+PLAY [reco_release] ************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.113]
+ok: [10.11.5.115]
+ok: [10.11.5.111]
+ok: [10.11.5.112]
+ok: [10.11.5.116]
+ok: [10.11.5.117]
+ok: [10.11.5.118]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.122]
+ok: [10.11.5.121]
+ok: [10.11.5.123]
+ok: [10.11.5.114]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.127]
+ok: [10.11.5.126]
+ok: [10.11.5.128]
+ok: [10.11.5.129]
+ok: [10.11.5.131]
+ok: [10.11.5.130]
+ok: [10.11.5.132]
+ok: [10.11.5.133]
+ok: [10.11.5.134]
+
+TASK [reco_release : pull reco images 123321·1233] *****************************************************************************************************************************************************************************************
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.106036", "end": "2018-11-14 11:23:18.661958", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.555922", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.117149", "end": "2018-11-14 11:23:18.642316", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.525167", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.130904", "end": "2018-11-14 11:23:18.653342", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.522438", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.124344", "end": "2018-11-14 11:23:18.694658", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.570314", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.232690", "end": "2018-11-14 11:23:18.798973", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.566283", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.138297", "end": "2018-11-14 11:23:19.121066", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.982769", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.131194", "end": "2018-11-14 11:23:19.124942", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:18.993748", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.180472", "end": "2018-11-14 11:23:19.236760", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.056288", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.140517", "end": "2018-11-14 11:23:19.250095", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.109578", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.199718", "end": "2018-11-14 11:23:19.278887", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.079169", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.148250", "end": "2018-11-14 11:23:19.623303", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.475053", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.129061", "end": "2018-11-14 11:23:19.595675", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.466614", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.129004", "end": "2018-11-14 11:23:19.677989", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.548985", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.185659", "end": "2018-11-14 11:23:19.749523", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.563864", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.142540", "end": "2018-11-14 11:23:19.825628", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.683088", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.147663", "end": "2018-11-14 11:23:20.122362", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:19.974699", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.151463", "end": "2018-11-14 11:23:20.191597", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.040134", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.164605", "end": "2018-11-14 11:23:20.226623", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.062018", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.135583", "end": "2018-11-14 11:23:20.281572", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.145989", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.137609", "end": "2018-11-14 11:23:20.307004", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.169395", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.130292", "end": "2018-11-14 11:23:20.587201", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.456909", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.141875", "end": "2018-11-14 11:23:20.626552", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.484677", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.150831", "end": "2018-11-14 11:23:20.725127", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.574296", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull 123321·1233", "delta": "0:00:00.141012", "end": "2018-11-14 11:23:20.804371", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 11:23:20.663359", "stderr": "invalid reference format", "stderr_lines": ["invalid reference format"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************************************************************
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [123321·1233]

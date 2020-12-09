@@ -1,0 +1,65 @@
+2018-11-23 14:33:48,655 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:33:48,656 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-23 14:33:48,664 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:33:48,750 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:33:48,770 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:33:48,955 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:33:48,955 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_30_13100\n', u'krs.jar\n', u'/data/CI/krs_30_13100/lib/krs.jar is not started.\n']
+2018-11-23 14:33:48,955 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_30_13100/krs.sh stop
+2018-11-23 14:33:58,964 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:33:58,965 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-23 14:33:58,977 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:33:59,034 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:33:59,074 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:33:59,383 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:33:59,384 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_30_13100\n', u'krs.jar\n', u'/data/CI/krs_30_13100/lib/krs.jar is not started.\n']
+2018-11-23 14:33:59,384 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_30_13100/krs.sh stop
+2018-11-23 14:34:09,394 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:34:09,395 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-23 14:34:09,403 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:34:09,490 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:34:09,508 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:34:09,728 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:34:09,728 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_30_13100\n', u'krs.jar\n', u'/data/CI/krs_30_13100/lib/krs.jar is not started.\n']
+2018-11-23 14:34:09,729 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_30_13100/krs.sh stop
+2018-11-23 14:34:19,737 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:34:19,737 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-23 14:34:19,749 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:34:19,799 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:34:19,845 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:34:20,161 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:34:20,161 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_30_13100\n', u'krs.jar\n', u'/data/CI/krs_30_13100/lib/krs.jar is not started.\n']
+2018-11-23 14:34:20,161 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_30_13100/krs.sh stop
+2018-11-23 14:34:30,169 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:34:30,169 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.85:
+2018-11-23 14:34:30,181 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:34:30,272 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:34:30,295 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:34:30,612 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:34:30,612 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_30_13100\n', u'krs.jar\n', u'/data/CI/krs_30_13100/lib/krs.jar is not started.\n']
+2018-11-23 14:34:30,613 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_30_13100/krs.sh stop
+2018-11-23 14:34:40,623 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:34:40,623 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-23 14:34:40,634 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:34:40,686 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:34:40,732 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:34:41,090 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:34:41,090 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_74_13101\n', u'krs.jar\n', u'/data/CI/krs_74_13101/lib/krs.jar (13101) shutdown.\n']
+2018-11-23 14:34:41,091 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_74_13101/krs.sh stop
+2018-11-23 14:34:51,094 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:34:51,095 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.76:
+2018-11-23 14:34:51,107 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:34:51,159 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:34:51,203 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:34:51,605 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:34:51,605 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_64_13101\n', u'krs.jar\n', u'/data/CI/krs_64_13101/lib/krs.jar (13101) shutdown.\n']
+2018-11-23 14:34:51,606 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_64_13101/krs.sh stop
+2018-11-23 14:35:01,616 INFO 3404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 14:35:01,616 INFO 3404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.75:
+2018-11-23 14:35:01,626 INFO 3404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 14:35:01,712 INFO 3404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 14:35:01,732 INFO 3404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 14:35:01,972 INFO 3404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-23 14:35:01,972 INFO 3404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/krs_64_13101\n', u'krs.jar\n', u'/data/CI/krs_64_13101/lib/krs.jar (13101) shutdown.\n']
+2018-11-23 14:35:01,972 INFO 3404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/krs_64_13101/krs.sh stop
+[Finish] Success to deploy [437]

@@ -1,0 +1,20 @@
+
+PLAY [autohdmap_lane] ****************************************************************************************************************************************
+
+TASK [Gathering Facts] ***************************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [common : install python-pip] ***************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [common : install python-docker] ************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : run container for container_name image_name] ******************************************************************************************
+fatal: [10.11.5.137]: FAILED! => {"changed": false, "msg": "Error pulling image image_name:latest - 404 Client Error: Not Found (\"pull access denied for image_name, repository does not exist or may require 'docker login'\")"}
+	to retry, use: --limit @/home/kddev/cheng/autohdmap_deploy/autohdmap_lane.retry
+
+PLAY RECAP ***************************************************************************************************************************************************
+10.11.5.137                : ok=3    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [image_name]

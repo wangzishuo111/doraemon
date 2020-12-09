@@ -1,0 +1,386 @@
+kds-data
+2018-11-21 11:11:39,778 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:11:39,778 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.75
+2018-11-21 11:11:39,791 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-21 11:11:40,030 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:11:40,056 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:11:40,362 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:11:40,363 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:11:40,363 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.75
+2018-11-21 11:11:40,605 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_63_23210/kds-data.sh stop]
+2018-11-21 11:11:40,605 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:11:40,606 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-21 11:11:50,639 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_63_23210/lib/kds-data.jar /data/CI/kds-data_63_23210/lib/kds-data.jar_bak]
+2018-11-21 11:11:50,639 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:11:50,640 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:11:50,640 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.75
+2018-11-21 11:11:50,652 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:11:50,880 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:11:50,906 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:11:52,935 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_63_23210/lib:
+2018-11-21 11:12:02,946 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.75
+2018-11-21 11:12:02,958 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:03,181 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:03,207 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:03,579 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:12:03,579 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-21 11:12:03,579 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:12:03,580 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+2018-11-21 11:12:03,580 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:12:03,580 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.75
+2018-11-21 11:12:03,591 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:03,772 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:03,808 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:04,010 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:12:04,011 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:12:04,011 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.75
+2018-11-21 11:12:04,227 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_75_23260/kds-data.sh stop]
+2018-11-21 11:12:04,228 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:12:04,228 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-21 11:12:14,250 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_75_23260/lib/kds-data.jar /data/CI/kds-data_75_23260/lib/kds-data.jar_bak]
+2018-11-21 11:12:14,251 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:12:14,251 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:12:14,251 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.75
+2018-11-21 11:12:14,257 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:14,498 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:14,530 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:16,063 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_75_23260/lib:
+2018-11-21 11:12:26,069 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.75
+2018-11-21 11:12:26,081 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:26,314 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:26,350 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:26,690 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:12:26,691 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-21 11:12:26,691 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:12:26,691 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_75_23260/kds-data.sh already started
+2018-11-21 11:12:26,691 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:12:26,692 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.75
+2018-11-21 11:12:26,699 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:26,936 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:26,972 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:27,152 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:12:27,153 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:12:27,153 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.75
+2018-11-21 11:12:27,316 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_75_23270/kds-data.sh stop]
+2018-11-21 11:12:27,317 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:12:27,317 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-21 11:12:37,335 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_75_23270/lib/kds-data.jar /data/CI/kds-data_75_23270/lib/kds-data.jar_bak]
+2018-11-21 11:12:37,336 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:12:37,336 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:12:37,336 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.75
+2018-11-21 11:12:37,342 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:37,590 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:37,604 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:39,442 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_75_23270/lib:
+2018-11-21 11:12:49,452 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.75
+2018-11-21 11:12:49,459 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:49,681 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:49,719 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:50,015 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:12:50,015 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-21 11:12:50,016 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:12:50,016 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_75_23270/kds-data.sh already started
+2018-11-21 11:12:50,016 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:12:50,016 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:12:50,035 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:12:50,249 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:12:50,281 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:12:50,585 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:12:50,586 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:12:50,586 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:12:50,792 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_63_23210/kds-data.sh stop]
+2018-11-21 11:12:50,793 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:12:50,793 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar is not started.\n']
+2018-11-21 11:13:00,818 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_63_23210/lib/kds-data.jar /data/CI/kds-data_63_23210/lib/kds-data.jar_bak]
+2018-11-21 11:13:00,819 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:13:00,819 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:13:00,819 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:13:00,829 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:01,028 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:01,069 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:02,787 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_63_23210/lib:
+2018-11-21 11:13:12,798 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.73
+2018-11-21 11:13:12,810 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:13,065 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:13,104 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:13,469 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:13:13,469 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-21 11:13:13,469 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:13:13,469 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+2018-11-21 11:13:13,470 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:13:13,470 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:13:13,480 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:13,714 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:13,731 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:13,999 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:13:14,000 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:13:14,000 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:13:14,237 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_73_23260/kds-data.sh stop]
+2018-11-21 11:13:14,237 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:13:14,237 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-21 11:13:24,258 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_73_23260/lib/kds-data.jar /data/CI/kds-data_73_23260/lib/kds-data.jar_bak]
+2018-11-21 11:13:24,258 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:13:24,259 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:13:24,259 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:13:24,264 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:24,510 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:24,543 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:26,294 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_73_23260/lib:
+2018-11-21 11:13:36,303 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.73
+2018-11-21 11:13:36,317 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:36,541 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:36,558 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:36,803 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:13:36,803 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n']
+2018-11-21 11:13:36,804 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:13:36,804 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_73_23260/kds-data.sh already started
+2018-11-21 11:13:36,804 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:13:36,804 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:13:36,809 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:37,116 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:37,127 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:37,355 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:13:37,356 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:13:37,356 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:13:37,542 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_73_23270/kds-data.sh stop]
+2018-11-21 11:13:37,543 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:13:37,543 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_73_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-21 11:13:47,567 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_73_23270/lib/kds-data.jar /data/CI/kds-data_73_23270/lib/kds-data.jar_bak]
+2018-11-21 11:13:47,568 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:13:47,568 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:13:47,568 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:13:47,574 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:47,797 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:47,839 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:49,504 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_73_23270/lib:
+2018-11-21 11:13:59,512 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.73
+2018-11-21 11:13:59,519 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:13:59,750 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:13:59,775 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:13:59,991 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:13:59,992 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n']
+2018-11-21 11:13:59,992 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:13:59,992 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_73_23270/kds-data.sh already started
+2018-11-21 11:13:59,993 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:13:59,993 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.74
+2018-11-21 11:14:00,009 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:00,236 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:00,260 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:00,614 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:14:00,615 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:14:00,615 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.74
+2018-11-21 11:14:00,902 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_63_23210/kds-data.sh stop]
+2018-11-21 11:14:00,902 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:14:00,902 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-21 11:14:10,927 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_63_23210/lib/kds-data.jar /data/CI/kds-data_63_23210/lib/kds-data.jar_bak]
+2018-11-21 11:14:10,927 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:14:10,928 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:14:10,928 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.74
+2018-11-21 11:14:10,940 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:11,158 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:11,185 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:13,201 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_63_23210/lib:
+2018-11-21 11:14:23,201 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.74
+2018-11-21 11:14:23,215 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:23,424 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:23,464 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:23,839 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:14:23,840 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-21 11:14:23,840 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:14:23,840 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+2018-11-21 11:14:23,840 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:14:23,840 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.74
+2018-11-21 11:14:23,850 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:24,016 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:24,042 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:24,333 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:14:24,334 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:14:24,334 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.74
+2018-11-21 11:14:24,504 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_74_23260/kds-data.sh stop]
+2018-11-21 11:14:24,505 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:14:24,505 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-21 11:14:34,527 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_74_23260/lib/kds-data.jar /data/CI/kds-data_74_23260/lib/kds-data.jar_bak]
+2018-11-21 11:14:34,527 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:14:34,528 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:14:34,528 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.74
+2018-11-21 11:14:34,534 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:34,788 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:34,804 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:36,658 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_74_23260/lib:
+2018-11-21 11:14:46,669 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.74
+2018-11-21 11:14:46,675 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:46,934 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:46,954 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:47,252 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:14:47,253 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n']
+2018-11-21 11:14:47,253 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:14:47,253 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_74_23260/kds-data.sh already started
+2018-11-21 11:14:47,254 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:14:47,254 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.74
+2018-11-21 11:14:47,259 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:47,493 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:47,529 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:14:47,819 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:14:47,819 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:14:47,819 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.74
+2018-11-21 11:14:47,976 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_74_23270/kds-data.sh stop]
+2018-11-21 11:14:47,977 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:14:47,977 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_74_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-21 11:14:57,998 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_74_23270/lib/kds-data.jar /data/CI/kds-data_74_23270/lib/kds-data.jar_bak]
+2018-11-21 11:14:57,998 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:14:57,998 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:14:57,999 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.74
+2018-11-21 11:14:58,008 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:14:58,239 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:14:58,274 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:00,190 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_74_23270/lib:
+2018-11-21 11:15:10,197 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.74
+2018-11-21 11:15:10,203 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:10,430 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:10,464 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:10,713 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:15:10,713 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n']
+2018-11-21 11:15:10,713 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:15:10,714 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_74_23270/kds-data.sh already started
+2018-11-21 11:15:10,714 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:15:10,714 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.76
+2018-11-21 11:15:10,748 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:10,939 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:10,980 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:11,469 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:15:11,469 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:15:11,470 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.76
+2018-11-21 11:15:11,760 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_63_23210/kds-data.sh stop]
+2018-11-21 11:15:11,760 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:15:11,760 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n', u'/data/CI/kds-data_63_23210/lib/kds-data.jar (23210) shutdown.\n']
+2018-11-21 11:15:21,791 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_63_23210/lib/kds-data.jar /data/CI/kds-data_63_23210/lib/kds-data.jar_bak]
+2018-11-21 11:15:21,792 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:15:21,792 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:15:21,792 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.76
+2018-11-21 11:15:21,804 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:22,016 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:22,050 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:23,994 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_63_23210/lib:
+2018-11-21 11:15:34,001 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.76
+2018-11-21 11:15:34,014 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:34,232 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:34,277 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:34,648 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:15:34,648 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-21 11:15:34,649 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:15:34,649 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_63_23210/kds-data.sh already started
+2018-11-21 11:15:34,649 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:15:34,649 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.76
+2018-11-21 11:15:34,661 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:34,901 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:34,920 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:35,160 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:15:35,161 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:15:35,161 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.76
+2018-11-21 11:15:35,394 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_76_23260/kds-data.sh stop]
+2018-11-21 11:15:35,395 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:15:35,395 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-21 11:15:45,413 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_76_23260/lib/kds-data.jar /data/CI/kds-data_76_23260/lib/kds-data.jar_bak]
+2018-11-21 11:15:45,413 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:15:45,414 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:15:45,414 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.76
+2018-11-21 11:15:45,420 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:45,648 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:45,686 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:47,507 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_76_23260/lib:
+2018-11-21 11:15:57,518 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.76
+2018-11-21 11:15:57,529 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:57,742 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:57,781 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:58,131 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:15:58,131 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n']
+2018-11-21 11:15:58,131 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:15:58,131 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_76_23260/kds-data.sh already started
+2018-11-21 11:15:58,132 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:15:58,132 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.76
+2018-11-21 11:15:58,140 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:15:58,364 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:15:58,403 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:15:58,610 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:15:58,610 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:15:58,610 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.76
+2018-11-21 11:15:58,798 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_76_23270/kds-data.sh stop]
+2018-11-21 11:15:58,798 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:15:58,799 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_76_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-21 11:16:08,816 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_76_23270/lib/kds-data.jar /data/CI/kds-data_76_23270/lib/kds-data.jar_bak]
+2018-11-21 11:16:08,816 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:16:08,817 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:16:08,817 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.76
+2018-11-21 11:16:08,822 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:09,038 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:09,074 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:10,914 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_76_23270/lib:
+2018-11-21 11:16:20,924 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.76
+2018-11-21 11:16:20,930 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:21,162 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:21,191 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:21,406 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:16:21,407 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n']
+2018-11-21 11:16:21,407 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:16:21,407 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_76_23270/kds-data.sh already started
+2018-11-21 11:16:21,408 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:16:21,408 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.78
+2018-11-21 11:16:21,425 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:21,624 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:21,667 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:21,916 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:16:21,917 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:16:21,917 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.78
+2018-11-21 11:16:22,187 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_75_23260/kds-data.sh stop]
+2018-11-21 11:16:22,187 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:16:22,188 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23260/lib/kds-data.jar (23260) shutdown.\n']
+2018-11-21 11:16:32,219 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_75_23260/lib/kds-data.jar /data/CI/kds-data_75_23260/lib/kds-data.jar_bak]
+2018-11-21 11:16:32,219 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:16:32,219 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:16:32,220 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.78
+2018-11-21 11:16:32,231 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:32,499 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:32,521 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:34,441 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_75_23260/lib:
+2018-11-21 11:16:44,451 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.78
+2018-11-21 11:16:44,464 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:44,665 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:44,707 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:45,014 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:16:45,014 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-21 11:16:45,015 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:16:45,015 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_75_23260/kds-data.sh already started
+2018-11-21 11:16:45,015 INFO 2766[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data_release/v1.16.4.RELEASE/kds-data.jar
+2018-11-21 11:16:45,015 INFO 2766[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.78
+2018-11-21 11:16:45,026 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:45,250 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:45,288 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:45,469 INFO 2766[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:16:45,469 INFO 2766[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:16:45,470 INFO 2766[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.78
+2018-11-21 11:16:45,651 INFO 2766[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data_75_23270/kds-data.sh stop]
+2018-11-21 11:16:45,652 INFO 2766[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:16:45,652 INFO 2766[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n', u'/data/CI/kds-data_75_23270/lib/kds-data.jar (23270) shutdown.\n']
+2018-11-21 11:16:55,671 INFO 2766[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data_75_23270/lib/kds-data.jar /data/CI/kds-data_75_23270/lib/kds-data.jar_bak]
+2018-11-21 11:16:55,672 INFO 2766[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:16:55,672 INFO 2766[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:16:55,672 INFO 2766[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.78
+2018-11-21 11:16:55,677 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:16:55,891 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:16:55,911 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:16:57,532 INFO 2766[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data_75_23270/lib:
+2018-11-21 11:17:07,543 INFO 2766[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.78
+2018-11-21 11:17:07,555 INFO 2766[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:17:07,824 INFO 2766[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:17:07,846 INFO 2766[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:17:08,121 INFO 2766[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:17:08,121 INFO 2766[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-21 11:17:08,121 INFO 2766[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:17:08,122 INFO 2766[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data_75_23270/kds-data.sh already started
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 86, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [387]

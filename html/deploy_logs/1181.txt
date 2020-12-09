@@ -1,0 +1,4 @@
+kts-web
+yor path is : /mnt/data1/release-data/kts-web_release/ 
+you enter a wrong path
+[Finish] Failed to deploy [1181]

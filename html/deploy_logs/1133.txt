@@ -1,0 +1,4 @@
+kms-web
+yor path is : /mnt/data1/release-data/kms-web_release/v1.1.5/ 
+you enter a wrong path
+[Finish] Failed to deploy [1133]

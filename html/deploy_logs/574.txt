@@ -1,0 +1,10 @@
+2018-11-26 19:23:20,050 INFO 111411[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:23:20,050 INFO 111411[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:23:20,057 INFO 111411[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:23:20,143 INFO 111411[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:23:20,163 INFO 111411[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:23:20,433 INFO 111411[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data-closeEdit_73_23220/kds-data.sh start
+2018-11-26 19:23:20,433 INFO 111411[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:23:20,434 INFO 111411[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data-closeEdit_73_23220\n', u'kds-data-closeEdit.jar\n']
+2018-11-26 19:23:20,434 INFO 111411[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+[Finish] Success to deploy [574]

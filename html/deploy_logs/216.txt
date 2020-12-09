@@ -1,0 +1,426 @@
+2018-11-13 12:19:41,696 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.1:kss-automap-lane:20529
+2018-11-13 12:19:41,697 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.1:kss-automap-lane:20529 success
+2018-11-13 12:19:41,700 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.81:kss-automap-lane:20527
+2018-11-13 12:19:41,701 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.81:kss-automap-lane:20527 success
+2018-11-13 12:19:41,704 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.1:kss-automap-lane:20528
+2018-11-13 12:19:41,704 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.1:kss-automap-lane:20528 success
+2018-11-13 12:19:41,708 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.1:kss-automap-lane:20527
+2018-11-13 12:19:41,708 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.1:kss-automap-lane:20527 success
+2018-11-13 12:19:41,711 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.81:kss-automap-lane:20528
+2018-11-13 12:19:41,711 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.81:kss-automap-lane:20528 success
+2018-11-13 12:19:41,715 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.81:kss-automap-lane:20529
+2018-11-13 12:19:41,715 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.81:kss-automap-lane:20529 success
+2018-11-13 12:19:41,719 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.22:kss-automap-lane:20527
+2018-11-13 12:19:41,719 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.22:kss-automap-lane:20527 success
+2018-11-13 12:19:41,722 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.22:kss-automap-lane:20528
+2018-11-13 12:19:41,722 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.22:kss-automap-lane:20528 success
+2018-11-13 12:19:41,726 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.22:kss-automap-lane:20529
+2018-11-13 12:19:41,726 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.22:kss-automap-lane:20529 success
+2018-11-13 12:19:41,729 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.109:kss-automap-lane:20531
+2018-11-13 12:19:41,729 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.109:kss-automap-lane:20531 success
+2018-11-13 12:19:41,734 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.109:kss-automap-lane:20530
+2018-11-13 12:19:41,734 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.109:kss-automap-lane:20530 success
+2018-11-13 12:19:41,738 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.13:kss-automap-lane:20528
+2018-11-13 12:19:41,738 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.13:kss-automap-lane:20528 success
+2018-11-13 12:19:41,741 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.13:kss-automap-lane:20527
+2018-11-13 12:19:41,741 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.13:kss-automap-lane:20527 success
+2018-11-13 12:19:41,745 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.40:kss-automap-lane:20531
+2018-11-13 12:19:41,745 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.40:kss-automap-lane:20531 success
+2018-11-13 12:19:41,749 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.13:kss-automap-lane:20529
+2018-11-13 12:19:41,749 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.13:kss-automap-lane:20529 success
+2018-11-13 12:19:41,752 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.40:kss-automap-lane:20530
+2018-11-13 12:19:41,752 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.40:kss-automap-lane:20530 success
+2018-11-13 12:19:41,756 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.38:kss-automap-lane:20527
+2018-11-13 12:19:41,756 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.38:kss-automap-lane:20527 success
+2018-11-13 12:19:41,760 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.38:kss-automap-lane:20529
+2018-11-13 12:19:41,760 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.38:kss-automap-lane:20529 success
+2018-11-13 12:19:41,763 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.38:kss-automap-lane:20528
+2018-11-13 12:19:41,763 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.38:kss-automap-lane:20528 success
+2018-11-13 12:19:41,767 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.40:kss-automap-lane:20528
+2018-11-13 12:19:41,767 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.40:kss-automap-lane:20528 success
+2018-11-13 12:19:41,770 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.40:kss-automap-lane:20527
+2018-11-13 12:19:41,771 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.40:kss-automap-lane:20527 success
+2018-11-13 12:19:41,774 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.79:kss-automap-lane:20527
+2018-11-13 12:19:41,774 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.79:kss-automap-lane:20527 success
+2018-11-13 12:19:41,777 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.79:kss-automap-lane:20528
+2018-11-13 12:19:41,777 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.79:kss-automap-lane:20528 success
+2018-11-13 12:19:41,780 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.79:kss-automap-lane:20529
+2018-11-13 12:19:41,780 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.79:kss-automap-lane:20529 success
+2018-11-13 12:19:41,783 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.83:kss-automap-lane:20531
+2018-11-13 12:19:41,783 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.83:kss-automap-lane:20531 success
+2018-11-13 12:19:41,786 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.63:kss-automap-lane:20529
+2018-11-13 12:19:41,786 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.63:kss-automap-lane:20529 success
+2018-11-13 12:19:41,789 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.63:kss-automap-lane:20528
+2018-11-13 12:19:41,790 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.63:kss-automap-lane:20528 success
+2018-11-13 12:19:41,793 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.40:kss-automap-lane:20529
+2018-11-13 12:19:41,793 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.40:kss-automap-lane:20529 success
+2018-11-13 12:19:41,796 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.63:kss-automap-lane:20527
+2018-11-13 12:19:41,796 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.63:kss-automap-lane:20527 success
+2018-11-13 12:19:41,799 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.38:kss-automap-lane:20530
+2018-11-13 12:19:41,799 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.38:kss-automap-lane:20530 success
+2018-11-13 12:19:41,802 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.83:kss-automap-lane:20530
+2018-11-13 12:19:41,802 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.83:kss-automap-lane:20530 success
+2018-11-13 12:19:41,804 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.38:kss-automap-lane:20531
+2018-11-13 12:19:41,805 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.38:kss-automap-lane:20531 success
+2018-11-13 12:19:41,808 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.109:kss-automap-lane:20528
+2018-11-13 12:19:41,808 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.109:kss-automap-lane:20528 success
+2018-11-13 12:19:41,812 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.109:kss-automap-lane:20527
+2018-11-13 12:19:41,812 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.109:kss-automap-lane:20527 success
+2018-11-13 12:19:41,815 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.109:kss-automap-lane:20529
+2018-11-13 12:19:41,815 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.109:kss-automap-lane:20529 success
+2018-11-13 12:19:41,818 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.20:kss-automap-lane:20528
+2018-11-13 12:19:41,818 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.20:kss-automap-lane:20528 success
+2018-11-13 12:19:41,821 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.33:kss-automap-lane:20530
+2018-11-13 12:19:41,822 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.33:kss-automap-lane:20530 success
+2018-11-13 12:19:42,023 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.54:kss-automap-lane:20531
+2018-11-13 12:19:42,023 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.54:kss-automap-lane:20531 success
+2018-11-13 12:19:42,026 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.20:kss-automap-lane:20527
+2018-11-13 12:19:42,027 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.20:kss-automap-lane:20527 success
+2018-11-13 12:19:42,030 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.33:kss-automap-lane:20531
+2018-11-13 12:19:42,031 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.33:kss-automap-lane:20531 success
+2018-11-13 12:19:42,034 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.15:kss-automap-lane:20527
+2018-11-13 12:19:42,034 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.15:kss-automap-lane:20527 success
+2018-11-13 12:19:42,038 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.15:kss-automap-lane:20528
+2018-11-13 12:19:42,038 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.15:kss-automap-lane:20528 success
+2018-11-13 12:19:42,041 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.20:kss-automap-lane:20529
+2018-11-13 12:19:42,042 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.20:kss-automap-lane:20529 success
+2018-11-13 12:19:42,045 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.54:kss-automap-lane:20530
+2018-11-13 12:19:42,045 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.54:kss-automap-lane:20530 success
+2018-11-13 12:19:42,048 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.42:kss-automap-lane:20530
+2018-11-13 12:19:42,048 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.42:kss-automap-lane:20530 success
+2018-11-13 12:19:42,051 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.42:kss-automap-lane:20531
+2018-11-13 12:19:42,051 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.42:kss-automap-lane:20531 success
+2018-11-13 12:19:42,055 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.15:kss-automap-lane:20529
+2018-11-13 12:19:42,055 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.15:kss-automap-lane:20529 success
+2018-11-13 12:19:42,057 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.79:kss-automap-lane:20530
+2018-11-13 12:19:42,058 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.79:kss-automap-lane:20530 success
+2018-11-13 12:19:42,060 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.79:kss-automap-lane:20531
+2018-11-13 12:19:42,061 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.79:kss-automap-lane:20531 success
+2018-11-13 12:19:42,063 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.81:kss-automap-lane:20530
+2018-11-13 12:19:42,063 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.81:kss-automap-lane:20530 success
+2018-11-13 12:19:42,066 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.81:kss-automap-lane:20531
+2018-11-13 12:19:42,066 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.81:kss-automap-lane:20531 success
+2018-11-13 12:19:42,069 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.42:kss-automap-lane:20527
+2018-11-13 12:19:42,069 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.42:kss-automap-lane:20527 success
+2018-11-13 12:19:42,072 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.42:kss-automap-lane:20528
+2018-11-13 12:19:42,072 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.42:kss-automap-lane:20528 success
+2018-11-13 12:19:42,076 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.42:kss-automap-lane:20529
+2018-11-13 12:19:42,076 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.42:kss-automap-lane:20529 success
+2018-11-13 12:19:42,079 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.54:kss-automap-lane:20528
+2018-11-13 12:19:42,079 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.54:kss-automap-lane:20528 success
+2018-11-13 12:19:42,279 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.54:kss-automap-lane:20529
+2018-11-13 12:19:42,279 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.54:kss-automap-lane:20529 success
+2018-11-13 12:19:42,282 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.54:kss-automap-lane:20527
+2018-11-13 12:19:42,282 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.54:kss-automap-lane:20527 success
+2018-11-13 12:19:42,286 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.35:kss-automap-lane:20531
+2018-11-13 12:19:42,286 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.35:kss-automap-lane:20531 success
+2018-11-13 12:19:42,290 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.35:kss-automap-lane:20530
+2018-11-13 12:19:42,290 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.35:kss-automap-lane:20530 success
+2018-11-13 12:19:42,292 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.61:kss-automap-lane:20531
+2018-11-13 12:19:42,292 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.61:kss-automap-lane:20531 success
+2018-11-13 12:19:42,296 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.85:kss-automap-lane:20528
+2018-11-13 12:19:42,296 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.85:kss-automap-lane:20528 success
+2018-11-13 12:19:42,300 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.85:kss-automap-lane:20529
+2018-11-13 12:19:42,300 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.85:kss-automap-lane:20529 success
+2018-11-13 12:19:42,304 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.85:kss-automap-lane:20527
+2018-11-13 12:19:42,304 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.85:kss-automap-lane:20527 success
+2018-11-13 12:19:42,311 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.44:kss-automap-lane:20531
+2018-11-13 12:19:42,311 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.44:kss-automap-lane:20531 success
+2018-11-13 12:19:42,317 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.44:kss-automap-lane:20530
+2018-11-13 12:19:42,318 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.44:kss-automap-lane:20530 success
+2018-11-13 12:19:42,321 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.61:kss-automap-lane:20530
+2018-11-13 12:19:42,321 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.61:kss-automap-lane:20530 success
+2018-11-13 12:19:42,324 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.76:kss-automap-lane:20529
+2018-11-13 12:19:42,324 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.76:kss-automap-lane:20529 success
+2018-11-13 12:19:42,327 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.76:kss-automap-lane:20528
+2018-11-13 12:19:42,328 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.76:kss-automap-lane:20528 success
+2018-11-13 12:19:42,331 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.76:kss-automap-lane:20527
+2018-11-13 12:19:42,332 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.76:kss-automap-lane:20527 success
+2018-11-13 12:19:42,335 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.76:kss-automap-lane:20531
+2018-11-13 12:19:42,335 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.76:kss-automap-lane:20531 success
+2018-11-13 12:19:42,337 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.76:kss-automap-lane:20530
+2018-11-13 12:19:42,338 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.76:kss-automap-lane:20530 success
+2018-11-13 12:19:42,355 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.44:kss-automap-lane:20528
+2018-11-13 12:19:42,355 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.44:kss-automap-lane:20528 success
+2018-11-13 12:19:42,359 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.44:kss-automap-lane:20527
+2018-11-13 12:19:42,359 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.44:kss-automap-lane:20527 success
+2018-11-13 12:19:42,367 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.44:kss-automap-lane:20529
+2018-11-13 12:19:42,367 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.44:kss-automap-lane:20529 success
+2018-11-13 12:19:42,371 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.33:kss-automap-lane:20527
+2018-11-13 12:19:42,371 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.33:kss-automap-lane:20527 success
+2018-11-13 12:19:42,374 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.33:kss-automap-lane:20528
+2018-11-13 12:19:42,375 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.33:kss-automap-lane:20528 success
+2018-11-13 12:19:42,378 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.18:kss-automap-lane:20527
+2018-11-13 12:19:42,378 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.18:kss-automap-lane:20527 success
+2018-11-13 12:19:42,382 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.18:kss-automap-lane:20529
+2018-11-13 12:19:42,382 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.18:kss-automap-lane:20529 success
+2018-11-13 12:19:42,586 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.18:kss-automap-lane:20528
+2018-11-13 12:19:42,587 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.18:kss-automap-lane:20528 success
+2018-11-13 12:19:42,590 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.33:kss-automap-lane:20529
+2018-11-13 12:19:42,590 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.33:kss-automap-lane:20529 success
+2018-11-13 12:19:42,594 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.83:kss-automap-lane:20529
+2018-11-13 12:19:42,594 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.83:kss-automap-lane:20529 success
+2018-11-13 12:19:42,597 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.83:kss-automap-lane:20528
+2018-11-13 12:19:42,598 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.83:kss-automap-lane:20528 success
+2018-11-13 12:19:42,601 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.3:kss-automap-lane:20529
+2018-11-13 12:19:42,601 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.3:kss-automap-lane:20529 success
+2018-11-13 12:19:42,605 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.83:kss-automap-lane:20527
+2018-11-13 12:19:42,605 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.83:kss-automap-lane:20527 success
+2018-11-13 12:19:42,608 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.11:kss-automap-lane:20529
+2018-11-13 12:19:42,608 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.11:kss-automap-lane:20529 success
+2018-11-13 12:19:42,612 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.11:kss-automap-lane:20527
+2018-11-13 12:19:42,612 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.11:kss-automap-lane:20527 success
+2018-11-13 12:19:42,616 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.11:kss-automap-lane:20528
+2018-11-13 12:19:42,616 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.11:kss-automap-lane:20528 success
+2018-11-13 12:19:42,619 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.63:kss-automap-lane:20531
+2018-11-13 12:19:42,619 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.63:kss-automap-lane:20531 success
+2018-11-13 12:19:42,623 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.63:kss-automap-lane:20530
+2018-11-13 12:19:42,623 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.63:kss-automap-lane:20530 success
+2018-11-13 12:19:42,626 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.3:kss-automap-lane:20527
+2018-11-13 12:19:42,626 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.3:kss-automap-lane:20527 success
+2018-11-13 12:19:42,630 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.74:kss-automap-lane:20527
+2018-11-13 12:19:42,630 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.74:kss-automap-lane:20527 success
+2018-11-13 12:19:42,634 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.74:kss-automap-lane:20528
+2018-11-13 12:19:42,634 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.74:kss-automap-lane:20528 success
+2018-11-13 12:19:42,638 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.74:kss-automap-lane:20529
+2018-11-13 12:19:42,638 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.74:kss-automap-lane:20529 success
+2018-11-13 12:19:42,642 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.61:kss-automap-lane:20527
+2018-11-13 12:19:42,642 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.61:kss-automap-lane:20527 success
+2018-11-13 12:19:42,646 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.74:kss-automap-lane:20530
+2018-11-13 12:19:42,646 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.74:kss-automap-lane:20530 success
+2018-11-13 12:19:42,650 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.74:kss-automap-lane:20531
+2018-11-13 12:19:42,650 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.74:kss-automap-lane:20531 success
+2018-11-13 12:19:42,653 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.61:kss-automap-lane:20529
+2018-11-13 12:19:42,653 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.61:kss-automap-lane:20529 success
+2018-11-13 12:19:42,657 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.61:kss-automap-lane:20528
+2018-11-13 12:19:42,657 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.61:kss-automap-lane:20528 success
+2018-11-13 12:19:42,660 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.85:kss-automap-lane:20531
+2018-11-13 12:19:42,661 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.85:kss-automap-lane:20531 success
+2018-11-13 12:19:42,665 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.85:kss-automap-lane:20530
+2018-11-13 12:19:42,665 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.85:kss-automap-lane:20530 success
+2018-11-13 12:19:42,669 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.35:kss-automap-lane:20528
+2018-11-13 12:19:42,670 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.35:kss-automap-lane:20528 success
+2018-11-13 12:19:42,673 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.35:kss-automap-lane:20527
+2018-11-13 12:19:42,673 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.35:kss-automap-lane:20527 success
+2018-11-13 12:19:42,676 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.35:kss-automap-lane:20529
+2018-11-13 12:19:42,676 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.35:kss-automap-lane:20529 success
+2018-11-13 12:19:42,680 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.73:kss-automap-lane:20531
+2018-11-13 12:19:42,680 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.73:kss-automap-lane:20531 success
+2018-11-13 12:19:42,684 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.73:kss-automap-lane:20530
+2018-11-13 12:19:42,684 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.73:kss-automap-lane:20530 success
+2018-11-13 12:19:42,687 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.64:kss-automap-lane:20527
+2018-11-13 12:19:42,688 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.64:kss-automap-lane:20527 success
+2018-11-13 12:19:42,691 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.64:kss-automap-lane:20528
+2018-11-13 12:19:42,691 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.64:kss-automap-lane:20528 success
+2018-11-13 12:19:42,694 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.64:kss-automap-lane:20529
+2018-11-13 12:19:42,694 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.64:kss-automap-lane:20529 success
+2018-11-13 12:19:42,697 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.82:kss-automap-lane:20530
+2018-11-13 12:19:42,698 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.82:kss-automap-lane:20530 success
+2018-11-13 12:19:42,701 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.82:kss-automap-lane:20531
+2018-11-13 12:19:42,701 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.82:kss-automap-lane:20531 success
+2018-11-13 12:19:42,704 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.39:kss-automap-lane:20531
+2018-11-13 12:19:42,704 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.39:kss-automap-lane:20531 success
+2018-11-13 12:19:42,708 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.39:kss-automap-lane:20530
+2018-11-13 12:19:42,708 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.39:kss-automap-lane:20530 success
+2018-11-13 12:19:42,711 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.82:kss-automap-lane:20529
+2018-11-13 12:19:42,711 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.82:kss-automap-lane:20529 success
+2018-11-13 12:19:42,714 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.82:kss-automap-lane:20527
+2018-11-13 12:19:42,714 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.82:kss-automap-lane:20527 success
+2018-11-13 12:19:42,717 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.21:kss-automap-lane:20528
+2018-11-13 12:19:42,717 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.21:kss-automap-lane:20528 success
+2018-11-13 12:19:42,720 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.82:kss-automap-lane:20528
+2018-11-13 12:19:42,720 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.82:kss-automap-lane:20528 success
+2018-11-13 12:19:42,723 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.21:kss-automap-lane:20529
+2018-11-13 12:19:42,724 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.21:kss-automap-lane:20529 success
+2018-11-13 12:19:42,727 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.2:kss-automap-lane:20527
+2018-11-13 12:19:42,727 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.2:kss-automap-lane:20527 success
+2018-11-13 12:19:42,730 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.14:kss-automap-lane:20527
+2018-11-13 12:19:42,731 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.14:kss-automap-lane:20527 success
+2018-11-13 12:19:42,734 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.21:kss-automap-lane:20527
+2018-11-13 12:19:42,734 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.21:kss-automap-lane:20527 success
+2018-11-13 12:19:42,737 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.2:kss-automap-lane:20528
+2018-11-13 12:19:42,737 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.2:kss-automap-lane:20528 success
+2018-11-13 12:19:42,740 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.2:kss-automap-lane:20529
+2018-11-13 12:19:42,740 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.2:kss-automap-lane:20529 success
+2018-11-13 12:19:42,745 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.71:kss-automap-lane:20527
+2018-11-13 12:19:42,745 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.71:kss-automap-lane:20527 success
+2018-11-13 12:19:42,748 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.64:kss-automap-lane:20530
+2018-11-13 12:19:42,748 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.64:kss-automap-lane:20530 success
+2018-11-13 12:19:42,753 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.71:kss-automap-lane:20528
+2018-11-13 12:19:42,754 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.71:kss-automap-lane:20528 success
+2018-11-13 12:19:42,757 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.64:kss-automap-lane:20531
+2018-11-13 12:19:42,757 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.64:kss-automap-lane:20531 success
+2018-11-13 12:19:42,762 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.71:kss-automap-lane:20529
+2018-11-13 12:19:42,762 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.71:kss-automap-lane:20529 success
+2018-11-13 12:19:42,766 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.41:kss-automap-lane:20531
+2018-11-13 12:19:42,766 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.41:kss-automap-lane:20531 success
+2018-11-13 12:19:42,769 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.14:kss-automap-lane:20529
+2018-11-13 12:19:42,769 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.14:kss-automap-lane:20529 success
+2018-11-13 12:19:42,773 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.41:kss-automap-lane:20530
+2018-11-13 12:19:42,773 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.41:kss-automap-lane:20530 success
+2018-11-13 12:19:42,776 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.14:kss-automap-lane:20528
+2018-11-13 12:19:42,776 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.14:kss-automap-lane:20528 success
+2018-11-13 12:19:42,780 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.41:kss-automap-lane:20529
+2018-11-13 12:19:42,781 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.41:kss-automap-lane:20529 success
+2018-11-13 12:19:42,784 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.78:kss-automap-lane:20529
+2018-11-13 12:19:42,784 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.78:kss-automap-lane:20529 success
+2018-11-13 12:19:42,787 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.41:kss-automap-lane:20528
+2018-11-13 12:19:42,787 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.41:kss-automap-lane:20528 success
+2018-11-13 12:19:42,791 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.78:kss-automap-lane:20528
+2018-11-13 12:19:42,791 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.78:kss-automap-lane:20528 success
+2018-11-13 12:19:42,794 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.41:kss-automap-lane:20527
+2018-11-13 12:19:42,795 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.41:kss-automap-lane:20527 success
+2018-11-13 12:19:42,798 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.78:kss-automap-lane:20527
+2018-11-13 12:19:42,798 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.78:kss-automap-lane:20527 success
+2018-11-13 12:19:42,801 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.80:kss-automap-lane:20530
+2018-11-13 12:19:42,801 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.80:kss-automap-lane:20530 success
+2018-11-13 12:19:42,805 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.80:kss-automap-lane:20531
+2018-11-13 12:19:42,805 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.80:kss-automap-lane:20531 success
+2018-11-13 12:19:42,811 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.71:kss-automap-lane:20530
+2018-11-13 12:19:42,811 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.71:kss-automap-lane:20530 success
+2018-11-13 12:19:42,817 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.71:kss-automap-lane:20531
+2018-11-13 12:19:42,817 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.71:kss-automap-lane:20531 success
+2018-11-13 12:19:42,821 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.32:kss-automap-lane:20527
+2018-11-13 12:19:42,821 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.32:kss-automap-lane:20527 success
+2018-11-13 12:19:42,824 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.32:kss-automap-lane:20528
+2018-11-13 12:19:42,825 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.32:kss-automap-lane:20528 success
+2018-11-13 12:19:42,828 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.32:kss-automap-lane:20529
+2018-11-13 12:19:42,828 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.32:kss-automap-lane:20529 success
+2018-11-13 12:19:43,035 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.16:kss-automap-lane:20528
+2018-11-13 12:19:43,035 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.16:kss-automap-lane:20528 success
+2018-11-13 12:19:43,040 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.16:kss-automap-lane:20529
+2018-11-13 12:19:43,040 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.16:kss-automap-lane:20529 success
+2018-11-13 12:19:43,043 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.16:kss-automap-lane:20527
+2018-11-13 12:19:43,044 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.16:kss-automap-lane:20527 success
+2018-11-13 12:19:43,047 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.32:kss-automap-lane:20530
+2018-11-13 12:19:43,048 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.32:kss-automap-lane:20530 success
+2018-11-13 12:19:43,051 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.32:kss-automap-lane:20531
+2018-11-13 12:19:43,052 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.32:kss-automap-lane:20531 success
+2018-11-13 12:19:43,055 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.80:kss-automap-lane:20529
+2018-11-13 12:19:43,055 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.80:kss-automap-lane:20529 success
+2018-11-13 12:19:43,059 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.80:kss-automap-lane:20527
+2018-11-13 12:19:43,059 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.80:kss-automap-lane:20527 success
+2018-11-13 12:19:43,062 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.80:kss-automap-lane:20528
+2018-11-13 12:19:43,063 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.80:kss-automap-lane:20528 success
+2018-11-13 12:19:43,066 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.43:kss-automap-lane:20530
+2018-11-13 12:19:43,066 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.43:kss-automap-lane:20530 success
+2018-11-13 12:19:43,070 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.43:kss-automap-lane:20531
+2018-11-13 12:19:43,070 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.43:kss-automap-lane:20531 success
+2018-11-13 12:19:43,074 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.78:kss-automap-lane:20531
+2018-11-13 12:19:43,074 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.78:kss-automap-lane:20531 success
+2018-11-13 12:19:43,078 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.78:kss-automap-lane:20530
+2018-11-13 12:19:43,078 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.78:kss-automap-lane:20530 success
+2018-11-13 12:19:43,082 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.39:kss-automap-lane:20529
+2018-11-13 12:19:43,082 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.39:kss-automap-lane:20529 success
+2018-11-13 12:19:43,086 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.39:kss-automap-lane:20528
+2018-11-13 12:19:43,086 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.39:kss-automap-lane:20528 success
+2018-11-13 12:19:43,089 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.39:kss-automap-lane:20527
+2018-11-13 12:19:43,089 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.39:kss-automap-lane:20527 success
+2018-11-13 12:19:43,093 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.17:kss-automap-lane:20529
+2018-11-13 12:19:43,093 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.17:kss-automap-lane:20529 success
+2018-11-13 12:19:43,096 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.17:kss-automap-lane:20528
+2018-11-13 12:19:43,097 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.17:kss-automap-lane:20528 success
+2018-11-13 12:19:43,100 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.17:kss-automap-lane:20527
+2018-11-13 12:19:43,100 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.17:kss-automap-lane:20527 success
+2018-11-13 12:19:43,103 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.43:kss-automap-lane:20527
+2018-11-13 12:19:43,104 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.43:kss-automap-lane:20527 success
+2018-11-13 12:19:43,107 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.43:kss-automap-lane:20528
+2018-11-13 12:19:43,107 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.43:kss-automap-lane:20528 success
+2018-11-13 12:19:43,111 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.43:kss-automap-lane:20529
+2018-11-13 12:19:43,111 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.43:kss-automap-lane:20529 success
+2018-11-13 12:19:43,114 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.51:kss-automap-lane:20528
+2018-11-13 12:19:43,115 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.51:kss-automap-lane:20528 success
+2018-11-13 12:19:43,118 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.51:kss-automap-lane:20527
+2018-11-13 12:19:43,118 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.51:kss-automap-lane:20527 success
+2018-11-13 12:19:43,123 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.34:kss-automap-lane:20529
+2018-11-13 12:19:43,123 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.34:kss-automap-lane:20529 success
+2018-11-13 12:19:43,126 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.34:kss-automap-lane:20528
+2018-11-13 12:19:43,127 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.34:kss-automap-lane:20528 success
+2018-11-13 12:19:43,130 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.34:kss-automap-lane:20527
+2018-11-13 12:19:43,130 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.34:kss-automap-lane:20527 success
+2018-11-13 12:19:43,133 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.51:kss-automap-lane:20529
+2018-11-13 12:19:43,134 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.51:kss-automap-lane:20529 success
+2018-11-13 12:19:43,137 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.34:kss-automap-lane:20531
+2018-11-13 12:19:43,137 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.34:kss-automap-lane:20531 success
+2018-11-13 12:19:43,141 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.34:kss-automap-lane:20530
+2018-11-13 12:19:43,141 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.34:kss-automap-lane:20530 success
+2018-11-13 12:19:43,144 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.75:kss-automap-lane:20529
+2018-11-13 12:19:43,144 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.75:kss-automap-lane:20529 success
+2018-11-13 12:19:43,148 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.75:kss-automap-lane:20527
+2018-11-13 12:19:43,148 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.75:kss-automap-lane:20527 success
+2018-11-13 12:19:43,152 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.75:kss-automap-lane:20528
+2018-11-13 12:19:43,152 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.75:kss-automap-lane:20528 success
+2018-11-13 12:19:43,155 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.36:kss-automap-lane:20527
+2018-11-13 12:19:43,156 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.36:kss-automap-lane:20527 success
+2018-11-13 12:19:43,159 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.62:kss-automap-lane:20529
+2018-11-13 12:19:43,159 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.62:kss-automap-lane:20529 success
+2018-11-13 12:19:43,162 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.75:kss-automap-lane:20530
+2018-11-13 12:19:43,162 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.75:kss-automap-lane:20530 success
+2018-11-13 12:19:43,165 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.75:kss-automap-lane:20531
+2018-11-13 12:19:43,166 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.75:kss-automap-lane:20531 success
+2018-11-13 12:19:43,168 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.62:kss-automap-lane:20528
+2018-11-13 12:19:43,169 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.62:kss-automap-lane:20528 success
+2018-11-13 12:19:43,172 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.62:kss-automap-lane:20527
+2018-11-13 12:19:43,172 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.62:kss-automap-lane:20527 success
+2018-11-13 12:19:43,175 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.84:kss-automap-lane:20531
+2018-11-13 12:19:43,175 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.84:kss-automap-lane:20531 success
+2018-11-13 12:19:43,178 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.84:kss-automap-lane:20530
+2018-11-13 12:19:43,178 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.84:kss-automap-lane:20530 success
+2018-11-13 12:19:43,181 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.86:kss-automap-lane:20527
+2018-11-13 12:19:43,182 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.86:kss-automap-lane:20527 success
+2018-11-13 12:19:43,185 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.86:kss-automap-lane:20528
+2018-11-13 12:19:43,185 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.86:kss-automap-lane:20528 success
+2018-11-13 12:19:43,189 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.86:kss-automap-lane:20529
+2018-11-13 12:19:43,189 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.86:kss-automap-lane:20529 success
+2018-11-13 12:19:43,192 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.19:kss-automap-lane:20527
+2018-11-13 12:19:43,193 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.19:kss-automap-lane:20527 success
+2018-11-13 12:19:43,196 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.19:kss-automap-lane:20528
+2018-11-13 12:19:43,196 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.19:kss-automap-lane:20528 success
+2018-11-13 12:19:43,199 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.36:kss-automap-lane:20528
+2018-11-13 12:19:43,199 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.36:kss-automap-lane:20528 success
+2018-11-13 12:19:43,202 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.19:kss-automap-lane:20529
+2018-11-13 12:19:43,202 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.19:kss-automap-lane:20529 success
+2018-11-13 12:19:43,206 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.36:kss-automap-lane:20529
+2018-11-13 12:19:43,206 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.36:kss-automap-lane:20529 success
+2018-11-13 12:19:43,210 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.84:kss-automap-lane:20529
+2018-11-13 12:19:43,210 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.84:kss-automap-lane:20529 success
+2018-11-13 12:19:43,213 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.36:kss-automap-lane:20531
+2018-11-13 12:19:43,213 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.36:kss-automap-lane:20531 success
+2018-11-13 12:19:43,216 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.4:kss-automap-lane:20529
+2018-11-13 12:19:43,217 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.4:kss-automap-lane:20529 success
+2018-11-13 12:19:43,220 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.51:kss-automap-lane:20531
+2018-11-13 12:19:43,220 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.51:kss-automap-lane:20531 success
+2018-11-13 12:19:43,224 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.36:kss-automap-lane:20530
+2018-11-13 12:19:43,224 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.36:kss-automap-lane:20530 success
+2018-11-13 12:19:43,227 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.51:kss-automap-lane:20530
+2018-11-13 12:19:43,227 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.51:kss-automap-lane:20530 success
+2018-11-13 12:19:43,231 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.84:kss-automap-lane:20528
+2018-11-13 12:19:43,231 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.84:kss-automap-lane:20528 success
+2018-11-13 12:19:43,234 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.84:kss-automap-lane:20527
+2018-11-13 12:19:43,234 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.84:kss-automap-lane:20527 success
+2018-11-13 12:19:43,238 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.86:kss-automap-lane:20530
+2018-11-13 12:19:43,238 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.86:kss-automap-lane:20530 success
+2018-11-13 12:19:43,241 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.86:kss-automap-lane:20531
+2018-11-13 12:19:43,241 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.86:kss-automap-lane:20531 success
+2018-11-13 12:19:43,244 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.73:kss-automap-lane:20529
+2018-11-13 12:19:43,245 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.73:kss-automap-lane:20529 success
+2018-11-13 12:19:43,248 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.12:kss-automap-lane:20529
+2018-11-13 12:19:43,248 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.12:kss-automap-lane:20529 success
+2018-11-13 12:19:43,250 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.12:kss-automap-lane:20528
+2018-11-13 12:19:43,251 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.12:kss-automap-lane:20528 success
+2018-11-13 12:19:43,254 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.12:kss-automap-lane:20527
+2018-11-13 12:19:43,254 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.12:kss-automap-lane:20527 success
+2018-11-13 12:19:43,256 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.62:kss-automap-lane:20531
+2018-11-13 12:19:43,256 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.62:kss-automap-lane:20531 success
+2018-11-13 12:19:43,259 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.62:kss-automap-lane:20530
+2018-11-13 12:19:43,259 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.62:kss-automap-lane:20530 success
+2018-11-13 12:19:43,262 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.4:kss-automap-lane:20528
+2018-11-13 12:19:43,262 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.4:kss-automap-lane:20528 success
+2018-11-13 12:19:43,265 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.4:kss-automap-lane:20527
+2018-11-13 12:19:43,265 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.4:kss-automap-lane:20527 success
+2018-11-13 12:19:43,268 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.73:kss-automap-lane:20528
+2018-11-13 12:19:43,268 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.73:kss-automap-lane:20528 success
+2018-11-13 12:19:43,271 INFO 54248[check_automap_ver.py:44 check_ver]: checking 10.11.5.73:kss-automap-lane:20527
+2018-11-13 12:19:43,271 INFO 54248[check_automap_ver.py:49 check_ver]: check 10.11.5.73:kss-automap-lane:20527 success
+2018-11-13 12:19:43,272 INFO 54248[check_automap_ver.py:57 main]: mismatch list []
+[Finish] Success to check [kss-automap-lane]

@@ -1,0 +1,135 @@
+
+PLAY [gz-hadoop-worker] *******************************************************************************************************
+
+TASK [Gathering Facts] ********************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0013]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0015]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0011]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0012]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0017]
+ok: [hadoop-0016]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0018]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0019]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0014]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0021]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0020]
+ok: [hadoop-0022]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0023]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0024]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0025]
+ok: [hadoop-0027]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0026]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0028]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0029]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0030]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0031]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0032]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0033]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ok: [hadoop-0034]
+
+TASK [scp file to hadoop-worker] **********************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0013]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0015]
+changed: [hadoop-0011]
+changed: [hadoop-0012]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0014]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0018]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0016]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0019]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0020]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0017]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0022]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0021]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0024]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0025]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0023]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0026]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0027]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0029]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0028]
+changed: [hadoop-0030]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0031]
+changed: [hadoop-0033]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0032]
+ [WARNING]: Error deleting remote temporary files (rc: 2, stderr: })
+changed: [hadoop-0034]
+
+PLAY RECAP ********************************************************************************************************************
+hadoop-0011                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0012                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0013                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0014                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0015                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0016                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0017                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0018                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0019                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0020                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0021                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0022                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0023                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0024                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0025                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0026                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0027                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0028                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0029                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0030                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0031                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0032                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0033                : ok=2    changed=1    unreachable=0    failed=0   
+hadoop-0034                : ok=2    changed=1    unreachable=0    failed=0   
+
+scp -r hadoop@hadoop-0020:/tmp/test_multilane_client /mnt/data1/wzs
+file has arrive op-01, now distribute to hadoop-worker
+now do the ansible
+ansible-playbook /home/op/wzs/python/trancefile_hadoop.yaml -e scp_file=test_multilane_client -e dest_path=/opt/mr_binary
+0
+[Finish] Success to deploy [752]

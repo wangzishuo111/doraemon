@@ -1,0 +1,2 @@
+sh: 1: zhangclean: not found
+[Finish] Failed to clean [500]

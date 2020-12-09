@@ -1,0 +1,26 @@
+
+PLAY [autohdmap_lane] *******************************************************************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [common : install python-pip] ******************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [common : install python-docker] ***************************************************************************************************************
+ok: [10.11.5.137]
+
+TASK [autohdmap_lane : run container for autohdmap_lane op-01.gzproduction.com/kd-mr/lane:2.6] ******************************************************
+changed: [10.11.5.137]
+
+TASK [autohdmap_lane : make autohdmap config] *******************************************************************************************************
+changed: [10.11.5.137]
+
+TASK [autohdmap_lane : copy config to docker container] *********************************************************************************************
+fatal: [10.11.5.137]: FAILED! => {"changed": true, "cmd": "docker cp /tmp/autohdmap_lane_server.properties autohdmap_lane:/data/CI/autohdmap_lane/autohdmap_lane_server.properties", "delta": "0:00:00.275737", "end": "2018-10-26 19:06:32.440380", "msg": "non-zero return code", "rc": 1, "start": "2018-10-26 19:06:32.164643", "stderr": "Error: No such container:path: autohdmap_lane:/data/CI/autohdmap_lane", "stderr_lines": ["Error: No such container:path: autohdmap_lane:/data/CI/autohdmap_lane"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/kddev/cheng/autohdmap_deploy/autohdmap_lane.retry
+
+PLAY RECAP ******************************************************************************************************************************************
+10.11.5.137                : ok=5    changed=2    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/kd-mr/lane:2.6]

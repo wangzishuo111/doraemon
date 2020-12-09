@@ -1,0 +1,83 @@
+
+PLAY [reco_release] ******************************************************************************************************************************************
+
+TASK [Gathering Facts] ***************************************************************************************************************************************
+ok: [10.11.5.114]
+ok: [10.11.5.113]
+ok: [10.11.5.115]
+ok: [10.11.5.111]
+ok: [10.11.5.112]
+ok: [10.11.5.117]
+ok: [10.11.5.116]
+ok: [10.11.5.118]
+ok: [10.11.5.119]
+ok: [10.11.5.120]
+ok: [10.11.5.121]
+ok: [10.11.5.122]
+ok: [10.11.5.123]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.127]
+ok: [10.11.5.126]
+ok: [10.11.5.128]
+ok: [10.11.5.129]
+ok: [10.11.5.130]
+ok: [10.11.5.131]
+ok: [10.11.5.133]
+ok: [10.11.5.132]
+ok: [10.11.5.134]
+
+TASK [reco_release : pull reco images imageName] *************************************************************************************************************
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.118143", "end": "2018-10-29 18:05:28.922307", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:28.804164", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.102490", "end": "2018-10-29 18:05:28.938841", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:28.836351", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.105882", "end": "2018-10-29 18:05:28.939476", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:28.833594", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.233758", "end": "2018-10-29 18:05:29.048301", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:28.814543", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.205356", "end": "2018-10-29 18:05:29.110274", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:28.904918", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.113442", "end": "2018-10-29 18:05:29.324829", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.211387", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.097985", "end": "2018-10-29 18:05:29.373847", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.275862", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.118]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.098517", "end": "2018-10-29 18:05:29.416000", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.317483", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.146034", "end": "2018-10-29 18:05:29.598736", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.452702", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.120]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.214943", "end": "2018-10-29 18:05:29.779780", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.564837", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.121]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.119009", "end": "2018-10-29 18:05:29.787924", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.668915", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.123]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.148534", "end": "2018-10-29 18:05:30.012776", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.864242", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.124]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.231351", "end": "2018-10-29 18:05:30.130279", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.898928", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.122]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.599773", "end": "2018-10-29 18:05:30.390668", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:29.790895", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.127]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.128513", "end": "2018-10-29 18:05:30.447710", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.319197", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.126]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.251475", "end": "2018-10-29 18:05:30.450031", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.198556", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.125]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.456445", "end": "2018-10-29 18:05:30.517739", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.061294", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.128]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.221327", "end": "2018-10-29 18:05:30.663796", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.442469", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.130]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.239326", "end": "2018-10-29 18:05:31.073401", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.834075", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.131]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.182196", "end": "2018-10-29 18:05:31.081286", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.899090", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.132]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.119396", "end": "2018-10-29 18:05:31.101272", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.981876", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.133]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.189689", "end": "2018-10-29 18:05:31.244160", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:31.054471", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.129]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.581490", "end": "2018-10-29 18:05:31.270695", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:30.689205", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.134]: FAILED! => {"changed": true, "cmd": "docker pull imageName", "delta": "0:00:00.218965", "end": "2018-10-29 18:05:31.615910", "msg": "non-zero return code", "rc": 1, "start": "2018-10-29 18:05:31.396945", "stderr": "invalid reference format: repository name must be lowercase", "stderr_lines": ["invalid reference format: repository name must be lowercase"], "stdout": "", "stdout_lines": []}
+	to retry, use: --limit @/home/kddev/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP ***************************************************************************************************************************************************
+10.11.5.111                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.113                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.114                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.115                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.116                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.117                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.118                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.119                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.120                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.121                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to deploy [imageName]

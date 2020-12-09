@@ -1,0 +1,195 @@
+
+PLAY [reco_release] ************************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.113]
+ok: [10.11.5.115]
+ok: [10.11.5.111]
+ok: [10.11.5.112]
+ok: [10.11.5.117]
+ok: [10.11.5.116]
+ok: [10.11.5.119]
+ok: [10.11.5.118]
+ok: [10.11.5.114]
+ok: [10.11.5.122]
+ok: [10.11.5.120]
+ok: [10.11.5.123]
+ok: [10.11.5.121]
+ok: [10.11.5.124]
+ok: [10.11.5.125]
+ok: [10.11.5.126]
+ok: [10.11.5.128]
+ok: [10.11.5.127]
+ok: [10.11.5.129]
+ok: [10.11.5.130]
+ok: [10.11.5.131]
+ok: [10.11.5.132]
+ok: [10.11.5.133]
+ok: [10.11.5.134]
+
+TASK [reco_release : pull reco images haohao-shufu] ****************************************************************************************************************************************************************************************
+fatal: [10.11.5.114]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:14.228406", "end": "2018-11-14 17:18:32.847545", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:18.619139", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.113]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:16.252995", "end": "2018-11-14 17:18:34.838757", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:18.585762", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.112]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:16.322514", "end": "2018-11-14 17:18:34.901539", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:18.579025", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.111]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:16.350866", "end": "2018-11-14 17:18:34.943350", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:18.592484", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.115]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:16.489594", "end": "2018-11-14 17:18:35.045071", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:18.555477", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.116]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:12.456260", "end": "2018-11-14 17:18:45.693912", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:33.237652", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.117]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:12.199982", "end": "2018-11-14 17:18:47.398046", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:35.198064", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+fatal: [10.11.5.119]: FAILED! => {"changed": true, "cmd": "docker pull haohao-shufu", "delta": "0:00:12.493306", "end": "2018-11-14 17:18:47.806855", "msg": "non-zero return code", "rc": 1, "start": "2018-11-14 17:18:35.313549", "stderr": "Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'", "stderr_lines": ["Error response from daemon: pull access denied for haohao-shufu, repository does not exist or may require 'docker login'"], "stdout": "Using default tag: latest", "stdout_lines": ["Using default tag: latest"]}
+Process WorkerProcess-35:
+Process WorkerProcess-34:
+Process WorkerProcess-36:
+Process WorkerProcess-37:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process WorkerProcess-32:
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self.run()
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self.run()
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self._final_q
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    res = self._execute()
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = command_action.run(task_vars=task_vars)
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+ [ERROR]: User interrupted execution
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+    maxevents=max_events)
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+    result = func(*args, **kwargs)
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+KeyboardInterrupt
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+KeyboardInterrupt
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    maxevents=max_events)
+    result = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+KeyboardInterrupt
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+[Finish] Failed to deploy [haohao-shufu]

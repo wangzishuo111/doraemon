@@ -1,0 +1,131 @@
+2018-11-26 19:22:51,618 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:51,618 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.75
+2018-11-26 19:22:51,630 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:51,681 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:51,722 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:52,058 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-26 19:22:52,058 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:52,058 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-26 19:22:52,058 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:52,059 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:52,059 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.75
+2018-11-26 19:22:52,067 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:52,116 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:52,159 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:52,478 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh start
+2018-11-26 19:22:52,478 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:52,478 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-26 19:22:52,479 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:52,479 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:52,479 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.75
+2018-11-26 19:22:52,490 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:52,578 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:52,597 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:52,845 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh start
+2018-11-26 19:22:52,846 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:52,846 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-26 19:22:52,846 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:52,846 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:52,847 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:22:52,852 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:52,933 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:52,956 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:53,198 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-26 19:22:53,198 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:53,198 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-26 19:22:53,198 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:53,199 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:53,199 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:22:53,204 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:53,285 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:53,308 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:53,534 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_73_23260/kds-data.sh start
+2018-11-26 19:22:53,535 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:53,535 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_73_23260\n', u'kds-data.jar\n']
+2018-11-26 19:22:53,535 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:53,535 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:53,535 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.73
+2018-11-26 19:22:53,543 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:53,625 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:53,649 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:53,849 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_73_23270/kds-data.sh start
+2018-11-26 19:22:53,850 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:53,850 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_73_23270\n', u'kds-data.jar\n']
+2018-11-26 19:22:53,850 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:53,850 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:53,850 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.74
+2018-11-26 19:22:53,861 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:53,912 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:53,941 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:54,236 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-26 19:22:54,236 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:54,237 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-26 19:22:54,237 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:54,237 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:54,237 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.74
+2018-11-26 19:22:54,244 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:54,328 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:54,347 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:54,579 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_74_23260/kds-data.sh start
+2018-11-26 19:22:54,580 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:54,580 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_74_23260\n', u'kds-data.jar\n']
+2018-11-26 19:22:54,580 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:54,580 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:54,580 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.74
+2018-11-26 19:22:54,586 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:54,670 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:54,689 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:54,897 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_74_23270/kds-data.sh start
+2018-11-26 19:22:54,898 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:54,898 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_74_23270\n', u'kds-data.jar\n']
+2018-11-26 19:22:54,898 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:54,898 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:54,898 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.76
+2018-11-26 19:22:54,910 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:54,998 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:55,023 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:55,322 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_63_23210/kds-data.sh start
+2018-11-26 19:22:55,323 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:55,323 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_63_23210\n', u'kds-data.jar\n']
+2018-11-26 19:22:55,323 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:55,323 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:55,324 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.76
+2018-11-26 19:22:55,331 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:55,419 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:55,440 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:55,729 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_76_23260/kds-data.sh start
+2018-11-26 19:22:55,730 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:55,730 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_76_23260\n', u'kds-data.jar\n']
+2018-11-26 19:22:55,730 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:55,730 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:55,731 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.76
+2018-11-26 19:22:55,740 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:55,826 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:55,844 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:56,079 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_76_23270/kds-data.sh start
+2018-11-26 19:22:56,080 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:56,080 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_76_23270\n', u'kds-data.jar\n']
+2018-11-26 19:22:56,081 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:56,081 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:56,081 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.78
+2018-11-26 19:22:56,093 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:56,149 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:56,188 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:56,520 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23260/kds-data.sh start
+2018-11-26 19:22:56,521 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:56,521 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23260\n', u'kds-data.jar\n']
+2018-11-26 19:22:56,521 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-26 19:22:56,521 INFO 109994[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:22:56,521 INFO 109994[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.78
+2018-11-26 19:22:56,533 INFO 109994[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:22:56,586 INFO 109994[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:22:56,622 INFO 109994[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:22:56,942 INFO 109994[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-data_75_23270/kds-data.sh start
+2018-11-26 19:22:56,942 INFO 109994[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-26 19:22:56,943 INFO 109994[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-data_75_23270\n', u'kds-data.jar\n']
+2018-11-26 19:22:56,943 INFO 109994[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_start.py", line 32, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [572]

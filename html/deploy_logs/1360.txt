@@ -1,0 +1,30 @@
+
+PLAY [kds-data-closeEdit] ******************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.73]
+
+TASK [all : Stop "kds-data-closeEdit" service] *********************************
+changed: [10.11.5.73]
+
+TASK [all : Copy "kds-data-closeEdit" Package To Target-Hosts] *****************
+changed: [10.11.5.73]
+
+TASK [all : chown OWNER] *******************************************************
+ok: [10.11.5.73]
+
+TASK [all : Start "kds-data-closeEdit" service] ********************************
+changed: [10.11.5.73]
+
+TASK [all : check sum] *********************************************************
+ok: [10.11.5.73]
+
+TASK [all : show md5 sum] ******************************************************
+ok: [10.11.5.73] => {
+    "md5_info['stat']['checksum']": "cac9c6fb52ea35b9c0ea61f80074d7e5"
+}
+
+PLAY RECAP *********************************************************************
+10.11.5.73                 : ok=7    changed=3    unreachable=0    failed=0   
+
+[Finish] Success to start [1360]

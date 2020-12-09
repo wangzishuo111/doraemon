@@ -1,0 +1,14 @@
+
+PLAY [kcs-fusion] ***************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] **********************************************************************************************************************************************************************************
+ok: [10.11.5.80]
+
+TASK [all : Start "kcs-fusion" service] *****************************************************************************************************************************************************************
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kcs-fusion_mesh/kcs-fusion.sh start", "delta": "0:00:00.122779", "end": "2019-01-22 14:24:32.681425", "msg": "non-zero return code", "rc": 1, "start": "2019-01-22 14:24:32.558646", "stderr": "", "stderr_lines": [], "stdout": "/data/CI/kcs-fusion_mesh\nkcs-fusion.jar\nkcs-fusion.jar pid=35931 alreay started.", "stdout_lines": ["/data/CI/kcs-fusion_mesh", "kcs-fusion.jar", "kcs-fusion.jar pid=35931 alreay started."]}
+	to retry, use: --limit @/home/op/Java_service_release/Java_service_release.retry
+
+PLAY RECAP **********************************************************************************************************************************************************************************************
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1194]

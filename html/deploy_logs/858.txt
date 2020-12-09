@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/op/wzs/python/transfile_hadoop.py", line 27, in <module>
+    dest_path = sys.argv[2]
+IndexError: list index out of range
+[Finish] Failed to deploy [858]

@@ -1,0 +1,27 @@
+2018-11-27 14:19:07,685 INFO 125209[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:19:07,686 INFO 125209[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.79
+2018-11-27 14:19:07,694 INFO 125209[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:19:07,782 INFO 125209[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-27 14:19:07,802 INFO 125209[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-27 14:19:08,076 INFO 125209[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh start
+2018-11-27 14:19:08,077 INFO 125209[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:19:08,077 INFO 125209[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n']
+2018-11-27 14:19:08,077 INFO 125209[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-27 14:19:08,078 INFO 125209[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:19:08,078 INFO 125209[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.80
+2018-11-27 14:19:08,085 INFO 125209[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:19:08,173 INFO 125209[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-27 14:19:08,428 INFO 125209[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh start
+2018-11-27 14:19:08,429 INFO 125209[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:19:08,429 INFO 125209[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n']
+2018-11-27 14:19:08,429 INFO 125209[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+2018-11-27 14:19:08,430 INFO 125209[guizhou_start.py:18 start_cmd]: --------------------------------------------------------------------------------------------
+2018-11-27 14:19:08,430 INFO 125209[guizhou_start.py:19 start_cmd]: now start the host : 10.11.5.81
+2018-11-27 14:19:08,438 INFO 125209[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-27 14:19:08,525 INFO 125209[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-27 14:19:08,543 INFO 125209[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-27 14:19:08,775 INFO 125209[guizhou_start.py:25 start_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh start
+2018-11-27 14:19:08,775 INFO 125209[guizhou_start.py:26 start_cmd]: error list start is :[]
+2018-11-27 14:19:08,776 INFO 125209[guizhou_start.py:27 start_cmd]: stdout list start is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n']
+2018-11-27 14:19:08,776 INFO 125209[guizhou_start.py:28 start_cmd]: process is starting,wait a momunt
+[Finish] Success to deploy [605]

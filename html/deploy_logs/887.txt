@@ -1,0 +1,229 @@
+
+PLAY [autohdmap_lane_0] **********************************************************************
+
+TASK [clean task-0] **************************************************************************
+fatal: [10.11.5.63]: UNREACHABLE! => {"changed": false, "msg": "mkdir: cannot create directory ‘/home/op/.ansible/tmp/ansible-tmp-1545447717.93-246725867703675’: No space left on device\n", "unreachable": true}
+fatal: [10.11.5.62]: UNREACHABLE! => {"changed": false, "msg": "mkdir: cannot create directory ‘/home/op/.ansible/tmp/ansible-tmp-1545447717.92-112706691241647’: No space left on device\n", "unreachable": true}
+fatal: [10.11.5.64]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_0 bash -c \"find /data/CI/autohdmap_lane -name 'task*' -type d -mmin +5 |xargs rm -rf\"", "delta": "0:00:00.098966", "end": "2018-12-22 11:01:59.525309", "msg": "non-zero return code", "rc": 1, "start": "2018-12-22 11:01:59.426343", "stderr": "Error: No such container: autohdmap_lane_0", "stderr_lines": ["Error: No such container: autohdmap_lane_0"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.36]
+changed: [10.11.5.41]
+changed: [10.11.5.71]
+changed: [10.11.5.44]
+changed: [10.11.5.73]
+changed: [10.11.5.76]
+changed: [10.11.5.35]
+changed: [10.11.5.43]
+changed: [10.11.5.33]
+changed: [10.11.5.84]
+changed: [10.11.5.80]
+changed: [10.11.5.54]
+changed: [10.11.5.40]
+changed: [10.11.5.83]
+changed: [10.11.5.61]
+changed: [10.11.5.12]
+changed: [10.11.5.14]
+changed: [10.11.5.11]
+changed: [10.11.5.79]
+changed: [10.11.5.2]
+changed: [10.11.5.81]
+changed: [10.11.5.39]
+changed: [10.11.5.42]
+changed: [10.11.5.32]
+changed: [10.11.5.13]
+changed: [10.11.5.85]
+changed: [10.11.5.4]
+changed: [10.11.5.34]
+changed: [10.11.5.1]
+changed: [10.11.5.86]
+changed: [10.11.5.38]
+changed: [10.11.5.82]
+changed: [10.11.5.78]
+changed: [10.11.5.3]
+changed: [10.11.5.74]
+
+PLAY [autohdmap_lane_1] **********************************************************************
+
+TASK [clean task-1] **************************************************************************
+changed: [10.11.5.35]
+changed: [10.11.5.11]
+changed: [10.11.5.33]
+changed: [10.11.5.2]
+changed: [10.11.5.41]
+changed: [10.11.5.13]
+changed: [10.11.5.32]
+changed: [10.11.5.12]
+changed: [10.11.5.36]
+changed: [10.11.5.40]
+changed: [10.11.5.14]
+changed: [10.11.5.42]
+changed: [10.11.5.1]
+changed: [10.11.5.39]
+changed: [10.11.5.43]
+changed: [10.11.5.44]
+changed: [10.11.5.54]
+changed: [10.11.5.79]
+changed: [10.11.5.86]
+changed: [10.11.5.76]
+changed: [10.11.5.73]
+changed: [10.11.5.85]
+changed: [10.11.5.4]
+changed: [10.11.5.61]
+changed: [10.11.5.34]
+changed: [10.11.5.80]
+changed: [10.11.5.84]
+changed: [10.11.5.38]
+changed: [10.11.5.83]
+changed: [10.11.5.71]
+changed: [10.11.5.81]
+changed: [10.11.5.3]
+changed: [10.11.5.74]
+changed: [10.11.5.82]
+changed: [10.11.5.78]
+
+PLAY [autohdmap_lane_2] **********************************************************************
+
+TASK [clean task-2] **************************************************************************
+changed: [10.11.5.35]
+changed: [10.11.5.12]
+changed: [10.11.5.2]
+changed: [10.11.5.33]
+changed: [10.11.5.4]
+changed: [10.11.5.36]
+changed: [10.11.5.13]
+changed: [10.11.5.85]
+changed: [10.11.5.41]
+changed: [10.11.5.11]
+changed: [10.11.5.14]
+changed: [10.11.5.39]
+changed: [10.11.5.43]
+changed: [10.11.5.1]
+changed: [10.11.5.32]
+changed: [10.11.5.34]
+changed: [10.11.5.40]
+changed: [10.11.5.86]
+changed: [10.11.5.79]
+changed: [10.11.5.42]
+changed: [10.11.5.76]
+changed: [10.11.5.44]
+changed: [10.11.5.61]
+changed: [10.11.5.38]
+changed: [10.11.5.73]
+changed: [10.11.5.80]
+changed: [10.11.5.83]
+changed: [10.11.5.81]
+changed: [10.11.5.54]
+changed: [10.11.5.84]
+changed: [10.11.5.78]
+changed: [10.11.5.3]
+changed: [10.11.5.71]
+changed: [10.11.5.74]
+changed: [10.11.5.82]
+
+PLAY [autohdmap_lane_3] **********************************************************************
+
+TASK [clean task-3] **************************************************************************
+changed: [10.11.5.32]
+changed: [10.11.5.35]
+changed: [10.11.5.33]
+changed: [10.11.5.34]
+changed: [10.11.5.36]
+changed: [10.11.5.41]
+changed: [10.11.5.39]
+changed: [10.11.5.13]
+changed: [10.11.5.40]
+changed: [10.11.5.14]
+changed: [10.11.5.44]
+changed: [10.11.5.42]
+changed: [10.11.5.73]
+changed: [10.11.5.43]
+changed: [10.11.5.86]
+changed: [10.11.5.61]
+changed: [10.11.5.85]
+changed: [10.11.5.76]
+changed: [10.11.5.80]
+changed: [10.11.5.79]
+changed: [10.11.5.54]
+changed: [10.11.5.81]
+changed: [10.11.5.84]
+changed: [10.11.5.71]
+changed: [10.11.5.83]
+changed: [10.11.5.38]
+changed: [10.11.5.78]
+changed: [10.11.5.74]
+changed: [10.11.5.82]
+
+PLAY [autohdmap_lane_4] **********************************************************************
+
+TASK [clean task-4] **************************************************************************
+changed: [10.11.5.33]
+changed: [10.11.5.32]
+changed: [10.11.5.35]
+changed: [10.11.5.36]
+changed: [10.11.5.13]
+changed: [10.11.5.44]
+changed: [10.11.5.43]
+changed: [10.11.5.76]
+changed: [10.11.5.14]
+changed: [10.11.5.61]
+changed: [10.11.5.85]
+changed: [10.11.5.40]
+changed: [10.11.5.39]
+changed: [10.11.5.42]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.86]
+changed: [10.11.5.41]
+changed: [10.11.5.80]
+changed: [10.11.5.38]
+changed: [10.11.5.54]
+changed: [10.11.5.81]
+changed: [10.11.5.78]
+changed: [10.11.5.34]
+changed: [10.11.5.84]
+changed: [10.11.5.83]
+changed: [10.11.5.79]
+changed: [10.11.5.74]
+changed: [10.11.5.82]
+	to retry, use: --limit @/home/op/autohdmap_lane_release/clean_task.retry
+
+PLAY RECAP ***********************************************************************************
+10.11.5.1                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.11                 : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.12                 : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.13                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.14                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.2                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.3                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.32                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.33                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.34                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.35                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.36                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.38                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.39                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.4                  : ok=3    changed=3    unreachable=0    failed=0   
+10.11.5.40                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.41                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.42                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.43                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.44                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.54                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.61                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.62                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.63                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.64                 : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.71                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.73                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.74                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.76                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.78                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.79                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.80                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.81                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.82                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.83                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.84                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.85                 : ok=5    changed=5    unreachable=0    failed=0   
+10.11.5.86                 : ok=5    changed=5    unreachable=0    failed=0   
+
+[Finish] Failed to clean [887]

@@ -1,0 +1,407 @@
+
+PLAY [autohdmap_lane] **********************************************************************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************************************************************
+ok: [10.11.5.1]
+ok: [10.11.5.2]
+ok: [10.11.5.11]
+ok: [10.11.5.4]
+ok: [10.11.5.3]
+ok: [10.11.5.12]
+ok: [10.11.5.14]
+ok: [10.11.5.13]
+ok: [10.11.5.85]
+ok: [10.11.5.86]
+ok: [10.11.5.15]
+ok: [10.11.5.16]
+ok: [10.11.5.17]
+ok: [10.11.5.18]
+ok: [10.11.5.19]
+ok: [10.11.5.20]
+ok: [10.11.5.22]
+ok: [10.11.5.21]
+ok: [10.11.5.32]
+ok: [10.11.5.33]
+ok: [10.11.5.36]
+ok: [10.11.5.35]
+ok: [10.11.5.34]
+ok: [10.11.5.38]
+ok: [10.11.5.39]
+ok: [10.11.5.40]
+ok: [10.11.5.41]
+ok: [10.11.5.44]
+ok: [10.11.5.51]
+ok: [10.11.5.42]
+ok: [10.11.5.43]
+ok: [10.11.5.54]
+ok: [10.11.5.63]
+ok: [10.11.5.64]
+ok: [10.11.5.61]
+ok: [10.11.5.62]
+ok: [10.11.5.71]
+ok: [10.11.5.73]
+ok: [10.11.5.74]
+ok: [10.11.5.75]
+ok: [10.11.5.76]
+ok: [10.11.5.78]
+ok: [10.11.5.80]
+ok: [10.11.5.79]
+ok: [10.11.5.81]
+ok: [10.11.5.82]
+ok: [10.11.5.83]
+ok: [10.11.5.84]
+ok: [10.11.5.109]
+
+TASK [autohdmap_lane : run container for autohdmap_lane_0] *********************************************************************************************************************************************************************************
+ok: [10.11.5.2]
+ok: [10.11.5.4]
+ok: [10.11.5.11]
+ok: [10.11.5.1]
+ok: [10.11.5.3]
+ok: [10.11.5.12]
+ok: [10.11.5.13]
+ok: [10.11.5.14]
+ok: [10.11.5.85]
+ok: [10.11.5.86]
+ok: [10.11.5.15]
+ok: [10.11.5.16]
+ok: [10.11.5.17]
+ok: [10.11.5.18]
+ok: [10.11.5.19]
+ok: [10.11.5.20]
+ok: [10.11.5.21]
+ok: [10.11.5.22]
+ok: [10.11.5.32]
+ok: [10.11.5.33]
+ok: [10.11.5.34]
+ok: [10.11.5.35]
+ok: [10.11.5.36]
+ok: [10.11.5.38]
+ok: [10.11.5.39]
+ok: [10.11.5.40]
+ok: [10.11.5.41]
+ok: [10.11.5.44]
+ok: [10.11.5.42]
+ok: [10.11.5.43]
+ok: [10.11.5.51]
+ok: [10.11.5.54]
+ok: [10.11.5.62]
+ok: [10.11.5.61]
+ok: [10.11.5.63]
+ok: [10.11.5.64]
+ok: [10.11.5.71]
+ok: [10.11.5.73]
+ok: [10.11.5.74]
+ok: [10.11.5.75]
+ok: [10.11.5.76]
+ok: [10.11.5.78]
+ok: [10.11.5.79]
+ok: [10.11.5.81]
+ok: [10.11.5.80]
+ok: [10.11.5.82]
+ok: [10.11.5.83]
+ok: [10.11.5.84]
+ok: [10.11.5.109]
+
+TASK [autohdmap_lane : make autohdmap config] **********************************************************************************************************************************************************************************************
+changed: [10.11.5.11]
+changed: [10.11.5.4]
+changed: [10.11.5.1]
+changed: [10.11.5.2]
+changed: [10.11.5.3]
+changed: [10.11.5.12]
+changed: [10.11.5.13]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.15]
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.32]
+changed: [10.11.5.33]
+changed: [10.11.5.34]
+changed: [10.11.5.35]
+changed: [10.11.5.36]
+changed: [10.11.5.38]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.44]
+changed: [10.11.5.43]
+changed: [10.11.5.51]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.71]
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.80]
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.83]
+changed: [10.11.5.84]
+changed: [10.11.5.109]
+
+TASK [autohdmap_lane : copy config to docker container] ************************************************************************************************************************************************************************************
+changed: [10.11.5.4]
+changed: [10.11.5.2]
+changed: [10.11.5.11]
+changed: [10.11.5.1]
+changed: [10.11.5.3]
+changed: [10.11.5.12]
+changed: [10.11.5.13]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.15]
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.32]
+changed: [10.11.5.33]
+changed: [10.11.5.34]
+changed: [10.11.5.36]
+changed: [10.11.5.35]
+changed: [10.11.5.38]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.54]
+changed: [10.11.5.51]
+changed: [10.11.5.44]
+changed: [10.11.5.62]
+changed: [10.11.5.61]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.71]
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.79]
+changed: [10.11.5.80]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.84]
+changed: [10.11.5.109]
+changed: [10.11.5.83]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************************************************************
+changed: [10.11.5.1]
+changed: [10.11.5.2]
+changed: [10.11.5.4]
+changed: [10.11.5.11]
+changed: [10.11.5.3]
+changed: [10.11.5.12]
+changed: [10.11.5.13]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.15]
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.32]
+changed: [10.11.5.33]
+changed: [10.11.5.36]
+changed: [10.11.5.35]
+changed: [10.11.5.34]
+changed: [10.11.5.38]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.44]
+changed: [10.11.5.54]
+changed: [10.11.5.51]
+changed: [10.11.5.62]
+changed: [10.11.5.61]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.71]
+changed: [10.11.5.74]
+changed: [10.11.5.73]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+Process WorkerProcess-243:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process WorkerProcess-240:
+Process WorkerProcess-241:
+Process WorkerProcess-239:
+Process WorkerProcess-242:
+Traceback (most recent call last):
+    self.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+    self.run()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/process/worker.py", line 118, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    self._final_q
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    self._final_q
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 139, in run
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+ [ERROR]: User interrupted execution
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+    res = self._execute()
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    result = command_action.run(task_vars=task_vars)
+    res = self._execute()
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    res = self._execute()
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+  File "/usr/local/lib/python2.7/dist-packages/ansible/executor/task_executor.py", line 603, in _execute
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    result = self._handler.run(task_vars=variables)
+    result = self._handler.run(task_vars=variables)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/shell.py", line 27, in run
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    result = command_action.run(task_vars=task_vars)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/command.py", line 24, in run
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    results = merge_hash(results, self._execute_module(task_vars=task_vars, wrap_async=wrap_async))
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 839, in _execute_module
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    res = self._low_level_execute_command(cmd, sudoable=sudoable, in_data=in_data)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/action/__init__.py", line 954, in _low_level_execute_command
+    rc, stdout, stderr = self._connection.exec_command(cmd, in_data=in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 1081, in exec_command
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    result = func(*args, **kwargs)
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+KeyboardInterrupt
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+    (returncode, stdout, stderr) = self._run(cmd, in_data, sudoable=sudoable)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 337, in wrapped
+    return_tuple = func(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 971, in _run
+    return self._bare_run(cmd, in_data, sudoable=sudoable, checkrc=checkrc)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/plugins/connection/ssh.py", line 808, in _bare_run
+    events = selector.select(timeout)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 466, in select
+    maxevents=max_events)
+  File "/usr/local/lib/python2.7/dist-packages/ansible/compat/selectors/_selectors2.py", line 119, in _syscall_wrapper
+    result = func(*args, **kwargs)
+KeyboardInterrupt
+[Finish] Failed to deploy []

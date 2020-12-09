@@ -1,0 +1,21 @@
+2018-11-26 19:16:17,814 INFO 91053[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:16:17,814 INFO 91053[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:16:17,826 INFO 91053[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:16:17,915 INFO 91053[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:16:17,938 INFO 91053[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:16:18,343 INFO 91053[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:16:18,344 INFO 91053[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n', u'/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar (23240) shutdown.\n']
+2018-11-26 19:16:18,344 INFO 91053[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh stop
+2018-11-26 19:16:28,354 INFO 91053[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:16:28,355 INFO 91053[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:16:28,366 INFO 91053[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:16:28,460 INFO 91053[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:16:28,510 INFO 91053[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:16:28,881 INFO 91053[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:16:28,881 INFO 91053[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n', u'/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar (23240) shutdown.\n']
+2018-11-26 19:16:28,882 INFO 91053[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh stop
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_stop.py", line 32, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [566]

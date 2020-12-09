@@ -1,0 +1,6 @@
+
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 81, in <module>
+    with open('/home/op/mesh_deploy_5.80/%s' %server_name) as f:
+IOError: [Errno 21] Is a directory: '/home/op/mesh_deploy_5.80/'
+[Finish] Failed to deploy [281]

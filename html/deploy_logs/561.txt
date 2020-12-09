@@ -1,0 +1,28 @@
+2018-11-26 19:14:34,892 INFO 88404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:34,892 INFO 88404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.79:
+2018-11-26 19:14:34,904 INFO 88404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:34,991 INFO 88404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:35,010 INFO 88404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:35,413 INFO 88404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:35,413 INFO 88404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta_30_13200\n', u'kds-meta.jar\n', u'/data/CI/kds-meta_30_13200/lib/kds-meta.jar (13200) shutdown.\n']
+2018-11-26 19:14:35,413 INFO 88404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta_30_13200/kds-meta.sh stop
+2018-11-26 19:14:45,417 INFO 88404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:45,418 INFO 88404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.80:
+2018-11-26 19:14:45,426 INFO 88404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:45,513 INFO 88404[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-26 19:14:45,789 INFO 88404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:45,789 INFO 88404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta_30_13200\n', u'kds-meta.jar\n', u'/data/CI/kds-meta_30_13200/lib/kds-meta.jar (13200) shutdown.\n']
+2018-11-26 19:14:45,790 INFO 88404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta_30_13200/kds-meta.sh stop
+2018-11-26 19:14:55,800 INFO 88404[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:14:55,800 INFO 88404[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.81:
+2018-11-26 19:14:55,812 INFO 88404[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:14:55,866 INFO 88404[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:14:55,909 INFO 88404[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:14:56,300 INFO 88404[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:14:56,300 INFO 88404[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta_30_13200\n', u'kds-meta.jar\n', u'/data/CI/kds-meta_30_13200/lib/kds-meta.jar (13200) shutdown.\n']
+2018-11-26 19:14:56,301 INFO 88404[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-meta_30_13200/kds-meta.sh stop
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_stop.py", line 32, in <module>
+    ip , krs_sh, krs_jar, krs_jar_bak, lib_path ,server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [561]

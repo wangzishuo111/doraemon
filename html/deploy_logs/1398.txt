@@ -1,0 +1,70 @@
+
+PLAY [krs] *********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.74]
+ok: [10.11.5.4]
+ok: [10.11.5.2]
+ok: [10.11.5.1]
+ok: [10.11.5.72]
+ok: [10.11.5.73]
+ok: [10.11.5.12]
+ok: [10.11.5.33]
+ok: [10.11.5.11]
+ok: [10.11.5.13]
+ok: [10.11.5.83]
+ok: [10.11.5.84]
+ok: [10.11.5.82]
+ok: [10.11.5.79]
+ok: [10.11.5.75]
+ok: [10.11.5.77]
+ok: [10.11.5.76]
+ok: [10.11.5.80]
+ok: [10.11.5.78]
+ok: [10.11.5.81]
+
+TASK [all : Stop "krs" service] ************************************************
+fatal: [10.11.5.12]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs_mesh/krs.sh stop", "delta": "0:00:00.035995", "end": "2019-03-29 13:54:43.638609", "msg": "non-zero return code", "rc": 127, "start": "2019-03-29 13:54:43.602614", "stderr": "bash: /data/CI/krs_mesh/krs.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/krs_mesh/krs.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.13]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs_mesh/krs.sh stop", "delta": "0:00:00.037390", "end": "2019-03-29 13:54:43.659418", "msg": "non-zero return code", "rc": 127, "start": "2019-03-29 13:54:43.622028", "stderr": "bash: /data/CI/krs_mesh/krs.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/krs_mesh/krs.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.11]: FAILED! => {"changed": true, "cmd": "bash /data/CI/krs_mesh/krs.sh stop", "delta": "0:00:00.038849", "end": "2019-03-29 13:54:43.662078", "msg": "non-zero return code", "rc": 127, "start": "2019-03-29 13:54:43.623229", "stderr": "bash: /data/CI/krs_mesh/krs.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/krs_mesh/krs.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.4]
+changed: [10.11.5.1]
+changed: [10.11.5.33]
+changed: [10.11.5.2]
+changed: [10.11.5.74]
+changed: [10.11.5.73]
+changed: [10.11.5.72]
+changed: [10.11.5.82]
+changed: [10.11.5.75]
+changed: [10.11.5.83]
+changed: [10.11.5.79]
+changed: [10.11.5.84]
+changed: [10.11.5.78]
+changed: [10.11.5.76]
+changed: [10.11.5.80]
+changed: [10.11.5.77]
+changed: [10.11.5.81]
+
+PLAY RECAP *********************************************************************
+10.11.5.1                  : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.11                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.12                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.13                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.2                  : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.33                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.4                  : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.72                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.73                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.74                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.75                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.76                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.77                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.78                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.79                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.80                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.81                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.82                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.83                 : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.84                 : ok=2    changed=1    unreachable=0    failed=0   
+
+[Finish] Failed to start  [1398]

@@ -1,0 +1,1276 @@
+2018-11-22 09:48:12,396 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:12,491 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:12,538 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:13,215 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.1:kss-automap-lane:20529
+2018-11-22 09:48:13,216 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.1:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:13,216 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:13,494 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:13,580 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:13,601 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:14,276 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.1:kss-automap-lane:20528
+2018-11-22 09:48:14,277 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.1:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:14,277 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:14,360 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:14,410 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:14,454 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:15,132 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.81:kss-automap-lane:20527
+2018-11-22 09:48:15,132 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.81:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:15,132 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:15,210 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:15,303 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:15,324 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:16,074 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.81:kss-automap-lane:20528
+2018-11-22 09:48:16,074 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.81:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:16,074 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:16,131 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:16,179 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:16,219 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:16,897 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.1:kss-automap-lane:20527
+2018-11-22 09:48:16,897 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.1:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:16,898 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:16,996 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:17,048 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:17,090 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:17,775 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.81:kss-automap-lane:20529
+2018-11-22 09:48:17,776 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.81:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:17,776 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:17,864 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:17,950 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:17,975 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:18,600 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.22:kss-automap-lane:20527
+2018-11-22 09:48:18,601 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.22:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:18,601 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:18,697 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:18,786 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:18,809 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:19,507 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.22:kss-automap-lane:20528
+2018-11-22 09:48:19,507 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.22:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:19,508 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:19,592 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:19,642 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:19,685 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:20,362 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.22:kss-automap-lane:20529
+2018-11-22 09:48:20,362 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.22:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:20,362 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:20,669 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:20,759 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:20,781 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:21,471 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.109:kss-automap-lane:20531
+2018-11-22 09:48:21,471 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.109:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:21,471 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:21,564 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:21,655 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:21,678 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:22,338 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.109:kss-automap-lane:20530
+2018-11-22 09:48:22,338 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.109:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:22,338 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:22,415 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:22,500 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:22,524 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:23,200 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.13:kss-automap-lane:20528
+2018-11-22 09:48:23,200 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.13:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:23,201 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:23,282 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:23,332 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:23,380 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:24,103 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.13:kss-automap-lane:20527
+2018-11-22 09:48:24,103 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.13:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:24,103 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:24,187 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:24,237 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:24,279 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:24,930 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.40:kss-automap-lane:20531
+2018-11-22 09:48:24,930 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.40:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:24,930 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:25,015 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:25,069 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:25,103 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:25,776 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.13:kss-automap-lane:20529
+2018-11-22 09:48:25,776 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.13:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:25,776 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:25,875 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:25,928 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:25,964 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:26,601 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.40:kss-automap-lane:20530
+2018-11-22 09:48:26,601 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.40:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:26,602 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:26,699 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:26,751 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:26,794 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:27,527 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.38:kss-automap-lane:20527
+2018-11-22 09:48:27,528 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.38:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:27,528 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:27,614 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:27,708 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:27,733 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:28,508 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.38:kss-automap-lane:20529
+2018-11-22 09:48:28,508 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.38:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:28,508 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:28,604 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:28,660 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:28,698 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:29,473 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.38:kss-automap-lane:20528
+2018-11-22 09:48:29,473 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.38:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:29,474 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:29,548 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:29,600 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:29,640 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:30,369 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.40:kss-automap-lane:20528
+2018-11-22 09:48:30,369 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.40:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:30,369 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:30,466 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:30,517 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:30,555 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:31,166 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.40:kss-automap-lane:20527
+2018-11-22 09:48:31,166 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.40:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:31,167 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:31,267 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:31,318 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:31,362 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:32,010 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.79:kss-automap-lane:20527
+2018-11-22 09:48:32,011 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.79:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:32,011 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:32,112 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:32,202 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:32,227 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:32,825 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.79:kss-automap-lane:20528
+2018-11-22 09:48:32,825 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.79:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:32,825 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:32,918 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:33,002 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:33,027 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:33,528 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.79:kss-automap-lane:20529
+2018-11-22 09:48:33,529 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.79:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:33,529 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:33,626 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:33,714 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:33,735 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:34,261 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.83:kss-automap-lane:20531
+2018-11-22 09:48:34,261 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.83:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:34,261 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:34,355 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:34,440 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:34,465 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:35,080 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.63:kss-automap-lane:20529
+2018-11-22 09:48:35,080 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.63:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:35,080 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:35,172 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:35,260 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:35,282 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:35,854 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.63:kss-automap-lane:20528
+2018-11-22 09:48:35,855 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.63:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:35,855 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:35,943 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:36,030 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:36,053 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:36,743 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.40:kss-automap-lane:20529
+2018-11-22 09:48:36,743 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.40:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:36,744 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:36,838 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:36,924 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:36,947 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:37,494 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.63:kss-automap-lane:20527
+2018-11-22 09:48:37,494 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.63:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:37,494 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:37,594 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:37,648 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:37,689 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:38,428 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.38:kss-automap-lane:20530
+2018-11-22 09:48:38,429 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.38:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:38,429 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:38,511 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:38,597 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:38,617 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:39,161 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.83:kss-automap-lane:20530
+2018-11-22 09:48:39,161 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.83:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:39,162 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:39,281 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:39,377 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:39,426 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:40,151 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.38:kss-automap-lane:20531
+2018-11-22 09:48:40,151 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.38:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:40,151 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:40,212 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:40,300 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:40,319 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:41,015 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.109:kss-automap-lane:20528
+2018-11-22 09:48:41,015 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.109:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:41,015 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:41,105 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:41,158 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:41,198 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:41,889 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.109:kss-automap-lane:20527
+2018-11-22 09:48:41,889 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.109:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:41,889 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:41,985 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:42,038 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:42,078 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:42,763 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.109:kss-automap-lane:20529
+2018-11-22 09:48:42,763 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.109:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:42,763 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:42,856 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:42,907 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:42,951 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:43,688 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.33:kss-automap-lane:20530
+2018-11-22 09:48:43,688 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.33:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:43,688 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:43,767 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:43,852 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:43,874 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:44,498 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.54:kss-automap-lane:20531
+2018-11-22 09:48:44,498 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.54:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:44,498 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:44,796 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:44,852 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:44,883 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:45,599 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.20:kss-automap-lane:20528
+2018-11-22 09:48:45,600 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.20:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:45,600 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:45,694 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:45,783 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:45,806 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:46,516 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.33:kss-automap-lane:20531
+2018-11-22 09:48:46,516 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.33:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:46,517 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:46,614 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:46,666 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:46,701 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:47,426 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.20:kss-automap-lane:20527
+2018-11-22 09:48:47,427 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.20:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:47,427 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:47,514 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:47,602 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:47,626 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:48,321 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.15:kss-automap-lane:20527
+2018-11-22 09:48:48,321 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.15:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:48,322 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:48,405 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:48,454 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:48,491 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:49,158 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.15:kss-automap-lane:20528
+2018-11-22 09:48:49,158 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.15:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:49,158 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:49,252 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:49,341 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:49,358 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:49,997 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.20:kss-automap-lane:20529
+2018-11-22 09:48:49,997 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.20:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:49,998 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:50,095 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:50,150 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:50,182 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:50,799 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.54:kss-automap-lane:20530
+2018-11-22 09:48:50,799 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.54:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:50,799 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:50,891 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:50,946 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:50,985 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:51,725 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.42:kss-automap-lane:20530
+2018-11-22 09:48:51,726 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.42:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:51,726 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:51,812 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:51,864 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:51,908 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:52,610 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.42:kss-automap-lane:20531
+2018-11-22 09:48:52,610 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.42:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:52,610 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:52,711 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:52,764 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:52,806 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:53,510 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.15:kss-automap-lane:20529
+2018-11-22 09:48:53,510 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.15:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:53,510 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:53,603 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:53,687 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:53,706 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:54,336 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.79:kss-automap-lane:20530
+2018-11-22 09:48:54,337 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.79:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:54,337 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:54,416 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:54,504 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:54,523 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:55,107 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.79:kss-automap-lane:20531
+2018-11-22 09:48:55,107 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.79:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:55,107 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:55,200 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:55,252 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:55,295 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:56,063 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.81:kss-automap-lane:20530
+2018-11-22 09:48:56,063 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.81:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:48:56,063 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:56,162 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:56,215 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:56,259 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:57,021 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.81:kss-automap-lane:20531
+2018-11-22 09:48:57,021 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.81:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:48:57,021 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:57,113 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:57,163 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:57,209 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:57,906 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.42:kss-automap-lane:20527
+2018-11-22 09:48:57,906 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.42:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:48:57,907 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:58,010 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:58,101 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:58,125 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:58,862 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.42:kss-automap-lane:20528
+2018-11-22 09:48:58,862 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.42:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:48:58,863 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:58,977 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:59,028 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:59,071 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:48:59,798 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.42:kss-automap-lane:20529
+2018-11-22 09:48:59,798 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.42:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:48:59,798 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:48:59,900 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:48:59,954 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:48:59,989 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:00,597 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.54:kss-automap-lane:20528
+2018-11-22 09:49:00,598 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.54:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:00,598 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:00,683 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:00,773 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:00,795 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:01,421 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.54:kss-automap-lane:20529
+2018-11-22 09:49:01,421 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.54:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:01,421 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:01,522 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:01,610 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:01,634 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:02,266 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.54:kss-automap-lane:20527
+2018-11-22 09:49:02,266 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.54:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:02,267 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:02,369 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:02,422 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:02,464 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:03,133 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.35:kss-automap-lane:20531
+2018-11-22 09:49:03,133 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.35:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:03,133 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:03,241 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:03,333 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:03,355 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:04,101 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.35:kss-automap-lane:20530
+2018-11-22 09:49:04,101 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.35:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:04,102 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:04,199 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:04,288 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:04,308 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:04,921 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.61:kss-automap-lane:20531
+2018-11-22 09:49:04,922 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.61:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:04,922 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:05,016 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:05,072 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:05,111 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:05,845 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.85:kss-automap-lane:20528
+2018-11-22 09:49:05,845 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.85:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:05,846 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:05,940 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:05,994 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:06,027 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:06,754 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.85:kss-automap-lane:20529
+2018-11-22 09:49:06,755 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.85:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:06,755 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:06,849 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:06,901 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:06,944 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:07,746 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.85:kss-automap-lane:20527
+2018-11-22 09:49:07,747 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.85:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:07,747 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:07,838 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:07,894 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:07,934 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:08,679 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.44:kss-automap-lane:20531
+2018-11-22 09:49:08,680 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.44:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:08,680 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:08,760 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:08,814 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:08,856 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:09,572 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.44:kss-automap-lane:20530
+2018-11-22 09:49:09,572 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.44:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:09,572 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:09,661 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:09,748 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:09,769 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:10,328 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.61:kss-automap-lane:20530
+2018-11-22 09:49:10,328 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.61:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:10,328 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:10,429 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:10,480 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:10,526 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:11,300 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.76:kss-automap-lane:20529
+2018-11-22 09:49:11,300 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.76:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:11,300 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:11,390 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:11,440 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:11,485 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:12,247 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.76:kss-automap-lane:20528
+2018-11-22 09:49:12,247 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.76:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:12,248 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:12,345 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:12,397 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:12,439 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:13,211 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.76:kss-automap-lane:20527
+2018-11-22 09:49:13,211 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.76:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:13,211 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:13,310 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:13,362 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:13,407 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:14,217 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.76:kss-automap-lane:20531
+2018-11-22 09:49:14,217 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.76:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:14,218 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:14,319 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:14,374 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:14,418 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:15,135 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.76:kss-automap-lane:20530
+2018-11-22 09:49:15,135 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.76:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:15,136 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:15,216 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:15,270 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:15,311 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:16,049 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.44:kss-automap-lane:20528
+2018-11-22 09:49:16,049 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.44:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:16,050 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:16,153 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:16,203 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:16,245 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:16,948 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.44:kss-automap-lane:20527
+2018-11-22 09:49:16,948 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.44:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:16,948 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:17,037 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:17,122 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:17,142 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:17,892 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.44:kss-automap-lane:20529
+2018-11-22 09:49:17,892 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.44:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:17,893 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:17,976 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:18,027 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:18,073 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:18,820 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.33:kss-automap-lane:20527
+2018-11-22 09:49:18,820 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.33:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:18,821 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:18,941 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:19,027 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:19,054 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:19,755 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.33:kss-automap-lane:20528
+2018-11-22 09:49:19,756 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.33:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:19,756 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:19,853 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:19,939 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:19,964 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:20,678 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.18:kss-automap-lane:20527
+2018-11-22 09:49:20,678 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.18:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:20,678 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:20,772 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:20,820 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:20,858 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:21,542 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.18:kss-automap-lane:20529
+2018-11-22 09:49:21,542 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.18:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:21,542 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:21,842 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:21,892 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:21,928 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:22,606 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.18:kss-automap-lane:20528
+2018-11-22 09:49:22,606 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.18:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:22,606 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:22,699 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:22,752 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:22,794 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:23,542 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.33:kss-automap-lane:20529
+2018-11-22 09:49:23,543 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.33:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:23,543 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:23,642 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:23,730 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:23,748 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:24,296 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.83:kss-automap-lane:20529
+2018-11-22 09:49:24,296 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.83:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:24,296 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:24,399 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:24,486 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:24,504 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:25,038 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.83:kss-automap-lane:20528
+2018-11-22 09:49:25,038 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.83:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:25,039 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:25,154 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:25,207 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:25,245 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:26,281 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.3:kss-automap-lane:20528
+2018-11-22 09:49:26,281 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.3:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:26,281 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.3:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:26,393 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:26,446 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:26,484 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:27,459 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.3:kss-automap-lane:20529
+2018-11-22 09:49:27,459 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.3:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:27,459 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.3:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:27,562 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:27,650 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:27,667 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:28,182 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.83:kss-automap-lane:20527
+2018-11-22 09:49:28,182 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.83:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:28,182 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:28,286 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:28,375 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:28,399 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:29,076 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.11:kss-automap-lane:20529
+2018-11-22 09:49:29,076 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.11:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:29,077 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:29,175 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:29,263 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:29,287 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:29,944 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.11:kss-automap-lane:20527
+2018-11-22 09:49:29,944 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.11:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:29,944 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:30,051 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:30,139 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:30,163 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:30,835 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.11:kss-automap-lane:20528
+2018-11-22 09:49:30,835 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.11:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:30,835 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:30,938 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:31,024 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:31,051 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:31,658 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.63:kss-automap-lane:20531
+2018-11-22 09:49:31,659 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.63:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:31,659 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:31,758 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:31,844 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:31,869 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:32,429 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.63:kss-automap-lane:20530
+2018-11-22 09:49:32,430 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.63:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:32,430 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:32,538 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:32,590 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:32,627 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:33,816 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.3:kss-automap-lane:20527
+2018-11-22 09:49:33,817 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.3:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:33,817 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.3:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:33,913 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:33,965 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:34,007 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:34,741 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.74:kss-automap-lane:20527
+2018-11-22 09:49:34,741 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.74:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:34,742 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:34,851 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:34,940 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:34,961 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:35,667 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.74:kss-automap-lane:20528
+2018-11-22 09:49:35,668 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.74:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:35,668 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:35,776 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:35,828 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:35,872 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:36,630 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.74:kss-automap-lane:20529
+2018-11-22 09:49:36,630 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.74:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:36,630 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:36,731 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:36,818 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:36,843 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:37,480 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.61:kss-automap-lane:20527
+2018-11-22 09:49:37,480 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.61:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:37,480 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:37,588 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:37,640 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:37,687 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:38,437 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.74:kss-automap-lane:20530
+2018-11-22 09:49:38,437 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.74:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:38,438 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:38,539 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:38,593 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:38,630 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:39,370 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.74:kss-automap-lane:20531
+2018-11-22 09:49:39,370 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.74:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:39,371 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:39,486 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:39,574 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:39,596 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:40,206 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.61:kss-automap-lane:20529
+2018-11-22 09:49:40,206 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.61:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:40,206 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:40,296 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:40,382 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:40,404 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:40,960 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.61:kss-automap-lane:20528
+2018-11-22 09:49:40,961 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.61:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:40,961 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:41,065 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:41,119 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:41,162 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:41,933 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.85:kss-automap-lane:20531
+2018-11-22 09:49:41,933 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.85:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:41,934 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:42,036 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:42,091 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:42,133 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:42,885 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.85:kss-automap-lane:20530
+2018-11-22 09:49:42,885 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.85:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:42,885 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:42,993 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:43,086 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:43,110 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:43,811 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.35:kss-automap-lane:20528
+2018-11-22 09:49:43,812 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.35:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:43,812 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:43,914 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:43,970 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:44,009 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:44,749 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.35:kss-automap-lane:20527
+2018-11-22 09:49:44,750 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.35:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:44,750 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:44,839 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:44,893 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:44,929 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:45,611 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.35:kss-automap-lane:20529
+2018-11-22 09:49:45,611 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.35:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:45,612 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:45,721 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:45,774 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:45,819 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:46,595 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.73:kss-automap-lane:20531
+2018-11-22 09:49:46,595 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.73:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:46,595 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:46,699 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:46,751 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:46,794 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:47,545 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.73:kss-automap-lane:20530
+2018-11-22 09:49:47,545 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.73:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:47,545 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:47,648 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:47,732 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:47,759 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:48,301 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.64:kss-automap-lane:20527
+2018-11-22 09:49:48,301 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.64:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:48,302 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:48,398 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:48,483 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:48,505 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:49,112 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.64:kss-automap-lane:20528
+2018-11-22 09:49:49,113 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.64:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:49,113 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:49,216 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:49,311 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:49,332 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:49,979 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.82:kss-automap-lane:20530
+2018-11-22 09:49:49,979 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.82:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:49,980 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:50,085 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:50,173 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:50,197 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:50,807 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.64:kss-automap-lane:20529
+2018-11-22 09:49:50,807 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.64:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:50,807 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:50,907 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:50,995 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:51,018 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:51,728 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.82:kss-automap-lane:20531
+2018-11-22 09:49:51,728 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.82:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:51,728 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:51,842 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:51,934 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:51,957 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:52,649 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.39:kss-automap-lane:20531
+2018-11-22 09:49:52,649 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.39:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:49:52,650 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:52,757 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:52,808 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:52,853 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:53,634 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.39:kss-automap-lane:20530
+2018-11-22 09:49:53,634 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.39:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:49:53,635 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:53,740 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:53,790 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:53,827 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:54,511 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.82:kss-automap-lane:20529
+2018-11-22 09:49:54,511 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.82:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:54,511 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:54,615 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:54,701 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:54,724 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:55,435 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.21:kss-automap-lane:20528
+2018-11-22 09:49:55,435 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.21:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:55,436 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:55,523 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:55,611 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:55,633 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:56,308 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.82:kss-automap-lane:20527
+2018-11-22 09:49:56,308 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.82:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:56,308 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:56,386 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:56,485 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:56,498 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:57,191 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.82:kss-automap-lane:20528
+2018-11-22 09:49:57,191 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.82:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:49:57,192 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:57,250 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:57,295 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:57,330 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:57,932 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.21:kss-automap-lane:20529
+2018-11-22 09:49:57,933 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.21:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:49:57,933 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:58,001 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:58,052 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:58,092 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:58,760 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.2:kss-automap-lane:20527
+2018-11-22 09:49:58,760 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.2:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:58,761 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:58,875 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:58,962 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:58,978 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:49:59,652 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.14:kss-automap-lane:20527
+2018-11-22 09:49:59,652 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.14:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:49:59,653 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:49:59,734 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:49:59,784 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:49:59,825 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:00,577 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.2:kss-automap-lane:20528
+2018-11-22 09:50:00,577 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.2:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:00,577 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:00,680 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:00,731 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:00,772 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:01,433 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.21:kss-automap-lane:20527
+2018-11-22 09:50:01,433 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.21:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:01,433 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:01,546 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:01,634 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:01,658 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:02,367 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.2:kss-automap-lane:20529
+2018-11-22 09:50:02,367 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.2:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:02,367 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:02,473 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:02,561 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:02,586 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:03,191 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.64:kss-automap-lane:20530
+2018-11-22 09:50:03,192 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.64:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:03,192 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:03,298 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:03,354 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:03,395 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:04,157 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.71:kss-automap-lane:20527
+2018-11-22 09:50:04,157 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.71:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:04,157 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:04,262 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:04,348 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:04,374 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:04,930 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.64:kss-automap-lane:20531
+2018-11-22 09:50:04,930 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.64:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:04,931 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:05,034 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:05,088 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:05,131 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:05,843 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.71:kss-automap-lane:20528
+2018-11-22 09:50:05,844 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.71:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:05,844 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:05,935 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:05,985 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:06,029 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:06,806 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.71:kss-automap-lane:20529
+2018-11-22 09:50:06,807 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.71:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:06,807 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:06,906 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:06,960 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:07,004 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:07,750 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.41:kss-automap-lane:20531
+2018-11-22 09:50:07,750 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.41:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:07,750 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:07,854 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:07,943 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:07,964 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:08,662 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.14:kss-automap-lane:20529
+2018-11-22 09:50:08,662 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.14:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:08,662 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:08,765 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:08,820 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:08,856 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:09,630 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.41:kss-automap-lane:20530
+2018-11-22 09:50:09,631 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.41:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:09,631 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:09,734 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:09,823 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:09,845 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:10,528 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.14:kss-automap-lane:20528
+2018-11-22 09:50:10,528 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.14:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:10,528 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:10,633 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:10,688 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:10,733 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:11,528 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.41:kss-automap-lane:20529
+2018-11-22 09:50:11,528 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.41:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:11,528 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:11,634 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:11,685 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:11,730 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:12,482 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.78:kss-automap-lane:20529
+2018-11-22 09:50:12,482 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.78:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:12,482 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:12,583 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:12,637 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:12,679 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:13,463 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.41:kss-automap-lane:20528
+2018-11-22 09:50:13,463 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.41:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:13,464 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:13,567 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:13,622 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:13,665 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:14,353 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.78:kss-automap-lane:20528
+2018-11-22 09:50:14,354 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.78:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:14,354 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:14,461 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:14,548 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:14,573 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:15,307 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.41:kss-automap-lane:20527
+2018-11-22 09:50:15,308 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.41:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:15,308 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:15,412 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:15,466 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:15,510 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:16,212 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.78:kss-automap-lane:20527
+2018-11-22 09:50:16,213 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.78:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:16,213 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:16,317 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:16,372 INFO 37845[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-22 09:50:16,897 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.80:kss-automap-lane:20530
+2018-11-22 09:50:16,898 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.80:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:16,898 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:16,994 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:17,085 INFO 37845[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-22 09:50:17,600 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.80:kss-automap-lane:20531
+2018-11-22 09:50:17,600 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.80:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:17,600 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:17,704 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:17,755 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:17,800 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:18,544 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.71:kss-automap-lane:20530
+2018-11-22 09:50:18,545 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.71:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:18,545 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:18,673 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:18,759 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:18,786 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:19,392 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.71:kss-automap-lane:20531
+2018-11-22 09:50:19,392 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.71:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:19,393 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:19,493 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:19,581 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:19,605 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:20,435 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.32:kss-automap-lane:20527
+2018-11-22 09:50:20,435 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.32:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:20,435 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:20,546 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:20,677 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:20,699 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:21,458 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.32:kss-automap-lane:20528
+2018-11-22 09:50:21,458 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.32:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:21,458 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:21,565 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:21,617 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:21,661 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:22,452 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.32:kss-automap-lane:20529
+2018-11-22 09:50:22,453 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.32:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:22,453 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:22,554 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:22,604 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:22,642 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:23,316 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.16:kss-automap-lane:20528
+2018-11-22 09:50:23,316 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.16:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:23,316 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:23,420 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:23,472 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:23,507 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:24,198 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.16:kss-automap-lane:20529
+2018-11-22 09:50:24,199 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.16:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:24,199 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:24,293 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:24,381 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:24,404 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:25,151 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.32:kss-automap-lane:20530
+2018-11-22 09:50:25,151 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.32:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:25,151 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:25,246 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:25,333 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:25,354 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:26,032 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.16:kss-automap-lane:20527
+2018-11-22 09:50:26,033 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.16:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:26,033 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:26,138 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:26,188 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:26,233 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:26,969 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.32:kss-automap-lane:20531
+2018-11-22 09:50:26,969 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.32:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:26,969 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:27,070 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:27,169 INFO 37845[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-22 09:50:27,744 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.80:kss-automap-lane:20529
+2018-11-22 09:50:27,744 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.80:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:27,744 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:27,848 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:27,933 INFO 37845[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-22 09:50:28,537 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.80:kss-automap-lane:20527
+2018-11-22 09:50:28,537 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.80:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:28,537 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:28,633 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:28,721 INFO 37845[transport.py:1746 _log]: Authentication (publickey) successful!
+2018-11-22 09:50:29,269 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.80:kss-automap-lane:20528
+2018-11-22 09:50:29,269 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.80:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:29,269 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:29,369 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:29,425 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:29,461 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:30,203 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.43:kss-automap-lane:20530
+2018-11-22 09:50:30,204 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.43:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:30,205 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:30,310 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:30,399 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:30,426 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:31,138 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.43:kss-automap-lane:20531
+2018-11-22 09:50:31,138 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.43:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:31,139 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:31,244 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:31,297 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:31,342 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:32,100 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.78:kss-automap-lane:20531
+2018-11-22 09:50:32,100 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.78:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:32,101 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:32,208 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:32,297 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:32,319 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:33,085 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.78:kss-automap-lane:20530
+2018-11-22 09:50:33,085 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.78:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:33,085 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:33,186 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:33,341 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:33,383 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:34,099 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.39:kss-automap-lane:20529
+2018-11-22 09:50:34,099 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.39:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:34,100 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:34,193 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:34,247 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:34,290 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:35,041 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.39:kss-automap-lane:20528
+2018-11-22 09:50:35,042 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.39:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:35,042 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:35,139 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:35,191 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:35,238 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:35,938 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.39:kss-automap-lane:20527
+2018-11-22 09:50:35,938 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.39:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:35,938 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:36,041 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:36,093 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:36,127 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:36,805 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.17:kss-automap-lane:20529
+2018-11-22 09:50:36,805 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.17:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:36,805 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:36,903 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:36,988 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:37,014 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:37,724 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.17:kss-automap-lane:20528
+2018-11-22 09:50:37,724 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.17:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:37,724 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:37,821 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:37,909 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:37,929 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:38,602 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.17:kss-automap-lane:20527
+2018-11-22 09:50:38,602 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.17:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:38,602 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:38,700 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:38,787 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:38,815 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:39,575 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.43:kss-automap-lane:20527
+2018-11-22 09:50:39,575 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.43:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:39,575 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:39,662 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:39,751 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:39,774 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:40,496 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.43:kss-automap-lane:20528
+2018-11-22 09:50:40,497 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.43:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:40,497 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:40,598 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:40,651 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:40,694 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:41,377 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.43:kss-automap-lane:20529
+2018-11-22 09:50:41,377 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.43:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:41,377 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:41,457 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:41,542 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:41,566 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:42,149 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.51:kss-automap-lane:20528
+2018-11-22 09:50:42,149 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.51:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:42,149 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:42,246 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:42,335 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:42,356 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:42,948 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.51:kss-automap-lane:20527
+2018-11-22 09:50:42,949 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.51:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:42,949 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:43,053 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:43,107 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:43,151 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:43,903 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.34:kss-automap-lane:20529
+2018-11-22 09:50:43,903 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.34:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:43,903 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:43,993 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:44,080 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:44,107 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:44,788 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.34:kss-automap-lane:20528
+2018-11-22 09:50:44,789 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.34:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:44,789 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:44,891 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:44,943 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:44,985 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:45,642 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.34:kss-automap-lane:20527
+2018-11-22 09:50:45,643 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.34:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:45,643 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:45,748 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:45,835 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:45,857 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:46,440 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.51:kss-automap-lane:20529
+2018-11-22 09:50:46,441 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.51:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:46,441 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:46,549 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:46,602 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:46,644 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:47,393 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.34:kss-automap-lane:20531
+2018-11-22 09:50:47,394 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.34:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:47,394 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:47,495 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:47,586 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:47,611 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:48,318 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.34:kss-automap-lane:20530
+2018-11-22 09:50:48,318 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.34:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:48,318 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:48,426 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:48,483 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:48,521 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:49,265 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.75:kss-automap-lane:20529
+2018-11-22 09:50:49,265 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.75:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:49,265 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:49,361 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:49,415 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:49,456 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:50,190 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.75:kss-automap-lane:20527
+2018-11-22 09:50:50,191 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.75:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:50,192 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:50,284 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:50,371 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:50,400 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:51,122 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.75:kss-automap-lane:20528
+2018-11-22 09:50:51,122 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.75:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:51,122 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:51,221 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:51,308 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:51,331 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:51,932 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.62:kss-automap-lane:20529
+2018-11-22 09:50:51,933 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.62:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:50:51,933 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:52,036 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:52,130 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:52,152 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:52,907 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.36:kss-automap-lane:20527
+2018-11-22 09:50:52,907 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.36:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:52,907 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:53,014 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:53,068 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:53,112 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:53,851 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.75:kss-automap-lane:20530
+2018-11-22 09:50:53,852 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.75:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:53,852 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:53,956 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:54,044 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:54,072 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:54,828 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.75:kss-automap-lane:20531
+2018-11-22 09:50:54,829 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.75:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:54,829 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:54,934 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:55,020 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:55,048 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:55,659 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.62:kss-automap-lane:20528
+2018-11-22 09:50:55,659 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.62:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:55,659 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:55,762 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:55,847 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:55,873 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:56,487 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.62:kss-automap-lane:20527
+2018-11-22 09:50:56,487 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.62:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:56,487 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:56,585 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:56,672 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:56,690 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:57,161 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.84:kss-automap-lane:20531
+2018-11-22 09:50:57,161 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.84:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:50:57,161 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:57,269 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:57,354 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:57,378 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:57,856 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.84:kss-automap-lane:20530
+2018-11-22 09:50:57,857 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.84:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:50:57,857 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:57,986 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:58,075 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:58,099 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:58,853 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.86:kss-automap-lane:20527
+2018-11-22 09:50:58,853 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.86:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:50:58,854 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:58,955 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:59,007 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:59,053 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:50:59,804 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.86:kss-automap-lane:20528
+2018-11-22 09:50:59,804 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.86:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:50:59,805 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:50:59,904 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:50:59,953 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:50:59,994 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:00,686 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.86:kss-automap-lane:20529
+2018-11-22 09:51:00,687 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.86:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:00,687 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:00,790 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:00,876 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:00,899 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:01,593 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.19:kss-automap-lane:20527
+2018-11-22 09:51:01,593 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.19:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:51:01,593 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:01,694 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:01,780 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:01,801 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:02,468 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.19:kss-automap-lane:20528
+2018-11-22 09:51:02,468 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.19:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:02,468 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:02,567 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:02,623 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:02,659 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:03,429 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.36:kss-automap-lane:20528
+2018-11-22 09:51:03,429 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.36:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:03,429 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:03,521 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:03,572 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:03,608 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:04,241 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.19:kss-automap-lane:20529
+2018-11-22 09:51:04,241 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.19:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:04,241 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:04,335 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:04,443 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:04,468 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:05,237 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.36:kss-automap-lane:20529
+2018-11-22 09:51:05,237 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.36:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:05,238 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:05,339 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:05,424 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:05,444 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:05,923 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.84:kss-automap-lane:20529
+2018-11-22 09:51:05,923 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.84:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:05,923 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:06,015 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:06,070 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:06,106 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:06,901 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.36:kss-automap-lane:20531
+2018-11-22 09:51:06,901 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.36:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:51:06,901 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:07,000 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:07,053 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:07,092 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:07,792 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.4:kss-automap-lane:20529
+2018-11-22 09:51:07,793 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.4:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:07,793 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:07,900 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:07,987 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:08,013 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:08,597 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.51:kss-automap-lane:20531
+2018-11-22 09:51:08,597 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.51:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:51:08,597 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:08,705 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:08,758 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:08,802 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:09,518 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.36:kss-automap-lane:20530
+2018-11-22 09:51:09,519 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.36:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:51:09,519 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:09,622 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:09,711 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:09,734 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:10,258 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.51:kss-automap-lane:20530
+2018-11-22 09:51:10,258 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.51:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:51:10,259 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:10,352 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:10,438 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:10,458 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:10,948 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.84:kss-automap-lane:20528
+2018-11-22 09:51:10,949 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.84:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:10,949 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:11,043 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:11,128 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:11,148 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:11,615 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.84:kss-automap-lane:20527
+2018-11-22 09:51:11,615 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.84:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:51:11,615 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:11,715 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:11,767 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:11,812 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:12,509 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.86:kss-automap-lane:20530
+2018-11-22 09:51:12,509 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.86:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:51:12,510 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:12,616 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:12,671 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:12,715 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:13,444 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.86:kss-automap-lane:20531
+2018-11-22 09:51:13,444 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.86:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:51:13,444 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:13,548 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:13,602 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:13,631 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:14,326 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.73:kss-automap-lane:20529
+2018-11-22 09:51:14,327 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.73:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:14,327 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:14,414 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:14,465 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:14,504 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:15,213 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.12:kss-automap-lane:20529
+2018-11-22 09:51:15,213 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.12:kss-automap-lane:20529 failed, version mismatch
+2018-11-22 09:51:15,214 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20529 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:15,306 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:15,393 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:15,412 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:16,105 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.12:kss-automap-lane:20528
+2018-11-22 09:51:16,106 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.12:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:16,106 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:16,208 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:16,297 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:16,317 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:16,907 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.62:kss-automap-lane:20531
+2018-11-22 09:51:16,907 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.62:kss-automap-lane:20531 failed, version mismatch
+2018-11-22 09:51:16,908 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20531 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:17,027 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:17,112 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:17,135 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:17,831 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.12:kss-automap-lane:20527
+2018-11-22 09:51:17,832 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.12:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:51:17,832 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:17,929 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:18,016 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:18,038 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:18,653 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.62:kss-automap-lane:20530
+2018-11-22 09:51:18,654 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.62:kss-automap-lane:20530 failed, version mismatch
+2018-11-22 09:51:18,654 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20530 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:18,935 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:19,021 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:19,044 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:19,744 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.4:kss-automap-lane:20528
+2018-11-22 09:51:19,744 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.4:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:19,744 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:19,850 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:19,939 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:19,960 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:20,644 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.4:kss-automap-lane:20527
+2018-11-22 09:51:20,644 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.4:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:51:20,644 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:20,754 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:20,843 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:20,864 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:21,667 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.73:kss-automap-lane:20528
+2018-11-22 09:51:21,668 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.73:kss-automap-lane:20528 failed, version mismatch
+2018-11-22 09:51:21,668 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20528 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:21,771 INFO 37845[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 09:51:21,822 INFO 37845[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 09:51:21,866 INFO 37845[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 09:51:22,526 INFO 37845[check_automap_ver_v2.py:68 check_ver]: checking 10.11.5.73:kss-automap-lane:20527
+2018-11-22 09:51:22,526 INFO 37845[check_automap_ver_v2.py:70 check_ver]: check 10.11.5.73:kss-automap-lane:20527 failed, version mismatch
+2018-11-22 09:51:22,527 INFO 37845[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20527 md5sum [u'9529c2fc126cd29114fb8848d976d047  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-22 09:51:22,527 INFO 37845[check_automap_ver_v2.py:75 check_ver]: checked instance num 213
+2018-11-22 09:51:22,527 INFO 37845[check_automap_ver_v2.py:83 main]: mismatch list [u'10.11.5.1:kss-automap-lane:20529', u'10.11.5.1:kss-automap-lane:20528', u'10.11.5.81:kss-automap-lane:20527', u'10.11.5.81:kss-automap-lane:20528', u'10.11.5.1:kss-automap-lane:20527', u'10.11.5.81:kss-automap-lane:20529', u'10.11.5.22:kss-automap-lane:20527', u'10.11.5.22:kss-automap-lane:20528', u'10.11.5.22:kss-automap-lane:20529', u'10.11.5.109:kss-automap-lane:20531', u'10.11.5.109:kss-automap-lane:20530', u'10.11.5.13:kss-automap-lane:20528', u'10.11.5.13:kss-automap-lane:20527', u'10.11.5.40:kss-automap-lane:20531', u'10.11.5.13:kss-automap-lane:20529', u'10.11.5.40:kss-automap-lane:20530', u'10.11.5.38:kss-automap-lane:20527', u'10.11.5.38:kss-automap-lane:20529', u'10.11.5.38:kss-automap-lane:20528', u'10.11.5.40:kss-automap-lane:20528', u'10.11.5.40:kss-automap-lane:20527', u'10.11.5.79:kss-automap-lane:20527', u'10.11.5.79:kss-automap-lane:20528', u'10.11.5.79:kss-automap-lane:20529', u'10.11.5.83:kss-automap-lane:20531', u'10.11.5.63:kss-automap-lane:20529', u'10.11.5.63:kss-automap-lane:20528', u'10.11.5.40:kss-automap-lane:20529', u'10.11.5.63:kss-automap-lane:20527', u'10.11.5.38:kss-automap-lane:20530', u'10.11.5.83:kss-automap-lane:20530', u'10.11.5.38:kss-automap-lane:20531', u'10.11.5.109:kss-automap-lane:20528', u'10.11.5.109:kss-automap-lane:20527', u'10.11.5.109:kss-automap-lane:20529', u'10.11.5.33:kss-automap-lane:20530', u'10.11.5.54:kss-automap-lane:20531', u'10.11.5.20:kss-automap-lane:20528', u'10.11.5.33:kss-automap-lane:20531', u'10.11.5.20:kss-automap-lane:20527', u'10.11.5.15:kss-automap-lane:20527', u'10.11.5.15:kss-automap-lane:20528', u'10.11.5.20:kss-automap-lane:20529', u'10.11.5.54:kss-automap-lane:20530', u'10.11.5.42:kss-automap-lane:20530', u'10.11.5.42:kss-automap-lane:20531', u'10.11.5.15:kss-automap-lane:20529', u'10.11.5.79:kss-automap-lane:20530', u'10.11.5.79:kss-automap-lane:20531', u'10.11.5.81:kss-automap-lane:20530', u'10.11.5.81:kss-automap-lane:20531', u'10.11.5.42:kss-automap-lane:20527', u'10.11.5.42:kss-automap-lane:20528', u'10.11.5.42:kss-automap-lane:20529', u'10.11.5.54:kss-automap-lane:20528', u'10.11.5.54:kss-automap-lane:20529', u'10.11.5.54:kss-automap-lane:20527', u'10.11.5.35:kss-automap-lane:20531', u'10.11.5.35:kss-automap-lane:20530', u'10.11.5.61:kss-automap-lane:20531', u'10.11.5.85:kss-automap-lane:20528', u'10.11.5.85:kss-automap-lane:20529', u'10.11.5.85:kss-automap-lane:20527', u'10.11.5.44:kss-automap-lane:20531', u'10.11.5.44:kss-automap-lane:20530', u'10.11.5.61:kss-automap-lane:20530', u'10.11.5.76:kss-automap-lane:20529', u'10.11.5.76:kss-automap-lane:20528', u'10.11.5.76:kss-automap-lane:20527', u'10.11.5.76:kss-automap-lane:20531', u'10.11.5.76:kss-automap-lane:20530', u'10.11.5.44:kss-automap-lane:20528', u'10.11.5.44:kss-automap-lane:20527', u'10.11.5.44:kss-automap-lane:20529', u'10.11.5.33:kss-automap-lane:20527', u'10.11.5.33:kss-automap-lane:20528', u'10.11.5.18:kss-automap-lane:20527', u'10.11.5.18:kss-automap-lane:20529', u'10.11.5.18:kss-automap-lane:20528', u'10.11.5.33:kss-automap-lane:20529', u'10.11.5.83:kss-automap-lane:20529', u'10.11.5.83:kss-automap-lane:20528', u'10.11.5.3:kss-automap-lane:20528', u'10.11.5.3:kss-automap-lane:20529', u'10.11.5.83:kss-automap-lane:20527', u'10.11.5.11:kss-automap-lane:20529', u'10.11.5.11:kss-automap-lane:20527', u'10.11.5.11:kss-automap-lane:20528', u'10.11.5.63:kss-automap-lane:20531', u'10.11.5.63:kss-automap-lane:20530', u'10.11.5.3:kss-automap-lane:20527', u'10.11.5.74:kss-automap-lane:20527', u'10.11.5.74:kss-automap-lane:20528', u'10.11.5.74:kss-automap-lane:20529', u'10.11.5.61:kss-automap-lane:20527', u'10.11.5.74:kss-automap-lane:20530', u'10.11.5.74:kss-automap-lane:20531', u'10.11.5.61:kss-automap-lane:20529', u'10.11.5.61:kss-automap-lane:20528', u'10.11.5.85:kss-automap-lane:20531', u'10.11.5.85:kss-automap-lane:20530', u'10.11.5.35:kss-automap-lane:20528', u'10.11.5.35:kss-automap-lane:20527', u'10.11.5.35:kss-automap-lane:20529', u'10.11.5.73:kss-automap-lane:20531', u'10.11.5.73:kss-automap-lane:20530', u'10.11.5.64:kss-automap-lane:20527', u'10.11.5.64:kss-automap-lane:20528', u'10.11.5.82:kss-automap-lane:20530', u'10.11.5.64:kss-automap-lane:20529', u'10.11.5.82:kss-automap-lane:20531', u'10.11.5.39:kss-automap-lane:20531', u'10.11.5.39:kss-automap-lane:20530', u'10.11.5.82:kss-automap-lane:20529', u'10.11.5.21:kss-automap-lane:20528', u'10.11.5.82:kss-automap-lane:20527', u'10.11.5.82:kss-automap-lane:20528', u'10.11.5.21:kss-automap-lane:20529', u'10.11.5.2:kss-automap-lane:20527', u'10.11.5.14:kss-automap-lane:20527', u'10.11.5.2:kss-automap-lane:20528', u'10.11.5.21:kss-automap-lane:20527', u'10.11.5.2:kss-automap-lane:20529', u'10.11.5.64:kss-automap-lane:20530', u'10.11.5.71:kss-automap-lane:20527', u'10.11.5.64:kss-automap-lane:20531', u'10.11.5.71:kss-automap-lane:20528', u'10.11.5.71:kss-automap-lane:20529', u'10.11.5.41:kss-automap-lane:20531', u'10.11.5.14:kss-automap-lane:20529', u'10.11.5.41:kss-automap-lane:20530', u'10.11.5.14:kss-automap-lane:20528', u'10.11.5.41:kss-automap-lane:20529', u'10.11.5.78:kss-automap-lane:20529', u'10.11.5.41:kss-automap-lane:20528', u'10.11.5.78:kss-automap-lane:20528', u'10.11.5.41:kss-automap-lane:20527', u'10.11.5.78:kss-automap-lane:20527', u'10.11.5.80:kss-automap-lane:20530', u'10.11.5.80:kss-automap-lane:20531', u'10.11.5.71:kss-automap-lane:20530', u'10.11.5.71:kss-automap-lane:20531', u'10.11.5.32:kss-automap-lane:20527', u'10.11.5.32:kss-automap-lane:20528', u'10.11.5.32:kss-automap-lane:20529', u'10.11.5.16:kss-automap-lane:20528', u'10.11.5.16:kss-automap-lane:20529', u'10.11.5.32:kss-automap-lane:20530', u'10.11.5.16:kss-automap-lane:20527', u'10.11.5.32:kss-automap-lane:20531', u'10.11.5.80:kss-automap-lane:20529', u'10.11.5.80:kss-automap-lane:20527', u'10.11.5.80:kss-automap-lane:20528', u'10.11.5.43:kss-automap-lane:20530', u'10.11.5.43:kss-automap-lane:20531', u'10.11.5.78:kss-automap-lane:20531', u'10.11.5.78:kss-automap-lane:20530', u'10.11.5.39:kss-automap-lane:20529', u'10.11.5.39:kss-automap-lane:20528', u'10.11.5.39:kss-automap-lane:20527', u'10.11.5.17:kss-automap-lane:20529', u'10.11.5.17:kss-automap-lane:20528', u'10.11.5.17:kss-automap-lane:20527', u'10.11.5.43:kss-automap-lane:20527', u'10.11.5.43:kss-automap-lane:20528', u'10.11.5.43:kss-automap-lane:20529', u'10.11.5.51:kss-automap-lane:20528', u'10.11.5.51:kss-automap-lane:20527', u'10.11.5.34:kss-automap-lane:20529', u'10.11.5.34:kss-automap-lane:20528', u'10.11.5.34:kss-automap-lane:20527', u'10.11.5.51:kss-automap-lane:20529', u'10.11.5.34:kss-automap-lane:20531', u'10.11.5.34:kss-automap-lane:20530', u'10.11.5.75:kss-automap-lane:20529', u'10.11.5.75:kss-automap-lane:20527', u'10.11.5.75:kss-automap-lane:20528', u'10.11.5.62:kss-automap-lane:20529', u'10.11.5.36:kss-automap-lane:20527', u'10.11.5.75:kss-automap-lane:20530', u'10.11.5.75:kss-automap-lane:20531', u'10.11.5.62:kss-automap-lane:20528', u'10.11.5.62:kss-automap-lane:20527', u'10.11.5.84:kss-automap-lane:20531', u'10.11.5.84:kss-automap-lane:20530', u'10.11.5.86:kss-automap-lane:20527', u'10.11.5.86:kss-automap-lane:20528', u'10.11.5.86:kss-automap-lane:20529', u'10.11.5.19:kss-automap-lane:20527', u'10.11.5.19:kss-automap-lane:20528', u'10.11.5.36:kss-automap-lane:20528', u'10.11.5.19:kss-automap-lane:20529', u'10.11.5.36:kss-automap-lane:20529', u'10.11.5.84:kss-automap-lane:20529', u'10.11.5.36:kss-automap-lane:20531', u'10.11.5.4:kss-automap-lane:20529', u'10.11.5.51:kss-automap-lane:20531', u'10.11.5.36:kss-automap-lane:20530', u'10.11.5.51:kss-automap-lane:20530', u'10.11.5.84:kss-automap-lane:20528', u'10.11.5.84:kss-automap-lane:20527', u'10.11.5.86:kss-automap-lane:20530', u'10.11.5.86:kss-automap-lane:20531', u'10.11.5.73:kss-automap-lane:20529', u'10.11.5.12:kss-automap-lane:20529', u'10.11.5.12:kss-automap-lane:20528', u'10.11.5.62:kss-automap-lane:20531', u'10.11.5.12:kss-automap-lane:20527', u'10.11.5.62:kss-automap-lane:20530', u'10.11.5.4:kss-automap-lane:20528', u'10.11.5.4:kss-automap-lane:20527', u'10.11.5.73:kss-automap-lane:20528', u'10.11.5.73:kss-automap-lane:20527']
+[Finish] Success to check [kss-automap-lane]

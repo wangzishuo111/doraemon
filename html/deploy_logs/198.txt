@@ -1,0 +1,340 @@
+
+PLAY [autohdmap_lane] **********************************************************************************************************************************************************************
+
+TASK [Gathering Facts] *********************************************************************************************************************************************************************
+ok: [10.11.5.12]
+ok: [10.11.5.11]
+ok: [10.11.5.4]
+ok: [10.11.5.2]
+ok: [10.11.5.13]
+ok: [10.11.5.85]
+ok: [10.11.5.14]
+ok: [10.11.5.86]
+ok: [10.11.5.16]
+ok: [10.11.5.15]
+ok: [10.11.5.17]
+ok: [10.11.5.18]
+ok: [10.11.5.20]
+ok: [10.11.5.19]
+ok: [10.11.5.21]
+ok: [10.11.5.22]
+ok: [10.11.5.32]
+ok: [10.11.5.34]
+ok: [10.11.5.33]
+ok: [10.11.5.35]
+ok: [10.11.5.36]
+ok: [10.11.5.38]
+ok: [10.11.5.39]
+ok: [10.11.5.40]
+ok: [10.11.5.41]
+ok: [10.11.5.42]
+ok: [10.11.5.43]
+ok: [10.11.5.44]
+ok: [10.11.5.51]
+ok: [10.11.5.54]
+ok: [10.11.5.61]
+ok: [10.11.5.62]
+ok: [10.11.5.63]
+ok: [10.11.5.64]
+ok: [10.11.5.73]
+ok: [10.11.5.71]
+ok: [10.11.5.74]
+ok: [10.11.5.75]
+ok: [10.11.5.76]
+ok: [10.11.5.79]
+ok: [10.11.5.78]
+ok: [10.11.5.80]
+ok: [10.11.5.81]
+ok: [10.11.5.82]
+ok: [10.11.5.83]
+ok: [10.11.5.84]
+ok: [10.11.5.109]
+ok: [10.11.5.3]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************
+changed: [10.11.5.4]
+changed: [10.11.5.11]
+changed: [10.11.5.12]
+changed: [10.11.5.2]
+changed: [10.11.5.13]
+changed: [10.11.5.14]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.15]
+changed: [10.11.5.17]
+changed: [10.11.5.16]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.33]
+changed: [10.11.5.32]
+changed: [10.11.5.34]
+changed: [10.11.5.35]
+changed: [10.11.5.38]
+changed: [10.11.5.36]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.44]
+changed: [10.11.5.51]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.75]
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+changed: [10.11.5.71]
+changed: [10.11.5.76]
+changed: [10.11.5.79]
+changed: [10.11.5.78]
+changed: [10.11.5.80]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.84]
+changed: [10.11.5.109]
+changed: [10.11.5.83]
+changed: [10.11.5.3]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************
+changed: [10.11.5.11]
+changed: [10.11.5.4]
+changed: [10.11.5.12]
+changed: [10.11.5.2]
+changed: [10.11.5.14]
+changed: [10.11.5.13]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.15]
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.33]
+changed: [10.11.5.32]
+changed: [10.11.5.34]
+changed: [10.11.5.35]
+changed: [10.11.5.36]
+changed: [10.11.5.39]
+changed: [10.11.5.38]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.44]
+changed: [10.11.5.51]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.75]
+changed: [10.11.5.74]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.80]
+changed: [10.11.5.84]
+changed: [10.11.5.82]
+changed: [10.11.5.109]
+changed: [10.11.5.83]
+changed: [10.11.5.3]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************
+changed: [10.11.5.2]
+changed: [10.11.5.11]
+changed: [10.11.5.4]
+changed: [10.11.5.12]
+changed: [10.11.5.13]
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+changed: [10.11.5.14]
+changed: [10.11.5.15]
+changed: [10.11.5.16]
+changed: [10.11.5.17]
+changed: [10.11.5.18]
+changed: [10.11.5.19]
+changed: [10.11.5.20]
+changed: [10.11.5.21]
+changed: [10.11.5.22]
+changed: [10.11.5.32]
+changed: [10.11.5.33]
+changed: [10.11.5.35]
+changed: [10.11.5.34]
+changed: [10.11.5.38]
+changed: [10.11.5.39]
+changed: [10.11.5.36]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+changed: [10.11.5.43]
+changed: [10.11.5.51]
+changed: [10.11.5.44]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+changed: [10.11.5.71]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.79]
+changed: [10.11.5.80]
+changed: [10.11.5.84]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.83]
+changed: [10.11.5.109]
+changed: [10.11.5.3]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************
+fatal: [10.11.5.11]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.111619", "end": "2018-11-12 14:36:43.183412", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.071793", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.4]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.139826", "end": "2018-11-12 14:36:43.168385", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.028559", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.2]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.255481", "end": "2018-11-12 14:36:43.231641", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:42.976160", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.12]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.137307", "end": "2018-11-12 14:36:43.223059", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.085752", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.13]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.093536", "end": "2018-11-12 14:36:43.580885", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.487349", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.14]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.141508", "end": "2018-11-12 14:36:43.716367", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.574859", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.85]
+changed: [10.11.5.86]
+fatal: [10.11.5.15]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.089679", "end": "2018-11-12 14:36:43.979259", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.889580", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.16]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.133003", "end": "2018-11-12 14:36:44.072516", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:43.939513", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.17]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.112086", "end": "2018-11-12 14:36:44.298360", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.186274", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.18]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.101678", "end": "2018-11-12 14:36:44.384396", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.282718", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.19]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.090946", "end": "2018-11-12 14:36:44.390771", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.299825", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.20]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.114399", "end": "2018-11-12 14:36:44.534292", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.419893", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.21]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.131700", "end": "2018-11-12 14:36:44.630970", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.499270", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.22]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:00.121629", "end": "2018-11-12 14:36:44.779625", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.657996", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.33]
+changed: [10.11.5.32]
+changed: [10.11.5.35]
+changed: [10.11.5.34]
+changed: [10.11.5.38]
+changed: [10.11.5.36]
+changed: [10.11.5.39]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.42]
+fatal: [10.11.5.3]: FAILED! => {"changed": true, "cmd": "docker exec autohdmap_lane_3 bash -c \"/data/CI/autohdmap_lane/autohdmap_lane.sh start\"", "delta": "0:00:01.327969", "end": "2018-11-12 14:36:46.091451", "msg": "non-zero return code", "rc": 1, "start": "2018-11-12 14:36:44.763482", "stderr": "Error: No such container: autohdmap_lane_3", "stderr_lines": ["Error: No such container: autohdmap_lane_3"], "stdout": "", "stdout_lines": []}
+changed: [10.11.5.43]
+changed: [10.11.5.51]
+changed: [10.11.5.44]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.79]
+changed: [10.11.5.81]
+changed: [10.11.5.82]
+changed: [10.11.5.80]
+changed: [10.11.5.84]
+changed: [10.11.5.83]
+changed: [10.11.5.109]
+
+TASK [autohdmap_lane : start autohdmap_lane service] ***************************************************************************************************************************************
+changed: [10.11.5.86]
+changed: [10.11.5.85]
+changed: [10.11.5.33]
+changed: [10.11.5.32]
+changed: [10.11.5.34]
+changed: [10.11.5.35]
+changed: [10.11.5.38]
+changed: [10.11.5.39]
+changed: [10.11.5.36]
+changed: [10.11.5.40]
+changed: [10.11.5.41]
+changed: [10.11.5.44]
+changed: [10.11.5.43]
+changed: [10.11.5.42]
+changed: [10.11.5.51]
+changed: [10.11.5.54]
+changed: [10.11.5.61]
+changed: [10.11.5.62]
+changed: [10.11.5.63]
+changed: [10.11.5.64]
+changed: [10.11.5.73]
+changed: [10.11.5.71]
+changed: [10.11.5.74]
+changed: [10.11.5.75]
+changed: [10.11.5.76]
+changed: [10.11.5.78]
+changed: [10.11.5.81]
+changed: [10.11.5.79]
+changed: [10.11.5.84]
+changed: [10.11.5.82]
+changed: [10.11.5.80]
+changed: [10.11.5.83]
+changed: [10.11.5.109]
+	to retry, use: --limit @/home/op/autohdmap_deploy/autohdmap_lane.retry
+
+PLAY RECAP *********************************************************************************************************************************************************************************
+10.11.5.109                : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.11                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.12                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.13                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.14                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.15                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.16                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.17                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.18                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.19                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.2                  : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.20                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.21                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.22                 : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.3                  : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.32                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.33                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.34                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.35                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.36                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.38                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.39                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.4                  : ok=4    changed=3    unreachable=0    failed=1   
+10.11.5.40                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.41                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.42                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.43                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.44                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.51                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.54                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.61                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.62                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.63                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.64                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.71                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.73                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.74                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.75                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.76                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.78                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.79                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.80                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.81                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.82                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.83                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.84                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.85                 : ok=6    changed=5    unreachable=0    failed=0   
+10.11.5.86                 : ok=6    changed=5    unreachable=0    failed=0   
+
+[Finish] Failed to start  [198]

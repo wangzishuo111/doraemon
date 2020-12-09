@@ -1,0 +1,16 @@
+
+PLAY [kd-regionsearch] *********************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.80]
+ok: [10.11.5.81]
+
+TASK [all : Stop "kd-regionsearch" service] ************************************
+fatal: [10.11.5.80]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh stop", "delta": "0:00:00.019546", "end": "2019-03-29 13:57:32.144493", "msg": "non-zero return code", "rc": 127, "start": "2019-03-29 13:57:32.124947", "stderr": "bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+fatal: [10.11.5.81]: FAILED! => {"changed": true, "cmd": "bash /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh stop", "delta": "0:00:00.043669", "end": "2019-03-29 13:57:32.206859", "msg": "non-zero return code", "rc": 127, "start": "2019-03-29 13:57:32.163190", "stderr": "bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory", "stderr_lines": ["bash: /data/CI/kd-regionsearch_mesh/kd-regionsearch.sh: No such file or directory"], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+10.11.5.80                 : ok=1    changed=0    unreachable=0    failed=1   
+10.11.5.81                 : ok=1    changed=0    unreachable=0    failed=1   
+
+[Finish] Failed to start  [1406]

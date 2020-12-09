@@ -1,0 +1,62 @@
+kds-data-copyData
+2018-11-21 11:25:17,415 INFO 23580[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-copyData_release/v1.16.4.RELEASE/kds-data-copyData.jar
+2018-11-21 11:25:17,415 INFO 23580[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.73
+2018-11-21 11:25:17,427 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-21 11:25:17,613 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:25:17,658 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:25:17,932 INFO 23580[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:25:17,933 INFO 23580[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:25:17,933 INFO 23580[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.73
+2018-11-21 11:25:18,107 INFO 23580[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh stop]
+2018-11-21 11:25:18,108 INFO 23580[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:25:18,108 INFO 23580[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n', u'/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar is not started.\n']
+2018-11-21 11:25:28,138 INFO 23580[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar_bak]
+2018-11-21 11:25:28,139 INFO 23580[no_cat_release.py:53 stop_cmd]: error list mv bak is :[u"mv: cannot stat '/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar': No such file or directory\n"]
+2018-11-21 11:25:28,139 INFO 23580[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:25:28,139 INFO 23580[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.73
+2018-11-21 11:25:28,151 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:25:28,342 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:25:28,386 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:25:30,049 INFO 23580[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-copyData_73_23240/lib:
+2018-11-21 11:25:40,057 INFO 23580[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.73
+2018-11-21 11:25:40,070 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:25:40,259 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:25:40,304 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:25:40,666 INFO 23580[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:25:40,666 INFO 23580[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n']
+2018-11-21 11:25:40,667 INFO 23580[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:25:40,667 INFO 23580[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh already started
+2018-11-21 11:25:40,667 INFO 23580[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kds-data-copyData_release/v1.16.4.RELEASE/kds-data-copyData.jar
+2018-11-21 11:25:40,667 INFO 23580[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.74
+2018-11-21 11:25:40,678 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:25:40,902 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:25:40,928 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:25:41,280 INFO 23580[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-21 11:25:41,281 INFO 23580[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-21 11:25:41,281 INFO 23580[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.74
+2018-11-21 11:25:41,535 INFO 23580[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh stop]
+2018-11-21 11:25:41,535 INFO 23580[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-21 11:25:41,536 INFO 23580[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n', u'/data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar (23240) shutdown.\n']
+2018-11-21 11:25:51,562 INFO 23580[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar /data/CI/kds-data-copyData_73_23240/lib/kds-data-copyData.jar_bak]
+2018-11-21 11:25:51,562 INFO 23580[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-21 11:25:51,563 INFO 23580[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-21 11:25:51,563 INFO 23580[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.74
+2018-11-21 11:25:51,575 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:25:51,804 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:25:51,832 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:25:53,741 INFO 23580[no_cat_release.py:62 release_service]: file has arrive /data/CI/kds-data-copyData_73_23240/lib:
+2018-11-21 11:26:03,752 INFO 23580[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.74
+2018-11-21 11:26:03,765 INFO 23580[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-21 11:26:03,991 INFO 23580[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-21 11:26:04,015 INFO 23580[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-21 11:26:04,373 INFO 23580[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-21 11:26:04,374 INFO 23580[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kds-data-copyData_73_23240\n', u'kds-data-copyData.jar\n']
+2018-11-21 11:26:04,374 INFO 23580[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-21 11:26:04,375 INFO 23580[no_cat_release.py:74 start_cmd]: sudo /data/CI/kds-data-copyData_73_23240/kds-dataocopyData.sh already started
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/no_cat_release.py", line 86, in <module>
+    ip, krs_sh, krs_jar, krs_jar_bak, lib_path, server  = line.strip().split()
+ValueError: need more than 0 values to unpack
+[Finish] Failed to deploy [392]

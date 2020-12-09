@@ -1,0 +1,16 @@
+2018-11-23 20:42:03,304 INFO 3841[guizhou_restart.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-23 20:42:03,305 INFO 3841[guizhou_restart.py:19 stop_cmd]: now stopping the host : 10.11.5.79
+2018-11-23 20:42:03,311 INFO 3841[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-23 20:42:03,401 INFO 3841[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-23 20:42:03,420 INFO 3841[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-23 20:42:03,754 INFO 3841[guizhou_restart.py:25 stop_cmd]: cmd is : sudo /data/CI/kds-meta-auto_30_13270/kds-meta-auto.sh stop
+2018-11-23 20:42:03,755 INFO 3841[guizhou_restart.py:26 stop_cmd]: error list stop is :[]
+2018-11-23 20:42:03,755 INFO 3841[guizhou_restart.py:27 stop_cmd]: stdout list stop is :[u'/data/CI/kds-meta-auto_30_13270\n', u'kds-meta-auto.jar\n', u'/data/CI/kds-meta-auto_30_13270/lib/kds-meta-auto.jar (13270) shutdown.\n']
+2018-11-23 20:42:03,755 INFO 3841[guizhou_restart.py:28 stop_cmd]: process is stopping,wait a momunt
+Traceback (most recent call last):
+  File "/home/op/mesh_deploy_5.80/guizhou_restart.py", line 47, in <module>
+    start_cmd(ip, krs_sh)
+  File "/home/op/mesh_deploy_5.80/guizhou_restart.py", line 32, in start_cmd
+    logger.info("now start the host %s:" %ip)
+AttributeError: 'function' object has no attribute 'info'
+[Finish] Failed to deploy [460]

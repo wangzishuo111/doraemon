@@ -1,0 +1,94 @@
+<code class="language-html"><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+    	$(document).ready(function(){
+		$("#search").click(function(){
+			track_id = $("#trackId").val();
+			tpid = $("#trackPointId").val()
+			type = $("#type1").val()
+			seq = $("#seq").val()
+			image_type = $("#imageType").val()
+			url1 = "http://10.11.5.34:13100/krs/image/get?trackPointId=" + tpid + "&type=" + type + "&seq=" + seq + "&imageType=" + image_type
+			url2 = "http://10.11.5.74:13100/krs/image/get?trackPointId=" + tpid + "&type=" + type + "&seq=" + seq + "&imageType=" + image_type
+                        url3 = "http://10.11.5.36:8888/image/get?trackPointId=" + tpid + "&type=" + type + "&seq=" + seq + " &imageType=" +image_type +  "&trackId=" + track_id  
+                        url4 = "http://10.11.5.116:8888/image/get?trackPointId=" + tpid + "&type=" + type + "&seq=" + seq + " &imageType=" +image_type +  "&trackId=" + track_id  
+			$(".iframe1").attr("src", url1)
+			$(".iframe2").attr("src", url2)
+			$(".iframe3").attr("src", url3)
+			$(".iframe4").attr("src", url4)
+		});
+	});
+    </script>
+    <style>
+        #iframeContent{
+            width: 24.5%;
+            height: 800px;
+        }
+    </style>
+    <style>
+        #title1{
+            padding-left:10%;
+	    font-weight:bold;
+	    color:#ff9955; 
+	    font-size:20px;
+        }
+        #title2{
+            padding-left:16%;
+	    font-weight:bold;
+	    color:#ff9955; 
+	    font-size:20px;
+        }
+        #title3{
+            padding-left:14%;
+	    font-weight:bold;
+	    color:#ff9955; 
+	    font-size:20px;
+        }
+        #title4{
+            padding-left:16%;
+	    font-weight:bold;
+	    color:#ff9955; 
+	    font-size:20px;
+        }
+    </style>
+    <style>
+        #label{
+            width: 24.5%;
+            height: 10px;
+        }
+    </style>
+    
+<body>
+<div style="width: 100%;height: 118px">
+        <form action="#"  style="text-align:center;padding: 50px" method="get" >
+            <input type="text" id="trackId" name="trackId" value="trackId" onfocus="this.value = '';" placeholder="trackId">
+            <input type="text" id="trackPointId"  name="trackPointId" value="trackPointId" onfocus="this.value = '';" placeholder="trackPointId">
+            <input type="text" id="type1"  name="type1" value="00" onfocus="this.value = '';" placeholder="type:00">
+            <input type="text" id="seq"  name="seq" value="004" onfocus="this.value = '';" placeholder="seq:004">
+            <input type="text" id="imageType"  name="imageType" value="jpg" onfocus="this.value = '';" placeholder="imageType:jpg">
+            <input type="submit" class="register" value="search" id="search">
+        </form>
+    </div>
+<div>
+
+	<div>
+		<span id="title1"  >贵州POC krs查询</span>
+		<span id="title2"  >贵州组网krs查询</span>
+		<span id="title3"  >贵州POC Hbase查询</span>
+		<span id="title4"  >贵州组网Hbase查询</span>
+	</div>
+        <iframe id="iframeContent" class="iframe1" name="iframeContent"  src=  ></iframe> 
+        <iframe id="iframeContent" class="iframe2" name="iframeContent"  src=  ></iframe>
+        <iframe id="iframeContent" class="iframe3" name="iframeContent"  src=  ></iframe>
+        <iframe id="iframeContent" class="iframe4" name="iframeContent"  src=  ></iframe>
+</div>
+</body>
+</html>
+</code>

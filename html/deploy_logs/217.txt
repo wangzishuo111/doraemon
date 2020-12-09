@@ -1,0 +1,1484 @@
+2018-11-13 14:25:09,551 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+2018-11-13 14:25:09,778 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:09,796 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:09,800 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:10,423 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.1:kss-automap-lane:20529
+2018-11-13 14:25:10,424 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20529 success
+2018-11-13 14:25:10,424 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.1:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:10,469 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:10,690 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:10,715 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:10,727 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:11,373 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.81:kss-automap-lane:20527
+2018-11-13 14:25:11,374 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20527 success
+2018-11-13 14:25:11,374 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.81:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:11,411 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:11,638 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:11,666 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:11,673 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:12,563 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.1:kss-automap-lane:20528
+2018-11-13 14:25:12,564 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20528 success
+2018-11-13 14:25:12,564 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.1:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:12,603 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:12,850 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:12,876 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:12,879 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:13,624 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.1:kss-automap-lane:20527
+2018-11-13 14:25:13,624 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.1:kss-automap-lane:20527 success
+2018-11-13 14:25:13,624 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.1:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:13,668 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:13,913 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:13,958 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:13,972 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:14,687 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.81:kss-automap-lane:20528
+2018-11-13 14:25:14,687 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20528 success
+2018-11-13 14:25:14,687 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.81:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:14,733 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:14,982 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:15,026 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:15,039 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:15,767 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.81:kss-automap-lane:20529
+2018-11-13 14:25:15,768 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20529 success
+2018-11-13 14:25:15,768 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.81:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:15,808 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:16,073 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:16,106 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:16,121 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:16,784 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.22:kss-automap-lane:20527
+2018-11-13 14:25:16,784 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20527 success
+2018-11-13 14:25:16,784 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.22:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:17,031 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:17,281 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:17,311 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:17,326 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:18,022 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.22:kss-automap-lane:20528
+2018-11-13 14:25:18,023 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20528 success
+2018-11-13 14:25:18,023 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.22:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:18,065 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:18,326 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:18,359 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:18,360 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:19,059 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.22:kss-automap-lane:20529
+2018-11-13 14:25:19,059 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.22:kss-automap-lane:20529 success
+2018-11-13 14:25:19,059 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.22:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:19,114 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:19,339 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:19,369 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:19,369 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:20,029 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.109:kss-automap-lane:20531
+2018-11-13 14:25:20,030 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20531 success
+2018-11-13 14:25:20,030 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.109:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:20,068 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:20,340 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:20,363 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:20,364 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:21,034 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.109:kss-automap-lane:20530
+2018-11-13 14:25:21,035 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20530 success
+2018-11-13 14:25:21,035 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.109:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:21,072 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:21,331 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:21,362 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:21,363 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:22,048 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.13:kss-automap-lane:20528
+2018-11-13 14:25:22,048 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20528 success
+2018-11-13 14:25:22,048 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.13:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:22,090 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:22,365 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:22,387 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:22,390 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:23,095 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.13:kss-automap-lane:20527
+2018-11-13 14:25:23,095 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20527 success
+2018-11-13 14:25:23,095 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.13:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:23,129 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:23,366 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:23,404 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:23,411 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:24,047 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.40:kss-automap-lane:20531
+2018-11-13 14:25:24,047 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20531 success
+2018-11-13 14:25:24,047 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.40:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:24,290 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:24,520 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:24,543 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:24,559 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:25,216 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.13:kss-automap-lane:20529
+2018-11-13 14:25:25,216 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.13:kss-automap-lane:20529 success
+2018-11-13 14:25:25,216 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.13:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:25,255 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:25,484 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:25,522 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:25,529 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:26,249 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.40:kss-automap-lane:20530
+2018-11-13 14:25:26,249 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20530 success
+2018-11-13 14:25:26,250 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.40:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:26,288 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:26,481 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:26,527 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:26,539 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:27,311 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.38:kss-automap-lane:20527
+2018-11-13 14:25:27,311 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20527 success
+2018-11-13 14:25:27,311 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.38:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:27,346 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:27,589 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:27,632 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:27,646 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:28,402 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.38:kss-automap-lane:20529
+2018-11-13 14:25:28,403 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20529 success
+2018-11-13 14:25:28,403 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.38:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:28,445 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:28,627 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:28,672 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:28,685 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:29,441 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.38:kss-automap-lane:20528
+2018-11-13 14:25:29,441 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20528 success
+2018-11-13 14:25:29,442 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.38:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:29,482 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:29,706 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:29,734 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:29,740 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:30,347 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.40:kss-automap-lane:20528
+2018-11-13 14:25:30,347 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20528 success
+2018-11-13 14:25:30,348 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.40:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:30,385 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:30,599 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:30,636 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:30,643 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:31,220 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.40:kss-automap-lane:20527
+2018-11-13 14:25:31,220 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20527 success
+2018-11-13 14:25:31,220 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.40:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:31,259 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:31,471 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:31,513 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:31,516 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:32,192 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.79:kss-automap-lane:20527
+2018-11-13 14:25:32,192 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20527 success
+2018-11-13 14:25:32,192 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.79:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:32,232 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:32,429 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:32,470 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:32,473 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:33,070 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.79:kss-automap-lane:20528
+2018-11-13 14:25:33,070 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20528 success
+2018-11-13 14:25:33,070 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.79:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:33,108 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:33,315 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:33,355 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:33,359 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:33,948 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.79:kss-automap-lane:20529
+2018-11-13 14:25:33,948 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20529 success
+2018-11-13 14:25:33,948 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.79:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:33,985 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:34,238 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:34,251 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:34,258 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:34,794 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.83:kss-automap-lane:20531
+2018-11-13 14:25:34,795 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20531 success
+2018-11-13 14:25:34,795 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.83:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:34,832 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:35,104 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:35,130 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:35,130 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:35,709 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.63:kss-automap-lane:20529
+2018-11-13 14:25:35,709 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20529 success
+2018-11-13 14:25:35,709 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.63:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:35,748 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:35,979 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:36,002 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:36,019 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:36,628 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.63:kss-automap-lane:20528
+2018-11-13 14:25:36,628 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20528 success
+2018-11-13 14:25:36,629 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.63:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:36,673 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:36,930 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:36,963 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:36,969 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:37,558 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.40:kss-automap-lane:20529
+2018-11-13 14:25:37,558 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.40:kss-automap-lane:20529 success
+2018-11-13 14:25:37,558 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.40:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:37,598 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:37,819 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:37,861 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:37,861 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:38,421 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.63:kss-automap-lane:20527
+2018-11-13 14:25:38,421 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20527 success
+2018-11-13 14:25:38,421 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.63:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:38,472 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:38,655 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:38,699 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:38,713 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:39,467 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.38:kss-automap-lane:20530
+2018-11-13 14:25:39,467 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20530 success
+2018-11-13 14:25:39,467 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.38:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:39,506 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:39,730 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:39,769 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:39,776 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:40,330 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.83:kss-automap-lane:20530
+2018-11-13 14:25:40,331 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20530 success
+2018-11-13 14:25:40,331 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.83:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:40,377 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:40,570 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:40,614 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:40,628 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:41,397 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.38:kss-automap-lane:20531
+2018-11-13 14:25:41,398 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.38:kss-automap-lane:20531 success
+2018-11-13 14:25:41,398 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.38:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:41,435 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:41,684 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:41,717 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:41,717 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:42,426 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.109:kss-automap-lane:20528
+2018-11-13 14:25:42,427 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20528 success
+2018-11-13 14:25:42,427 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.109:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:42,469 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:42,683 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:42,726 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:42,742 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:43,413 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.109:kss-automap-lane:20527
+2018-11-13 14:25:43,413 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20527 success
+2018-11-13 14:25:43,414 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.109:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:43,447 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:43,677 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:43,719 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:43,719 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:44,416 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.109:kss-automap-lane:20529
+2018-11-13 14:25:44,417 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.109:kss-automap-lane:20529 success
+2018-11-13 14:25:44,417 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.109:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:44,472 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:44,659 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:44,694 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:44,697 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:45,358 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.20:kss-automap-lane:20528
+2018-11-13 14:25:45,358 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20528 success
+2018-11-13 14:25:45,358 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.20:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:45,400 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:45,600 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:45,638 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:45,651 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:46,402 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.33:kss-automap-lane:20530
+2018-11-13 14:25:46,403 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20530 success
+2018-11-13 14:25:46,403 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.33:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:46,440 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:46,700 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:46,727 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:46,728 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:47,703 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.54:kss-automap-lane:20531
+2018-11-13 14:25:47,703 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20531 success
+2018-11-13 14:25:47,703 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.54:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:47,944 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:48,186 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:48,216 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:48,218 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:48,909 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.20:kss-automap-lane:20527
+2018-11-13 14:25:48,909 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20527 success
+2018-11-13 14:25:48,909 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.20:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:48,956 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:49,163 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:49,190 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:49,203 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:49,952 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.33:kss-automap-lane:20531
+2018-11-13 14:25:49,952 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20531 success
+2018-11-13 14:25:49,952 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.33:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:49,996 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:50,248 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:50,279 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:50,294 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:51,006 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.15:kss-automap-lane:20527
+2018-11-13 14:25:51,007 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20527 success
+2018-11-13 14:25:51,007 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.15:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:51,239 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:51,504 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:51,542 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:51,558 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:52,217 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.15:kss-automap-lane:20528
+2018-11-13 14:25:52,218 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20528 success
+2018-11-13 14:25:52,218 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.15:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:52,260 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:52,528 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:52,555 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:52,572 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:53,263 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.20:kss-automap-lane:20529
+2018-11-13 14:25:53,263 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.20:kss-automap-lane:20529 success
+2018-11-13 14:25:53,263 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.20:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:53,299 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:53,532 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:53,550 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:53,566 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:54,179 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.54:kss-automap-lane:20530
+2018-11-13 14:25:54,179 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20530 success
+2018-11-13 14:25:54,179 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.54:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:54,221 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:54,456 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:54,501 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:54,514 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:55,335 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.42:kss-automap-lane:20530
+2018-11-13 14:25:55,336 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20530 success
+2018-11-13 14:25:55,336 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.42:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:55,377 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:55,600 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:55,625 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:55,638 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:56,446 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.42:kss-automap-lane:20531
+2018-11-13 14:25:56,446 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20531 success
+2018-11-13 14:25:56,447 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.42:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:56,488 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:56,740 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:56,774 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:56,789 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:57,500 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.15:kss-automap-lane:20529
+2018-11-13 14:25:57,500 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.15:kss-automap-lane:20529 success
+2018-11-13 14:25:57,500 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.15:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:57,547 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:57,777 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:57,824 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:57,836 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:58,436 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.79:kss-automap-lane:20530
+2018-11-13 14:25:58,437 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20530 success
+2018-11-13 14:25:58,437 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.79:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:58,475 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:58,712 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:58,741 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:58,747 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:25:59,256 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.79:kss-automap-lane:20531
+2018-11-13 14:25:59,256 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.79:kss-automap-lane:20531 success
+2018-11-13 14:25:59,256 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.79:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:25:59,303 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:25:59,515 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:25:59,557 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:25:59,570 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:00,286 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.81:kss-automap-lane:20530
+2018-11-13 14:26:00,286 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20530 success
+2018-11-13 14:26:00,286 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.81:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:00,324 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:00,566 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:00,611 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:00,625 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:01,357 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.81:kss-automap-lane:20531
+2018-11-13 14:26:01,357 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.81:kss-automap-lane:20531 success
+2018-11-13 14:26:01,357 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.81:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:01,398 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:01,580 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:01,627 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:01,640 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:02,363 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.42:kss-automap-lane:20527
+2018-11-13 14:26:02,363 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20527 success
+2018-11-13 14:26:02,363 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.42:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:02,403 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:02,667 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:02,695 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:02,709 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:03,574 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.42:kss-automap-lane:20528
+2018-11-13 14:26:03,574 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20528 success
+2018-11-13 14:26:03,574 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.42:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:03,612 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:03,826 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:03,872 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:03,886 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:04,750 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.42:kss-automap-lane:20529
+2018-11-13 14:26:04,750 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.42:kss-automap-lane:20529 success
+2018-11-13 14:26:04,750 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.42:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:04,792 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:05,056 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:05,083 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:05,085 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:05,943 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.54:kss-automap-lane:20528
+2018-11-13 14:26:05,944 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20528 success
+2018-11-13 14:26:05,944 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.54:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:05,982 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:06,232 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:06,267 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:06,267 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:06,945 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.54:kss-automap-lane:20529
+2018-11-13 14:26:06,945 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20529 success
+2018-11-13 14:26:06,945 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.54:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:06,986 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:07,256 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:07,282 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:07,283 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:08,062 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.54:kss-automap-lane:20527
+2018-11-13 14:26:08,062 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.54:kss-automap-lane:20527 success
+2018-11-13 14:26:08,062 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.54:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:08,110 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:08,306 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:08,333 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:08,346 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:08,998 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.35:kss-automap-lane:20531
+2018-11-13 14:26:08,998 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20531 success
+2018-11-13 14:26:08,998 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.35:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:09,035 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:09,271 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:09,315 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:09,328 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:10,054 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.35:kss-automap-lane:20530
+2018-11-13 14:26:10,055 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20530 success
+2018-11-13 14:26:10,055 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.35:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:10,097 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:10,362 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:10,388 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:10,389 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:11,088 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.61:kss-automap-lane:20531
+2018-11-13 14:26:11,089 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20531 success
+2018-11-13 14:26:11,089 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.61:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:11,133 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:11,323 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:11,366 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:11,379 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:12,125 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.85:kss-automap-lane:20528
+2018-11-13 14:26:12,126 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20528 success
+2018-11-13 14:26:12,126 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.85:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:12,169 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:12,442 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:12,467 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:12,477 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:13,222 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.85:kss-automap-lane:20529
+2018-11-13 14:26:13,222 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20529 success
+2018-11-13 14:26:13,222 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.85:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:13,264 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:13,463 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:13,506 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:13,519 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:14,261 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.85:kss-automap-lane:20527
+2018-11-13 14:26:14,262 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20527 success
+2018-11-13 14:26:14,262 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.85:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:14,307 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:14,589 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:14,620 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:14,634 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:15,504 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.44:kss-automap-lane:20531
+2018-11-13 14:26:15,505 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20531 success
+2018-11-13 14:26:15,505 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.44:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:15,546 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:15,795 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:15,837 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:15,850 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:16,643 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.44:kss-automap-lane:20530
+2018-11-13 14:26:16,643 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20530 success
+2018-11-13 14:26:16,643 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.44:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:16,686 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:16,935 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:16,961 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:16,964 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:17,625 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.61:kss-automap-lane:20530
+2018-11-13 14:26:17,625 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20530 success
+2018-11-13 14:26:17,625 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.61:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:17,670 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:17,923 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:17,952 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:17,964 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:18,815 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.76:kss-automap-lane:20529
+2018-11-13 14:26:18,815 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20529 success
+2018-11-13 14:26:18,815 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.76:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:18,854 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:19,084 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:19,112 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:19,126 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:19,917 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.76:kss-automap-lane:20528
+2018-11-13 14:26:19,918 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20528 success
+2018-11-13 14:26:19,918 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.76:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:19,957 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:20,177 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:20,222 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:20,236 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:21,018 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.76:kss-automap-lane:20527
+2018-11-13 14:26:21,018 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20527 success
+2018-11-13 14:26:21,018 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.76:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:21,050 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:21,275 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:21,303 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:21,318 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:22,032 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.76:kss-automap-lane:20531
+2018-11-13 14:26:22,032 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20531 success
+2018-11-13 14:26:22,033 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.76:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:22,073 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:22,336 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:22,360 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:22,373 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:23,092 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.76:kss-automap-lane:20530
+2018-11-13 14:26:23,092 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.76:kss-automap-lane:20530 success
+2018-11-13 14:26:23,093 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.76:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:23,136 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:23,324 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:23,370 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:23,383 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:24,165 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.44:kss-automap-lane:20528
+2018-11-13 14:26:24,166 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20528 success
+2018-11-13 14:26:24,166 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.44:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:24,208 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:24,376 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:24,422 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:24,435 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:25,087 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.44:kss-automap-lane:20527
+2018-11-13 14:26:25,088 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20527 success
+2018-11-13 14:26:25,088 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.44:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:25,131 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:25,400 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:25,426 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:25,438 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:26,193 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.44:kss-automap-lane:20529
+2018-11-13 14:26:26,194 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.44:kss-automap-lane:20529 success
+2018-11-13 14:26:26,194 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.44:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:26,240 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:26,438 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:26,482 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:26,496 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:27,250 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.33:kss-automap-lane:20527
+2018-11-13 14:26:27,250 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20527 success
+2018-11-13 14:26:27,250 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.33:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:27,292 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:27,537 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:27,581 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:27,595 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:28,367 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.33:kss-automap-lane:20528
+2018-11-13 14:26:28,368 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20528 success
+2018-11-13 14:26:28,368 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.33:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:28,405 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:28,595 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:28,632 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:28,633 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:29,324 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.18:kss-automap-lane:20527
+2018-11-13 14:26:29,324 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20527 success
+2018-11-13 14:26:29,324 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.18:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:29,363 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:29,612 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:29,643 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:29,659 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:30,350 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.18:kss-automap-lane:20529
+2018-11-13 14:26:30,350 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20529 success
+2018-11-13 14:26:30,350 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.18:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:30,392 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:30,666 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:30,688 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:30,688 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:31,356 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.18:kss-automap-lane:20528
+2018-11-13 14:26:31,356 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.18:kss-automap-lane:20528 success
+2018-11-13 14:26:31,356 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.18:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:31,415 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:31,638 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:31,661 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:31,673 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:32,348 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.33:kss-automap-lane:20529
+2018-11-13 14:26:32,348 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.33:kss-automap-lane:20529 success
+2018-11-13 14:26:32,348 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.33:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:32,387 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:32,610 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:32,647 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:32,654 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:33,198 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.83:kss-automap-lane:20529
+2018-11-13 14:26:33,198 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20529 success
+2018-11-13 14:26:33,200 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.83:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:33,236 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:33,491 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:33,500 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:33,508 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:34,033 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.83:kss-automap-lane:20528
+2018-11-13 14:26:34,034 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20528 success
+2018-11-13 14:26:34,034 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.83:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:34,114 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:34,347 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:34,366 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:34,372 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:35,926 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.3:kss-automap-lane:20529
+2018-11-13 14:26:35,926 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.3:kss-automap-lane:20529 success
+2018-11-13 14:26:35,926 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.3:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:35,963 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:36,187 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:36,225 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:36,232 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:36,758 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.83:kss-automap-lane:20527
+2018-11-13 14:26:36,759 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.83:kss-automap-lane:20527 success
+2018-11-13 14:26:36,759 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.83:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:36,809 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:37,049 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:37,088 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:37,104 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:37,759 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.11:kss-automap-lane:20529
+2018-11-13 14:26:37,759 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20529 success
+2018-11-13 14:26:37,759 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.11:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:37,795 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:38,041 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:38,073 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:38,074 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:38,795 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.11:kss-automap-lane:20527
+2018-11-13 14:26:38,795 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20527 success
+2018-11-13 14:26:38,795 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.11:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:38,830 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:39,088 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:39,130 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:39,131 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:39,810 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.11:kss-automap-lane:20528
+2018-11-13 14:26:39,810 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.11:kss-automap-lane:20528 success
+2018-11-13 14:26:39,810 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.11:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:39,850 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:40,086 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:40,127 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:40,143 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:40,720 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.63:kss-automap-lane:20531
+2018-11-13 14:26:40,720 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20531 success
+2018-11-13 14:26:40,720 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.63:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:40,762 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:41,022 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:41,041 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:41,057 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:41,624 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.63:kss-automap-lane:20530
+2018-11-13 14:26:41,624 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.63:kss-automap-lane:20530 success
+2018-11-13 14:26:41,624 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.63:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:41,670 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:41,932 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:41,959 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:41,959 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:42,864 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.3:kss-automap-lane:20527
+2018-11-13 14:26:42,865 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.3:kss-automap-lane:20527 success
+2018-11-13 14:26:42,865 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.3:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:42,910 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:43,127 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:43,155 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:43,169 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:43,820 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.74:kss-automap-lane:20527
+2018-11-13 14:26:43,821 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20527 success
+2018-11-13 14:26:43,821 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.74:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:43,866 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:44,144 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:44,181 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:44,195 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:44,818 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.74:kss-automap-lane:20528
+2018-11-13 14:26:44,818 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20528 success
+2018-11-13 14:26:44,819 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.74:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:44,855 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:45,116 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:45,131 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:45,138 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:45,719 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.74:kss-automap-lane:20529
+2018-11-13 14:26:45,719 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20529 success
+2018-11-13 14:26:45,720 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.74:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:45,757 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:46,028 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:46,057 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:46,072 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:46,717 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.61:kss-automap-lane:20527
+2018-11-13 14:26:46,717 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20527 success
+2018-11-13 14:26:46,717 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.61:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:46,758 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:46,982 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:47,001 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:47,016 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:47,580 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.74:kss-automap-lane:20530
+2018-11-13 14:26:47,580 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20530 success
+2018-11-13 14:26:47,580 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.74:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:47,613 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:47,847 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:47,885 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:47,890 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:48,536 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.74:kss-automap-lane:20531
+2018-11-13 14:26:48,537 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.74:kss-automap-lane:20531 success
+2018-11-13 14:26:48,537 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.74:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:48,573 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:48,849 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:48,869 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:48,885 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:49,544 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.61:kss-automap-lane:20529
+2018-11-13 14:26:49,544 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20529 success
+2018-11-13 14:26:49,544 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.61:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:49,587 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:49,806 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:49,845 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:49,847 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:50,491 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.61:kss-automap-lane:20528
+2018-11-13 14:26:50,491 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.61:kss-automap-lane:20528 success
+2018-11-13 14:26:50,492 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.61:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:50,534 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:50,819 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:50,843 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:50,844 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:51,592 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.85:kss-automap-lane:20531
+2018-11-13 14:26:51,592 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20531 success
+2018-11-13 14:26:51,592 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.85:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:51,632 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:51,829 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:51,877 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:51,890 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:52,624 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.85:kss-automap-lane:20530
+2018-11-13 14:26:52,624 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.85:kss-automap-lane:20530 success
+2018-11-13 14:26:52,625 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.85:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:52,670 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:52,887 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:52,912 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:52,917 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:53,739 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.35:kss-automap-lane:20528
+2018-11-13 14:26:53,739 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20528 success
+2018-11-13 14:26:53,739 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.35:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:53,779 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:54,038 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:54,063 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:54,079 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:54,706 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.35:kss-automap-lane:20527
+2018-11-13 14:26:54,706 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20527 success
+2018-11-13 14:26:54,706 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.35:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:54,739 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:54,986 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:55,018 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:55,019 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:55,697 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.35:kss-automap-lane:20529
+2018-11-13 14:26:55,698 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.35:kss-automap-lane:20529 success
+2018-11-13 14:26:55,698 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.35:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:55,740 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:55,977 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:56,015 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:56,021 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:56,568 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.73:kss-automap-lane:20531
+2018-11-13 14:26:56,569 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20531 success
+2018-11-13 14:26:56,569 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.73:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:56,610 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:56,826 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:56,865 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:56,872 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:57,513 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.73:kss-automap-lane:20530
+2018-11-13 14:26:57,513 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20530 success
+2018-11-13 14:26:57,514 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.73:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:57,551 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:57,809 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:57,843 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:57,844 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:58,431 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.64:kss-automap-lane:20527
+2018-11-13 14:26:58,431 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20527 success
+2018-11-13 14:26:58,432 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.64:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:58,471 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:58,738 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:58,762 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:58,762 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:26:59,349 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.64:kss-automap-lane:20528
+2018-11-13 14:26:59,351 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20528 success
+2018-11-13 14:26:59,352 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.64:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:26:59,392 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:26:59,660 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:26:59,681 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:26:59,682 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:00,248 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.64:kss-automap-lane:20529
+2018-11-13 14:27:00,249 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20529 success
+2018-11-13 14:27:00,249 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.64:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:00,289 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:00,500 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:00,542 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:00,544 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:01,241 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.82:kss-automap-lane:20530
+2018-11-13 14:27:01,241 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20530 success
+2018-11-13 14:27:01,242 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.82:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:01,281 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:01,502 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:01,544 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:01,546 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:02,284 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.82:kss-automap-lane:20531
+2018-11-13 14:27:02,285 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20531 success
+2018-11-13 14:27:02,285 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.82:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:02,322 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:02,581 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:02,614 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:02,617 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:03,177 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.39:kss-automap-lane:20531
+2018-11-13 14:27:03,178 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20531 success
+2018-11-13 14:27:03,178 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.39:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:03,216 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:03,460 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:03,486 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:03,493 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:03,945 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.39:kss-automap-lane:20530
+2018-11-13 14:27:03,945 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20530 success
+2018-11-13 14:27:03,945 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.39:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:03,983 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:04,206 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:04,247 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:04,250 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:04,925 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.82:kss-automap-lane:20529
+2018-11-13 14:27:04,925 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20529 success
+2018-11-13 14:27:04,926 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.82:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:04,967 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:05,203 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:05,236 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:05,238 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:05,980 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.82:kss-automap-lane:20527
+2018-11-13 14:27:05,980 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20527 success
+2018-11-13 14:27:05,980 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.82:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:06,017 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:06,274 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:06,300 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:06,301 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:07,013 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.21:kss-automap-lane:20528
+2018-11-13 14:27:07,013 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20528 success
+2018-11-13 14:27:07,013 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.21:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:07,052 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:07,262 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:07,281 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:07,283 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:07,950 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.82:kss-automap-lane:20528
+2018-11-13 14:27:07,950 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.82:kss-automap-lane:20528 success
+2018-11-13 14:27:07,950 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.82:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:07,993 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:08,243 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:08,280 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:08,296 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:08,961 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.21:kss-automap-lane:20529
+2018-11-13 14:27:08,961 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20529 success
+2018-11-13 14:27:08,962 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.21:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:08,999 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:09,203 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:09,246 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:09,262 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:09,996 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.2:kss-automap-lane:20527
+2018-11-13 14:27:09,996 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20527 success
+2018-11-13 14:27:09,996 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.2:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:10,038 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:10,314 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:10,336 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:10,337 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:10,976 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.14:kss-automap-lane:20527
+2018-11-13 14:27:10,976 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20527 success
+2018-11-13 14:27:10,976 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.14:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:11,017 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:11,264 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:11,306 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:11,307 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:12,008 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.21:kss-automap-lane:20527
+2018-11-13 14:27:12,008 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.21:kss-automap-lane:20527 success
+2018-11-13 14:27:12,008 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.21:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:12,048 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:12,295 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:12,332 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:12,348 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:12,950 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.2:kss-automap-lane:20528
+2018-11-13 14:27:12,950 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20528 success
+2018-11-13 14:27:12,950 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.2:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:13,186 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:13,439 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:13,477 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:13,477 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:14,167 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.2:kss-automap-lane:20529
+2018-11-13 14:27:14,167 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.2:kss-automap-lane:20529 success
+2018-11-13 14:27:14,167 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.2:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:14,208 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:14,472 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:14,490 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:14,496 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:15,089 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.71:kss-automap-lane:20527
+2018-11-13 14:27:15,089 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20527 success
+2018-11-13 14:27:15,090 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.71:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:15,127 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:15,327 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:15,369 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:15,385 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:15,999 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.64:kss-automap-lane:20530
+2018-11-13 14:27:15,999 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20530 success
+2018-11-13 14:27:15,999 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.64:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:16,049 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:16,296 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:16,332 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:16,336 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:17,009 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.71:kss-automap-lane:20528
+2018-11-13 14:27:17,009 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20528 success
+2018-11-13 14:27:17,010 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.71:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:17,053 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:17,329 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:17,349 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:17,349 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:17,960 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.64:kss-automap-lane:20531
+2018-11-13 14:27:17,960 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.64:kss-automap-lane:20531 success
+2018-11-13 14:27:17,960 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.64:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:18,001 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:18,240 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:18,275 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:18,282 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:18,947 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.71:kss-automap-lane:20529
+2018-11-13 14:27:18,947 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20529 success
+2018-11-13 14:27:18,947 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.71:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:18,982 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:19,214 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:19,252 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:19,260 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:19,706 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.41:kss-automap-lane:20531
+2018-11-13 14:27:19,706 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20531 success
+2018-11-13 14:27:19,706 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.41:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:19,749 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:19,985 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:20,025 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:20,026 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:20,732 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.14:kss-automap-lane:20529
+2018-11-13 14:27:20,733 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20529 success
+2018-11-13 14:27:20,733 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.14:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:20,769 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:20,977 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:21,014 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:21,021 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:21,450 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.41:kss-automap-lane:20530
+2018-11-13 14:27:21,450 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20530 success
+2018-11-13 14:27:21,450 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.41:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:21,491 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:21,719 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:21,741 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:21,757 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:22,418 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.14:kss-automap-lane:20528
+2018-11-13 14:27:22,418 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.14:kss-automap-lane:20528 success
+2018-11-13 14:27:22,418 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.14:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:22,456 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:22,674 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:22,711 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:22,718 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:23,173 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.41:kss-automap-lane:20529
+2018-11-13 14:27:23,174 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20529 success
+2018-11-13 14:27:23,174 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.41:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:23,215 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:23,422 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:23,458 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:23,471 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:24,142 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.78:kss-automap-lane:20529
+2018-11-13 14:27:24,142 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20529 success
+2018-11-13 14:27:24,142 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.78:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:24,180 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:24,407 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:24,445 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:24,453 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:24,883 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.41:kss-automap-lane:20528
+2018-11-13 14:27:24,883 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20528 success
+2018-11-13 14:27:24,883 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.41:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:24,918 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:25,129 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:25,155 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:25,167 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:25,924 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.78:kss-automap-lane:20528
+2018-11-13 14:27:25,925 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20528 success
+2018-11-13 14:27:25,925 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.78:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:25,964 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:26,226 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:26,236 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:26,244 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:26,704 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.41:kss-automap-lane:20527
+2018-11-13 14:27:26,704 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.41:kss-automap-lane:20527 success
+2018-11-13 14:27:26,704 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.41:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:26,748 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:27,020 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:27,040 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:27,054 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:27,782 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.78:kss-automap-lane:20527
+2018-11-13 14:27:27,782 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20527 success
+2018-11-13 14:27:27,782 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.78:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:27,818 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:28,084 INFO 47796[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-13 14:27:28,087 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:28,670 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.80:kss-automap-lane:20530
+2018-11-13 14:27:28,671 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20530 success
+2018-11-13 14:27:28,671 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.80:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:28,710 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:28,953 INFO 47796[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-13 14:27:28,974 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:29,638 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.80:kss-automap-lane:20531
+2018-11-13 14:27:29,638 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20531 success
+2018-11-13 14:27:29,638 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.80:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:29,696 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:29,972 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:29,998 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:30,013 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:30,629 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.71:kss-automap-lane:20530
+2018-11-13 14:27:30,629 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20530 success
+2018-11-13 14:27:30,629 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.71:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:30,694 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:30,977 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:30,997 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:31,011 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:31,622 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.71:kss-automap-lane:20531
+2018-11-13 14:27:31,622 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.71:kss-automap-lane:20531 success
+2018-11-13 14:27:31,623 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.71:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:31,668 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:31,847 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:31,892 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:31,906 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:32,668 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.32:kss-automap-lane:20527
+2018-11-13 14:27:32,668 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20527 success
+2018-11-13 14:27:32,668 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.32:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:32,710 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:32,969 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:32,995 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:33,007 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:33,753 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.32:kss-automap-lane:20528
+2018-11-13 14:27:33,754 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20528 success
+2018-11-13 14:27:33,754 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.32:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:33,793 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:34,043 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:34,084 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:34,097 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:34,865 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.32:kss-automap-lane:20529
+2018-11-13 14:27:34,865 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20529 success
+2018-11-13 14:27:34,865 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.32:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:34,905 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:35,177 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:35,199 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:35,214 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:35,887 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.16:kss-automap-lane:20528
+2018-11-13 14:27:35,887 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20528 success
+2018-11-13 14:27:35,887 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.16:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:35,928 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:36,174 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:36,216 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:36,219 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:36,917 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.16:kss-automap-lane:20529
+2018-11-13 14:27:36,917 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20529 success
+2018-11-13 14:27:36,918 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.16:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:36,954 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:37,215 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:37,228 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:37,231 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:37,897 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.16:kss-automap-lane:20527
+2018-11-13 14:27:37,897 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.16:kss-automap-lane:20527 success
+2018-11-13 14:27:37,898 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.16:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:37,943 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:38,148 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:38,189 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:38,202 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:38,944 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.32:kss-automap-lane:20530
+2018-11-13 14:27:38,944 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20530 success
+2018-11-13 14:27:38,945 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.32:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:38,988 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:39,221 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:39,266 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:39,279 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:40,016 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.32:kss-automap-lane:20531
+2018-11-13 14:27:40,016 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.32:kss-automap-lane:20531 success
+2018-11-13 14:27:40,017 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.32:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:40,054 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:40,293 INFO 47796[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-13 14:27:40,311 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:41,024 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.80:kss-automap-lane:20529
+2018-11-13 14:27:41,024 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20529 success
+2018-11-13 14:27:41,024 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.80:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:41,062 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:41,297 INFO 47796[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-13 14:27:41,325 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:41,864 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.80:kss-automap-lane:20527
+2018-11-13 14:27:41,865 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20527 success
+2018-11-13 14:27:41,865 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.80:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:41,903 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:42,132 INFO 47796[transport.py:1546 _log]: Authentication (publickey) successful!
+2018-11-13 14:27:42,160 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:42,714 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.80:kss-automap-lane:20528
+2018-11-13 14:27:42,714 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.80:kss-automap-lane:20528 success
+2018-11-13 14:27:42,714 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.80:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:42,756 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:42,961 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:43,007 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:43,019 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:44,034 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.43:kss-automap-lane:20530
+2018-11-13 14:27:44,034 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20530 success
+2018-11-13 14:27:44,034 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.43:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:44,071 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:44,320 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:44,366 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:44,378 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:45,239 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.43:kss-automap-lane:20531
+2018-11-13 14:27:45,240 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20531 success
+2018-11-13 14:27:45,240 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.43:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:45,283 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:45,533 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:45,571 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:45,584 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:46,265 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.78:kss-automap-lane:20531
+2018-11-13 14:27:46,265 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20531 success
+2018-11-13 14:27:46,265 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.78:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:46,304 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:46,570 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:46,597 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:46,610 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:47,337 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.78:kss-automap-lane:20530
+2018-11-13 14:27:47,338 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.78:kss-automap-lane:20530 success
+2018-11-13 14:27:47,338 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.78:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:47,376 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:47,602 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:47,639 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:47,646 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:48,171 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.39:kss-automap-lane:20529
+2018-11-13 14:27:48,171 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20529 success
+2018-11-13 14:27:48,171 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.39:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:48,205 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:48,486 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:48,509 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:48,513 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:49,043 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.39:kss-automap-lane:20528
+2018-11-13 14:27:49,043 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20528 success
+2018-11-13 14:27:49,043 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.39:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:49,079 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:49,303 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:49,341 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:49,348 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:49,856 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.39:kss-automap-lane:20527
+2018-11-13 14:27:49,857 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.39:kss-automap-lane:20527 success
+2018-11-13 14:27:49,857 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.39:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:49,898 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:50,143 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:50,165 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:50,181 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:50,841 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.17:kss-automap-lane:20529
+2018-11-13 14:27:50,842 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20529 success
+2018-11-13 14:27:50,842 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.17:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:50,880 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:51,115 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:51,158 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:51,174 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:51,831 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.17:kss-automap-lane:20528
+2018-11-13 14:27:51,831 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20528 success
+2018-11-13 14:27:51,831 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.17:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:51,868 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:52,107 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:52,133 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:52,135 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:52,776 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.17:kss-automap-lane:20527
+2018-11-13 14:27:52,776 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.17:kss-automap-lane:20527 success
+2018-11-13 14:27:52,776 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.17:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:52,819 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:53,040 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:53,067 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:53,080 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:53,754 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.43:kss-automap-lane:20527
+2018-11-13 14:27:53,754 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20527 success
+2018-11-13 14:27:53,755 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.43:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:53,791 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:54,032 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:54,077 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:54,090 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:54,926 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.43:kss-automap-lane:20528
+2018-11-13 14:27:54,926 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20528 success
+2018-11-13 14:27:54,926 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.43:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:54,963 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:55,209 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:55,255 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:55,268 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:56,150 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.43:kss-automap-lane:20529
+2018-11-13 14:27:56,151 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.43:kss-automap-lane:20529 success
+2018-11-13 14:27:56,151 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.43:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:56,190 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:56,457 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:56,480 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:56,483 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:57,218 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.51:kss-automap-lane:20528
+2018-11-13 14:27:57,218 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20528 success
+2018-11-13 14:27:57,218 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.51:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:57,269 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:57,515 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:57,559 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:57,560 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:58,193 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.51:kss-automap-lane:20527
+2018-11-13 14:27:58,193 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20527 success
+2018-11-13 14:27:58,193 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.51:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:58,237 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:58,432 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:58,478 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:58,491 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:27:59,186 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.34:kss-automap-lane:20529
+2018-11-13 14:27:59,186 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20529 success
+2018-11-13 14:27:59,186 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.34:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:27:59,228 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:27:59,484 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:27:59,517 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:27:59,530 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:00,311 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.34:kss-automap-lane:20528
+2018-11-13 14:28:00,311 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20528 success
+2018-11-13 14:28:00,311 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.34:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:00,348 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:00,599 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:00,628 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:00,641 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:01,493 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.34:kss-automap-lane:20527
+2018-11-13 14:28:01,494 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20527 success
+2018-11-13 14:28:01,494 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.34:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:01,535 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:01,796 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:01,821 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:01,821 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:02,536 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.51:kss-automap-lane:20529
+2018-11-13 14:28:02,536 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20529 success
+2018-11-13 14:28:02,537 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.51:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:02,580 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:02,794 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:02,827 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:02,842 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:03,678 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.34:kss-automap-lane:20531
+2018-11-13 14:28:03,679 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20531 success
+2018-11-13 14:28:03,679 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.34:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:03,722 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:03,966 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:03,995 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:03,998 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:04,738 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.34:kss-automap-lane:20530
+2018-11-13 14:28:04,738 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.34:kss-automap-lane:20530 success
+2018-11-13 14:28:04,739 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.34:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:04,772 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:04,942 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:04,979 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:04,986 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:05,677 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.75:kss-automap-lane:20529
+2018-11-13 14:28:05,678 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20529 success
+2018-11-13 14:28:05,678 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.75:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:05,715 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:05,941 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:05,978 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:05,985 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:06,662 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.75:kss-automap-lane:20527
+2018-11-13 14:28:06,663 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20527 success
+2018-11-13 14:28:06,663 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.75:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:06,698 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:06,963 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:06,981 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:06,988 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:07,626 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.75:kss-automap-lane:20528
+2018-11-13 14:28:07,627 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20528 success
+2018-11-13 14:28:07,627 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.75:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:07,677 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:07,869 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:07,909 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:07,925 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:08,732 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.36:kss-automap-lane:20527
+2018-11-13 14:28:08,732 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20527 success
+2018-11-13 14:28:08,732 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.36:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:08,971 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:09,237 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:09,267 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:09,268 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:09,837 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.62:kss-automap-lane:20529
+2018-11-13 14:28:09,837 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20529 success
+2018-11-13 14:28:09,837 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.62:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:09,874 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:10,132 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:10,145 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:10,152 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:10,860 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.75:kss-automap-lane:20530
+2018-11-13 14:28:10,860 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20530 success
+2018-11-13 14:28:10,861 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.75:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:10,900 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:11,164 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:11,182 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:11,188 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:11,765 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.75:kss-automap-lane:20531
+2018-11-13 14:28:11,765 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.75:kss-automap-lane:20531 success
+2018-11-13 14:28:11,766 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.75:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:11,803 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:12,069 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:12,091 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:12,107 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:12,713 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.62:kss-automap-lane:20528
+2018-11-13 14:28:12,713 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20528 success
+2018-11-13 14:28:12,714 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.62:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:12,752 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:13,018 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:13,045 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:13,046 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:13,632 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.62:kss-automap-lane:20527
+2018-11-13 14:28:13,632 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20527 success
+2018-11-13 14:28:13,633 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.62:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:13,671 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:13,902 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:13,940 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:13,948 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:14,426 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.84:kss-automap-lane:20531
+2018-11-13 14:28:14,426 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20531 success
+2018-11-13 14:28:14,426 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.84:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:14,462 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:14,723 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:14,738 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:14,745 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:15,243 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.84:kss-automap-lane:20530
+2018-11-13 14:28:15,243 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20530 success
+2018-11-13 14:28:15,243 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.84:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:15,286 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:15,517 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:15,541 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:15,553 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:16,257 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.86:kss-automap-lane:20527
+2018-11-13 14:28:16,257 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20527 success
+2018-11-13 14:28:16,257 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.86:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:16,301 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:16,537 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:16,582 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:16,596 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:17,328 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.86:kss-automap-lane:20528
+2018-11-13 14:28:17,328 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20528 success
+2018-11-13 14:28:17,328 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.86:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:17,370 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:17,633 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:17,659 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:17,672 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:18,320 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.86:kss-automap-lane:20529
+2018-11-13 14:28:18,320 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20529 success
+2018-11-13 14:28:18,320 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.86:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:18,362 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:18,634 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:18,656 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:18,656 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:19,358 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.19:kss-automap-lane:20527
+2018-11-13 14:28:19,359 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20527 success
+2018-11-13 14:28:19,359 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.19:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:19,398 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:19,579 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:19,624 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:19,639 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:20,313 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.19:kss-automap-lane:20528
+2018-11-13 14:28:20,313 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20528 success
+2018-11-13 14:28:20,313 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.19:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:20,358 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:20,553 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:20,595 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:20,608 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:21,384 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.36:kss-automap-lane:20528
+2018-11-13 14:28:21,385 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20528 success
+2018-11-13 14:28:21,385 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.36:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:21,427 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:21,657 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:21,674 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:21,690 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:22,389 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.19:kss-automap-lane:20529
+2018-11-13 14:28:22,390 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.19:kss-automap-lane:20529 success
+2018-11-13 14:28:22,390 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.19:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:22,432 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:22,625 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:22,668 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:22,680 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:23,369 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.36:kss-automap-lane:20529
+2018-11-13 14:28:23,369 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20529 success
+2018-11-13 14:28:23,369 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.36:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:23,417 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:23,673 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:23,691 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:23,698 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:24,168 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.84:kss-automap-lane:20529
+2018-11-13 14:28:24,169 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20529 success
+2018-11-13 14:28:24,169 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.84:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:24,215 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:24,442 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:24,462 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:24,475 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:25,242 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.36:kss-automap-lane:20531
+2018-11-13 14:28:25,243 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20531 success
+2018-11-13 14:28:25,243 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.36:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:25,285 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:25,500 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:25,517 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:25,532 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:26,241 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.4:kss-automap-lane:20529
+2018-11-13 14:28:26,241 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20529 success
+2018-11-13 14:28:26,241 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.4:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:26,283 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:26,548 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:26,580 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:26,580 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:27,265 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.51:kss-automap-lane:20531
+2018-11-13 14:28:27,265 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20531 success
+2018-11-13 14:28:27,265 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.51:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:27,313 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:27,527 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:27,552 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:27,567 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:28,332 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.36:kss-automap-lane:20530
+2018-11-13 14:28:28,332 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.36:kss-automap-lane:20530 success
+2018-11-13 14:28:28,333 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.36:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:28,373 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:28,650 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:28,673 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:28,673 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:29,371 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.51:kss-automap-lane:20530
+2018-11-13 14:28:29,372 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.51:kss-automap-lane:20530 success
+2018-11-13 14:28:29,372 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.51:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:29,410 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:29,644 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:29,682 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:29,689 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:30,162 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.84:kss-automap-lane:20528
+2018-11-13 14:28:30,162 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20528 success
+2018-11-13 14:28:30,162 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.84:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:30,202 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:30,416 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:30,453 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:30,461 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:30,916 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.84:kss-automap-lane:20527
+2018-11-13 14:28:30,916 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.84:kss-automap-lane:20527 success
+2018-11-13 14:28:30,916 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.84:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:30,957 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:31,216 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:31,243 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:31,256 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:31,934 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.86:kss-automap-lane:20530
+2018-11-13 14:28:31,934 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20530 success
+2018-11-13 14:28:31,935 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.86:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:31,977 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:32,252 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:32,281 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:32,295 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:33,026 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.86:kss-automap-lane:20531
+2018-11-13 14:28:33,026 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.86:kss-automap-lane:20531 success
+2018-11-13 14:28:33,027 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.86:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:33,067 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:33,277 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:33,302 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:33,307 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:33,799 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.73:kss-automap-lane:20529
+2018-11-13 14:28:33,799 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20529 success
+2018-11-13 14:28:33,799 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.73:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:34,044 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:34,316 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:34,337 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:34,341 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:35,056 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.12:kss-automap-lane:20529
+2018-11-13 14:28:35,056 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20529 success
+2018-11-13 14:28:35,057 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.12:kss-automap-lane:20529 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:35,100 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:35,346 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:35,377 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:35,378 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:36,069 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.12:kss-automap-lane:20528
+2018-11-13 14:28:36,069 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20528 success
+2018-11-13 14:28:36,069 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.12:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:36,112 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:36,360 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:36,389 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:36,390 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:37,082 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.12:kss-automap-lane:20527
+2018-11-13 14:28:37,083 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.12:kss-automap-lane:20527 success
+2018-11-13 14:28:37,083 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.12:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:37,127 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:37,395 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:37,410 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:37,416 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:38,275 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.62:kss-automap-lane:20531
+2018-11-13 14:28:38,275 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20531 success
+2018-11-13 14:28:38,275 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.62:kss-automap-lane:20531 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:38,314 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:38,539 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:38,581 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:38,584 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:39,179 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.62:kss-automap-lane:20530
+2018-11-13 14:28:39,179 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.62:kss-automap-lane:20530 success
+2018-11-13 14:28:39,179 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.62:kss-automap-lane:20530 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:39,218 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:39,442 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:39,460 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:39,476 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:40,190 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.4:kss-automap-lane:20528
+2018-11-13 14:28:40,191 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20528 success
+2018-11-13 14:28:40,191 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.4:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:40,228 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:40,489 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:40,510 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:40,511 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:41,211 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.4:kss-automap-lane:20527
+2018-11-13 14:28:41,211 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.4:kss-automap-lane:20527 success
+2018-11-13 14:28:41,211 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.4:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:41,251 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:41,463 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:41,505 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:41,507 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:42,246 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.73:kss-automap-lane:20528
+2018-11-13 14:28:42,246 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20528 success
+2018-11-13 14:28:42,246 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.73:kss-automap-lane:20528 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:42,284 INFO 47796[transport.py:1546 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-13 14:28:42,553 INFO 47796[transport.py:1546 _log]: Authentication (publickey) failed.
+2018-11-13 14:28:42,574 INFO 47796[transport.py:1546 _log]: Authentication (password) successful!
+2018-11-13 14:28:42,575 INFO 47796[check_automap_ver_v2.py:45 calculate_md5sum]: checking md5sum...
+2018-11-13 14:28:43,272 INFO 47796[check_automap_ver_v2.py:69 check_ver]: checking 10.11.5.73:kss-automap-lane:20527
+2018-11-13 14:28:43,272 INFO 47796[check_automap_ver_v2.py:74 check_ver]: check 10.11.5.73:kss-automap-lane:20527 success
+2018-11-13 14:28:43,273 INFO 47796[check_automap_ver_v2.py:75 check_ver]: check 10.11.5.73:kss-automap-lane:20527 md5sum [u'656a52a4694375ec80db0c899ddf68f2  /data/CI/autohdmap_lane/autohdmap_lane_server\n']
+2018-11-13 14:28:43,273 INFO 47796[check_automap_ver_v2.py:76 check_ver]: checked instance num 212
+2018-11-13 14:28:43,274 INFO 47796[check_automap_ver_v2.py:84 main]: mismatch list []
+[Finish] Success to check [kss-automap-lane]

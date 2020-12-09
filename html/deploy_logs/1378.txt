@@ -1,0 +1,16 @@
+
+PLAY [task-frame-management] ***************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.80]
+
+TASK [all : Stop "task-frame-management" service] ******************************
+changed: [10.11.5.80]
+
+TASK [all : Start "task-frame-management" service] *****************************
+changed: [10.11.5.80]
+
+PLAY RECAP *********************************************************************
+10.11.5.80                 : ok=3    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to start [1378]

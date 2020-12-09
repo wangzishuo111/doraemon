@@ -1,0 +1,4 @@
+web_editor_fullv2
+yor path is : /mnt/data1/release-data/web_editor_fullv2_release/v1.8.2/ 
+you enter a wrong path
+[Finish] Failed to deploy [1381]

@@ -1,0 +1,29 @@
+kts
+2018-11-28 18:38:19,358 INFO 90270[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kts_release/v2.7.10.RELEASE/kts.jar
+2018-11-28 18:38:19,358 INFO 90270[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.77
+2018-11-28 18:38:19,366 INFO 90270[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 18:38:19,451 INFO 90270[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 18:38:19,471 INFO 90270[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 18:38:19,722 INFO 90270[no_cat_release.py:37 stop_cmd]: error list rm bak is :[u'/usr/local/bin/rm: 10: [: -rf: unexpected operator\n', u'/usr/local/bin/rm: 47: /usr/local/bin/rm: Bad substitution\n']
+2018-11-28 18:38:19,722 INFO 90270[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-28 18:38:19,722 INFO 90270[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.77
+2018-11-28 18:38:19,846 INFO 90270[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kts_30_13300/kts.sh stop]
+2018-11-28 18:38:19,846 INFO 90270[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-28 18:38:19,847 INFO 90270[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kts_30_13300\n', u'kts.jar\n', u'/data/CI/kts_30_13300/lib/kts.jar is not started.\n']
+2018-11-28 18:38:29,914 INFO 90270[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kts_30_13300/lib/kts.jar /data/CI/kts_30_13300/lib/kts.jar_bak]
+2018-11-28 18:38:29,914 INFO 90270[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-28 18:38:29,915 INFO 90270[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-28 18:38:29,915 INFO 90270[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.77
+2018-11-28 18:38:29,923 INFO 90270[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 18:38:30,008 INFO 90270[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 18:38:30,029 INFO 90270[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 18:38:31,331 INFO 90270[no_cat_release.py:62 release_service]: file has arrive /data/CI/kts_30_13300/lib:
+2018-11-28 18:38:41,342 INFO 90270[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.77
+2018-11-28 18:38:41,351 INFO 90270[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-28 18:38:41,441 INFO 90270[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-28 18:38:41,460 INFO 90270[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-28 18:38:41,719 INFO 90270[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-28 18:38:41,720 INFO 90270[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kts_30_13300\n', u'kts.jar\n', u'kts.jar port: 13300 is exist. \n', u'kts.jar start failed!\n']
+2018-11-28 18:38:41,720 INFO 90270[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-28 18:38:41,720 INFO 90270[no_cat_release.py:74 start_cmd]: sudo /data/CI/kts_30_13300/kts.sh already started
+[Finish] Success to deploy [650]

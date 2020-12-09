@@ -1,0 +1,9 @@
+2018-11-26 19:02:48,690 INFO 41658[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:02:48,690 INFO 41658[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.74:
+2018-11-26 19:02:48,702 INFO 41658[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:02:48,751 INFO 41658[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:02:48,794 INFO 41658[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:02:49,280 INFO 41658[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:02:49,280 INFO 41658[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kms_33_13320\n', u'kms.jar\n', u'/data/CI/kms_33_13320/lib/kms.jar (13320) shutdown.\n']
+2018-11-26 19:02:49,280 INFO 41658[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kms_33_13320/kms.sh stop
+[Finish] Success to deploy [557]

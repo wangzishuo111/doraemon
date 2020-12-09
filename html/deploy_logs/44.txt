@@ -1,0 +1,57 @@
+
+PLAY [reco_release] **********************************************************************************************************************************************************
+
+TASK [Gathering Facts] *******************************************************************************************************************************************************
+fatal: [10.11.5.112]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.111]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.114]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.113]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.115]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.116]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.117]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.118]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.119]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.120]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.121]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.122]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.124]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.123]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.125]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.126]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.128]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.127]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.130]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.129]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.131]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.133]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.132]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+fatal: [10.11.5.134]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: Permission denied (publickey,password).\r\n", "unreachable": true}
+	to retry, use: --limit @/home/op/cheng/autohdmap_deploy/reco_release.retry
+
+PLAY RECAP *******************************************************************************************************************************************************************
+10.11.5.111                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.112                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.113                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.114                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.115                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.116                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.117                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.118                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.119                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.120                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.121                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.122                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.123                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.124                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.125                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.126                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.127                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.128                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.129                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.130                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.131                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.132                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.133                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.134                : ok=0    changed=0    unreachable=1    failed=0   
+
+[Finish] Failed to deploy [111]

@@ -1,0 +1,42 @@
+
+PLAY [hbase-store-release] *******************************************************************************************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [hadoop-0015]
+
+TASK [hbase-store-release : sync /opt/hbase-store from hadoop-0015 to hadoop-0016 and hadoop-0017] *******************************************************************************
+ok: [hadoop-0015 -> hadoop-0015]
+
+PLAY [hbase-store-release] *******************************************************************************************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [hadoop-0016]
+
+TASK [hbase-store-release : sync /opt/hbase-store from hadoop-0015 to hadoop-0016 and hadoop-0017] *******************************************************************************
+changed: [hadoop-0016 -> hadoop-0015]
+
+RUNNING HANDLER [hbase-store-release : restart hbase-store service] **************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+changed: [hadoop-0016]
+
+PLAY [hbase-store-release] *******************************************************************************************************************************************************
+
+TASK [Gathering Facts] ***********************************************************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+ok: [hadoop-0017]
+
+TASK [hbase-store-release : sync /opt/hbase-store from hadoop-0015 to hadoop-0016 and hadoop-0017] *******************************************************************************
+changed: [hadoop-0017 -> hadoop-0015]
+
+RUNNING HANDLER [hbase-store-release : restart hbase-store service] **************************************************************************************************************
+ [WARNING]: Error deleting remote temporary files (rc: 127, stderr: })
+changed: [hadoop-0017]
+
+PLAY RECAP ***********************************************************************************************************************************************************************
+hadoop-0015                : ok=2    changed=0    unreachable=0    failed=0   
+hadoop-0016                : ok=3    changed=2    unreachable=0    failed=0   
+hadoop-0017                : ok=3    changed=2    unreachable=0    failed=0   
+
+[Finish] Success to deploy [69]

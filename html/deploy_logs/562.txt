@@ -1,0 +1,9 @@
+2018-11-26 19:15:22,879 INFO 89523[guizhou_stop.py:18 stop_cmd]: --------------------------------------------------------------------------------------------
+2018-11-26 19:15:22,879 INFO 89523[guizhou_stop.py:19 stop_cmd]: now stopping the host : 10.11.5.73:
+2018-11-26 19:15:22,892 INFO 89523[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-26 19:15:22,981 INFO 89523[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-26 19:15:23,005 INFO 89523[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-26 19:15:23,429 INFO 89523[guizhou_stop.py:24 stop_cmd]: error list stop is :[]
+2018-11-26 19:15:23,429 INFO 89523[guizhou_stop.py:25 stop_cmd]: stdout list stop is :[u'/data/CI/kds-data-closeEdit_73_23220\n', u'kds-data-closeEdit.jar\n', u'/data/CI/kds-data-closeEdit_73_23220/lib/kds-data-closeEdit.jar (23220) shutdown.\n']
+2018-11-26 19:15:23,430 INFO 89523[guizhou_stop.py:26 stop_cmd]: cmd is : sudo /data/CI/kds-data-closeEdit_73_23220/kds-data.sh stop
+[Finish] Success to deploy [562]

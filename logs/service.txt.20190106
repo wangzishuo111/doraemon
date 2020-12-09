@@ -1,0 +1,1275 @@
+2019-01-06 00:05:11,166 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 00:05:11,166 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1163.64ms
+2019-01-06 00:06:10,868 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 00:06:10,868 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 914.70ms
+2019-01-06 00:08:11,116 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 00:08:11,117 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1132.69ms
+2019-01-06 00:15:11,335 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:15:11,335 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 00:15:11,336 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1322.22ms
+2019-01-06 00:16:10,996 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 00:16:10,997 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1033.40ms
+2019-01-06 00:18:11,255 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:18:11,256 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1293.72ms
+2019-01-06 00:25:11,001 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:25:11,001 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 00:25:11,001 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1058.43ms
+2019-01-06 00:26:11,131 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:26:11,131 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:26:11,132 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1162.04ms
+2019-01-06 00:28:11,478 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:28:11,479 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:28:11,479 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1403.11ms
+2019-01-06 00:35:11,626 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:35:11,626 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:35:11,627 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1587.88ms
+2019-01-06 00:36:11,387 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:36:11,387 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 00:36:11,388 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1369.77ms
+2019-01-06 00:38:11,618 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:38:11,619 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:38:11,619 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1588.51ms
+2019-01-06 00:45:11,127 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:45:11,127 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 00:45:11,127 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1106.93ms
+2019-01-06 00:46:10,943 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:46:10,943 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:46:10,944 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 995.32ms
+2019-01-06 00:48:11,147 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:48:11,147 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 00:48:11,148 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1119.24ms
+2019-01-06 00:55:11,783 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:55:11,783 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 00:55:11,784 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1741.92ms
+2019-01-06 00:56:10,908 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:56:10,909 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 00:56:10,909 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 955.23ms
+2019-01-06 00:58:11,433 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 00:58:11,434 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 00:58:11,434 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1403.63ms
+2019-01-06 01:06:11,390 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:06:11,390 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 01:06:11,390 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1345.41ms
+2019-01-06 01:07:10,984 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:07:10,984 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:07:10,985 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1058.55ms
+2019-01-06 01:09:11,015 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:09:11,016 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 01:09:11,017 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1051.65ms
+2019-01-06 01:16:11,187 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:16:11,187 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:16:11,187 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1223.44ms
+2019-01-06 01:17:11,143 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:17:11,144 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:17:11,145 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1148.50ms
+2019-01-06 01:19:11,376 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:19:11,377 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 01:19:11,378 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1330.92ms
+2019-01-06 01:26:11,305 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:26:11,305 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 01:26:11,306 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1283.28ms
+2019-01-06 01:27:11,633 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:27:11,633 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:27:11,635 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1590.50ms
+2019-01-06 01:29:11,183 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:29:11,183 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 01:29:11,184 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1228.63ms
+2019-01-06 01:36:11,181 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:36:11,181 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 01:36:11,182 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1166.03ms
+2019-01-06 01:37:11,035 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:37:11,035 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 01:37:11,036 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1029.51ms
+2019-01-06 01:39:11,028 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:39:11,028 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 01:39:11,029 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1009.02ms
+2019-01-06 01:45:06,916 INFO 66727[web.py:2162 log_request]: 200 GET /zabbixbi.html (10.11.5.137) 3.03ms
+2019-01-06 01:46:11,477 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:46:11,478 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:46:11,478 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1439.82ms
+2019-01-06 01:47:10,983 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:47:10,984 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 01:47:10,984 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 996.77ms
+2019-01-06 01:49:11,558 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:49:11,558 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 01:49:11,559 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1506.55ms
+2019-01-06 01:56:11,594 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:56:11,594 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 01:56:11,594 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1501.23ms
+2019-01-06 01:57:10,923 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:57:10,923 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 01:57:10,924 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 957.10ms
+2019-01-06 01:59:11,776 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 01:59:11,776 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 01:59:11,777 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1710.15ms
+2019-01-06 02:07:11,145 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:07:11,146 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:07:11,146 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1196.81ms
+2019-01-06 02:08:11,095 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:08:11,096 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 02:08:11,096 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1105.41ms
+2019-01-06 02:10:11,617 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:10:11,617 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 02:10:11,618 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1519.27ms
+2019-01-06 02:17:11,355 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:17:11,356 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:17:11,356 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1304.00ms
+2019-01-06 02:18:11,028 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:18:11,028 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:18:11,029 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1043.93ms
+2019-01-06 02:20:11,215 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:20:11,216 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 02:20:11,216 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1290.79ms
+2019-01-06 02:27:11,591 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:27:11,592 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 02:27:11,592 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1556.82ms
+2019-01-06 02:28:10,966 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:28:10,966 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:28:10,967 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1014.69ms
+2019-01-06 02:30:11,116 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:30:11,116 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:30:11,117 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1110.48ms
+2019-01-06 02:37:11,425 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:37:11,425 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 02:37:11,425 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1463.96ms
+2019-01-06 02:38:10,790 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:38:10,791 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 02:38:10,791 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 851.74ms
+2019-01-06 02:40:11,290 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:40:11,290 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 02:40:11,290 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1248.66ms
+2019-01-06 02:47:11,295 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:47:11,295 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 02:47:11,295 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1291.08ms
+2019-01-06 02:48:11,028 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:48:11,028 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 02:48:11,028 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1016.88ms
+2019-01-06 02:50:11,176 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:50:11,176 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 02:50:11,177 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1150.72ms
+2019-01-06 02:57:10,970 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:57:10,970 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 02:57:10,971 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1001.01ms
+2019-01-06 02:58:11,013 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 02:58:11,014 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 02:58:11,014 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1032.18ms
+2019-01-06 03:00:11,241 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:00:11,241 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 03:00:11,242 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1167.24ms
+2019-01-06 03:08:11,113 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:08:11,113 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:08:11,113 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1165.00ms
+2019-01-06 03:09:11,045 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:09:11,046 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 03:09:11,046 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1000.92ms
+2019-01-06 03:11:11,181 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:11:11,181 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 03:11:11,182 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1129.19ms
+2019-01-06 03:18:11,396 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:18:11,396 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:18:11,396 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1352.95ms
+2019-01-06 03:19:10,868 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:19:10,868 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:19:10,869 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 862.41ms
+2019-01-06 03:21:11,582 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:21:11,582 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:21:11,583 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1458.91ms
+2019-01-06 03:28:11,135 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:28:11,135 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 03:28:11,136 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1093.47ms
+2019-01-06 03:29:11,091 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:29:11,091 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 03:29:11,091 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1013.66ms
+2019-01-06 03:31:11,037 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:31:11,038 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 03:31:11,038 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1002.13ms
+2019-01-06 03:38:11,120 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:38:11,120 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 03:38:11,121 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1126.43ms
+2019-01-06 03:39:11,087 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:39:11,087 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 03:39:11,088 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1057.20ms
+2019-01-06 03:41:11,399 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:41:11,399 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 03:41:11,399 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1325.15ms
+2019-01-06 03:48:11,284 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:48:11,285 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:48:11,285 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1262.14ms
+2019-01-06 03:49:11,063 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:49:11,064 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 03:49:11,064 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1032.51ms
+2019-01-06 03:51:11,136 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:51:11,136 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 03:51:11,137 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1066.04ms
+2019-01-06 03:58:11,108 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:58:11,109 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 03:58:11,109 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1071.33ms
+2019-01-06 03:59:11,771 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 03:59:11,771 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 03:59:11,771 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1578.85ms
+2019-01-06 04:02:10,964 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:02:10,965 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 04:02:10,966 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 939.42ms
+2019-01-06 04:09:11,214 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:09:11,214 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 04:09:11,215 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1191.27ms
+2019-01-06 04:10:10,957 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:10:10,957 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:10:10,958 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 980.79ms
+2019-01-06 04:12:11,287 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:12:11,287 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 04:12:11,288 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1269.40ms
+2019-01-06 04:19:11,725 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:19:11,726 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 04:19:11,726 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1653.35ms
+2019-01-06 04:20:11,059 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:20:11,059 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 04:20:11,059 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1080.84ms
+2019-01-06 04:22:11,465 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:22:11,466 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 04:22:11,467 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1530.58ms
+2019-01-06 04:29:11,291 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:29:11,291 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:29:11,291 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1237.00ms
+2019-01-06 04:30:11,208 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:30:11,208 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 04:30:11,209 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1224.85ms
+2019-01-06 04:32:11,326 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:32:11,326 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 04:32:11,327 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1305.53ms
+2019-01-06 04:39:11,221 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:39:11,221 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:39:11,222 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1244.13ms
+2019-01-06 04:40:10,882 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:40:10,883 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 04:40:10,883 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 896.25ms
+2019-01-06 04:42:10,968 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:42:10,968 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:42:10,969 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 985.33ms
+2019-01-06 04:49:11,075 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:49:11,076 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:49:11,076 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1070.95ms
+2019-01-06 04:50:11,020 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:50:11,020 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:50:11,021 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1022.33ms
+2019-01-06 04:52:10,990 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:52:10,990 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 04:52:10,991 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 973.16ms
+2019-01-06 04:59:11,593 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 04:59:11,594 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 04:59:11,594 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1553.65ms
+2019-01-06 05:00:11,143 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:00:11,143 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 05:00:11,143 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1112.73ms
+2019-01-06 05:03:11,057 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:03:11,058 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 05:03:11,058 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1132.87ms
+2019-01-06 05:10:11,074 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:10:11,074 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 05:10:11,075 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1129.02ms
+2019-01-06 05:11:11,208 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:11:11,208 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 05:11:11,209 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1239.40ms
+2019-01-06 05:13:11,268 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:13:11,268 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 05:13:11,269 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1210.31ms
+2019-01-06 05:20:11,091 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:20:11,092 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 05:20:11,093 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1121.28ms
+2019-01-06 05:21:11,404 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:21:11,404 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 05:21:11,405 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1377.64ms
+2019-01-06 05:23:11,097 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:23:11,097 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 05:23:11,098 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1144.15ms
+2019-01-06 05:30:11,407 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:30:11,408 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 05:30:11,408 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1287.08ms
+2019-01-06 05:31:11,327 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:31:11,327 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 05:31:11,327 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1338.37ms
+2019-01-06 05:33:11,454 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:33:11,454 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 05:33:11,455 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1500.08ms
+2019-01-06 05:40:11,404 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:40:11,404 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 05:40:11,405 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1431.76ms
+2019-01-06 05:41:10,927 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:41:10,928 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 05:41:10,928 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 952.30ms
+2019-01-06 05:43:10,868 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:43:10,869 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 05:43:10,869 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 916.21ms
+2019-01-06 05:50:11,010 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:50:11,011 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 05:50:11,011 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1025.13ms
+2019-01-06 05:51:11,099 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:51:11,100 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 05:51:11,100 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1075.39ms
+2019-01-06 05:53:11,031 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 05:53:11,032 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 05:53:11,032 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 988.23ms
+2019-01-06 06:00:11,666 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:00:11,666 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 06:00:11,667 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1539.59ms
+2019-01-06 06:02:10,942 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:02:10,943 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 06:02:10,943 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 962.91ms
+2019-01-06 06:04:11,200 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:04:11,201 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 06:04:11,201 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1184.22ms
+2019-01-06 06:11:10,958 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:11:10,959 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 06:11:10,959 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 959.58ms
+2019-01-06 06:12:11,079 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:12:11,080 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 06:12:11,080 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1053.79ms
+2019-01-06 06:14:11,122 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:14:11,122 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 06:14:11,122 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1066.29ms
+2019-01-06 06:21:11,341 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:21:11,342 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 06:21:11,342 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1303.10ms
+2019-01-06 06:22:11,071 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:22:11,072 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 06:22:11,072 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1039.20ms
+2019-01-06 06:24:11,487 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:24:11,488 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 06:24:11,489 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1408.30ms
+2019-01-06 06:31:10,885 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:31:10,886 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 06:31:10,886 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 855.21ms
+2019-01-06 06:32:10,893 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:32:10,893 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 06:32:10,894 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 888.43ms
+2019-01-06 06:34:11,001 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:34:11,001 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 06:34:11,002 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 989.45ms
+2019-01-06 06:41:11,124 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:41:11,124 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 06:41:11,125 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1134.66ms
+2019-01-06 06:42:11,074 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:42:11,074 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 06:42:11,075 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1084.89ms
+2019-01-06 06:44:11,664 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:44:11,664 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 06:44:11,665 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1702.94ms
+2019-01-06 06:51:11,019 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:51:11,019 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 06:51:11,020 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1093.23ms
+2019-01-06 06:52:10,868 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:52:10,869 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 06:52:10,869 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 927.92ms
+2019-01-06 06:54:11,101 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 06:54:11,101 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 06:54:11,101 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1139.84ms
+2019-01-06 07:02:11,587 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:02:11,587 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 07:02:11,588 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1621.25ms
+2019-01-06 07:03:11,408 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:03:11,408 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 07:03:11,409 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1503.14ms
+2019-01-06 07:05:11,400 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:05:11,401 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 07:05:11,401 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1421.24ms
+2019-01-06 07:12:11,207 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:12:11,207 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 07:12:11,208 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1222.85ms
+2019-01-06 07:13:10,989 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:13:10,989 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 07:13:10,990 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1058.79ms
+2019-01-06 07:15:11,440 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:15:11,441 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 07:15:11,441 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1463.74ms
+2019-01-06 07:22:11,062 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:22:11,063 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 07:22:11,063 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1127.59ms
+2019-01-06 07:23:10,954 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:23:10,955 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 07:23:10,955 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1013.07ms
+2019-01-06 07:25:11,308 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:25:11,308 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 07:25:11,309 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1306.59ms
+2019-01-06 07:32:11,038 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:32:11,039 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 07:32:11,039 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1062.66ms
+2019-01-06 07:33:11,540 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:33:11,540 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 07:33:11,540 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1489.94ms
+2019-01-06 07:35:11,430 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:35:11,431 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 07:35:11,431 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1397.34ms
+2019-01-06 07:42:11,707 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:42:11,707 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 07:42:11,707 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1688.82ms
+2019-01-06 07:43:10,997 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:43:10,997 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 07:43:10,997 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 995.61ms
+2019-01-06 07:45:11,258 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:45:11,258 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 07:45:11,258 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1214.79ms
+2019-01-06 07:52:11,158 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:52:11,159 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 07:52:11,159 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1097.87ms
+2019-01-06 07:53:10,880 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:53:10,880 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 07:53:10,881 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 889.21ms
+2019-01-06 07:55:11,348 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 07:55:11,348 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 07:55:11,348 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1251.63ms
+2019-01-06 08:03:11,335 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:03:11,335 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:03:11,336 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1310.46ms
+2019-01-06 08:04:11,317 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:04:11,317 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:04:11,318 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1247.59ms
+2019-01-06 08:06:11,201 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:06:11,201 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:06:11,202 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1221.97ms
+2019-01-06 08:13:11,493 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:13:11,494 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 08:13:11,494 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1420.63ms
+2019-01-06 08:14:10,953 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:14:10,953 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:14:10,954 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 972.08ms
+2019-01-06 08:16:11,225 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:16:11,226 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:16:11,226 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1154.34ms
+2019-01-06 08:23:11,823 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:23:11,823 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 08:23:11,824 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1640.92ms
+2019-01-06 08:24:11,208 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:24:11,208 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:24:11,209 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1103.71ms
+2019-01-06 08:26:11,388 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:26:11,388 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:26:11,388 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1366.56ms
+2019-01-06 08:33:11,083 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:33:11,083 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:33:11,084 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1033.91ms
+2019-01-06 08:34:11,633 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:34:11,634 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:34:11,635 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1505.58ms
+2019-01-06 08:36:11,722 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:36:11,722 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:36:11,723 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1601.00ms
+2019-01-06 08:43:11,133 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:43:11,133 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:43:11,134 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1121.75ms
+2019-01-06 08:44:10,997 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:44:10,998 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 08:44:10,998 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 966.93ms
+2019-01-06 08:46:11,525 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:46:11,525 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 08:46:11,526 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1441.01ms
+2019-01-06 08:53:10,946 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:53:10,946 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 08:53:10,947 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 927.41ms
+2019-01-06 08:54:11,003 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:54:11,003 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 08:54:11,004 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 989.38ms
+2019-01-06 08:56:11,747 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 08:56:11,747 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 08:56:11,748 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1637.21ms
+2019-01-06 09:04:11,246 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:04:11,247 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 09:04:11,247 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1247.15ms
+2019-01-06 09:05:11,136 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:05:11,137 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 09:05:11,137 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1111.50ms
+2019-01-06 09:07:10,847 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:07:10,847 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 09:07:10,848 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 883.79ms
+2019-01-06 09:14:11,030 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:14:11,030 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 09:14:11,030 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1053.02ms
+2019-01-06 09:15:11,255 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:15:11,255 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 09:15:11,256 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1144.14ms
+2019-01-06 09:17:10,948 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:17:10,949 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 09:17:10,949 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 927.27ms
+2019-01-06 09:19:26,887 INFO 66724[web.py:2162 log_request]: 200 GET /dashboard.html (10.11.5.137) 1782.03ms
+2019-01-06 09:19:30,582 INFO 66725[web.py:2162 log_request]: 200 GET /taskinfo.html (10.11.5.137) 8.00ms
+2019-01-06 09:24:11,683 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:24:11,683 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 09:24:11,684 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1627.82ms
+2019-01-06 09:25:11,369 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:25:11,369 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 09:25:11,370 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1284.45ms
+2019-01-06 09:27:11,472 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:27:11,473 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 09:27:11,473 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1369.31ms
+2019-01-06 09:34:11,076 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:34:11,076 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 09:34:11,076 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1024.29ms
+2019-01-06 09:35:11,453 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:35:11,454 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 09:35:11,455 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1265.00ms
+2019-01-06 09:37:10,907 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:37:10,908 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 09:37:10,908 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 896.15ms
+2019-01-06 09:44:11,335 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:44:11,335 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 09:44:11,336 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1188.42ms
+2019-01-06 09:45:11,829 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:45:11,830 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 09:45:11,830 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1670.11ms
+2019-01-06 09:47:11,118 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:47:11,119 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 09:47:11,119 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1052.50ms
+2019-01-06 09:54:11,507 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:54:11,507 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 09:54:11,508 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1386.05ms
+2019-01-06 09:55:11,475 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:55:11,476 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 09:55:11,476 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1387.42ms
+2019-01-06 09:57:11,462 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 09:57:11,463 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 09:57:11,463 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1365.51ms
+2019-01-06 10:05:11,483 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:05:11,484 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 10:05:11,484 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1290.39ms
+2019-01-06 10:06:10,953 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:06:10,953 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:06:10,954 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 923.29ms
+2019-01-06 10:08:11,516 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:08:11,516 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 10:08:11,516 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1405.67ms
+2019-01-06 10:15:11,715 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:15:11,716 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 10:15:11,716 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1601.93ms
+2019-01-06 10:16:11,028 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:16:11,028 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:16:11,028 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 986.77ms
+2019-01-06 10:18:11,067 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:18:11,067 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 10:18:11,068 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1036.67ms
+2019-01-06 10:25:11,707 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:25:11,708 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 10:25:11,709 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1567.78ms
+2019-01-06 10:26:11,414 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:26:11,414 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 10:26:11,415 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1288.49ms
+2019-01-06 10:28:10,999 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:28:10,999 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 10:28:11,000 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 989.43ms
+2019-01-06 10:35:11,355 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:35:11,355 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:35:11,356 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1171.80ms
+2019-01-06 10:36:11,267 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:36:11,268 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:36:11,268 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1169.12ms
+2019-01-06 10:38:11,132 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:38:11,133 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:38:11,133 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1048.87ms
+2019-01-06 10:45:11,304 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:45:11,304 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 10:45:11,305 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1170.10ms
+2019-01-06 10:46:10,936 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:46:10,937 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 10:46:10,937 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 905.43ms
+2019-01-06 10:48:11,358 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:48:11,358 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:48:11,359 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1209.25ms
+2019-01-06 10:55:11,336 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:55:11,337 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 10:55:11,337 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1192.36ms
+2019-01-06 10:56:10,909 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:56:10,910 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 10:56:10,910 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 858.08ms
+2019-01-06 10:58:11,119 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 10:58:11,119 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 10:58:11,120 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1035.99ms
+2019-01-06 11:06:11,020 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:06:11,020 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 11:06:11,021 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 998.50ms
+2019-01-06 11:07:11,719 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:07:11,719 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 11:07:11,720 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1545.35ms
+2019-01-06 11:09:10,838 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:09:10,838 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 11:09:10,839 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 819.36ms
+2019-01-06 11:16:11,049 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:16:11,050 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 11:16:11,050 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1005.98ms
+2019-01-06 11:17:11,322 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:17:11,322 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 11:17:11,323 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1160.89ms
+2019-01-06 11:19:10,914 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:19:10,915 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 11:19:10,915 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 876.01ms
+2019-01-06 11:26:11,377 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:26:11,377 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 11:26:11,378 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1207.10ms
+2019-01-06 11:27:11,186 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:27:11,187 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 11:27:11,187 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1038.83ms
+2019-01-06 11:29:11,569 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:29:11,570 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 11:29:11,571 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1448.13ms
+2019-01-06 11:37:11,671 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:37:11,672 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 11:37:11,672 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1556.37ms
+2019-01-06 11:37:12,639 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:37:12,640 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 11:37:12,640 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 963.35ms
+2019-01-06 11:39:11,524 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:39:11,524 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 11:39:11,525 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1410.55ms
+2019-01-06 11:47:11,828 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:47:11,829 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 11:47:11,829 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1654.74ms
+2019-01-06 11:47:12,944 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:47:12,944 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 11:47:12,945 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1111.19ms
+2019-01-06 11:49:10,931 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:49:10,931 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 11:49:10,932 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 877.20ms
+2019-01-06 11:57:11,379 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:57:11,379 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 11:57:11,379 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1296.53ms
+2019-01-06 11:57:12,202 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:57:12,203 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 11:57:12,203 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 820.12ms
+2019-01-06 11:59:11,462 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 11:59:11,463 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 11:59:11,464 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1355.18ms
+2019-01-06 12:08:11,366 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:08:11,367 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:08:11,368 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1309.98ms
+2019-01-06 12:08:12,340 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:08:12,340 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:08:12,341 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 969.42ms
+2019-01-06 12:10:11,635 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:10:11,635 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 12:10:11,636 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1524.25ms
+2019-01-06 12:18:11,166 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:18:11,166 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 12:18:11,167 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1112.14ms
+2019-01-06 12:18:12,069 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:18:12,069 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 12:18:12,070 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 899.43ms
+2019-01-06 12:20:10,963 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:20:10,964 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 12:20:10,965 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 914.86ms
+2019-01-06 12:28:11,487 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:28:11,488 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:28:11,488 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1411.74ms
+2019-01-06 12:28:12,449 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:28:12,449 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 12:28:12,450 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 957.81ms
+2019-01-06 12:30:11,341 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:30:11,342 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:30:11,342 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1265.62ms
+2019-01-06 12:38:11,623 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:38:11,623 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:38:11,624 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1518.48ms
+2019-01-06 12:38:12,597 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:38:12,597 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 12:38:12,598 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 970.78ms
+2019-01-06 12:40:11,131 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:40:11,132 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 12:40:11,132 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1044.47ms
+2019-01-06 12:48:11,351 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:48:11,352 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 12:48:11,353 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1244.90ms
+2019-01-06 12:48:12,221 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:48:12,221 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 12:48:12,222 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 865.78ms
+2019-01-06 12:50:10,999 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:50:11,000 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 12:50:11,001 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 982.04ms
+2019-01-06 12:58:11,042 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:58:11,043 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 12:58:11,044 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1012.86ms
+2019-01-06 12:58:11,982 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 12:58:11,983 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 12:58:11,983 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 936.18ms
+2019-01-06 13:00:11,296 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:00:11,297 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 13:00:11,297 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1220.39ms
+2019-01-06 13:09:11,460 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:09:11,461 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 13:09:11,461 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1366.51ms
+2019-01-06 13:09:12,323 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:09:12,324 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 13:09:12,324 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 858.91ms
+2019-01-06 13:11:10,815 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:11:10,816 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 13:11:10,816 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 819.35ms
+2019-01-06 13:19:11,042 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:19:11,043 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 13:19:11,044 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1037.28ms
+2019-01-06 13:19:12,277 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:19:12,277 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 13:19:12,278 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1231.45ms
+2019-01-06 13:21:10,890 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:21:10,891 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 13:21:10,891 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 893.47ms
+2019-01-06 13:29:11,771 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:29:11,771 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 13:29:11,772 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1630.06ms
+2019-01-06 13:29:12,909 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:29:12,910 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 13:29:12,910 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1134.34ms
+2019-01-06 13:31:10,833 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:31:10,834 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 13:31:10,834 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 824.64ms
+2019-01-06 13:39:11,182 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:39:11,183 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 13:39:11,183 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1085.52ms
+2019-01-06 13:39:12,014 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:39:12,014 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 13:39:12,015 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 827.35ms
+2019-01-06 13:41:11,314 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:41:11,314 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 13:41:11,315 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1213.16ms
+2019-01-06 13:49:11,240 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:49:11,240 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 13:49:11,241 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1135.05ms
+2019-01-06 13:49:12,053 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:49:12,054 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 13:49:12,055 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 810.29ms
+2019-01-06 13:51:10,955 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:51:10,955 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 13:51:10,956 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 905.00ms
+2019-01-06 13:59:11,773 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:59:11,774 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 13:59:11,774 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1583.84ms
+2019-01-06 13:59:12,732 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 13:59:12,732 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 13:59:12,733 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 954.68ms
+2019-01-06 14:02:11,419 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:02:11,420 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 14:02:11,421 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1225.26ms
+2019-01-06 14:10:11,789 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:10:11,790 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 14:10:11,790 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1586.31ms
+2019-01-06 14:10:12,747 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:10:12,747 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 14:10:12,748 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 954.01ms
+2019-01-06 14:12:11,483 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:12:11,484 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 14:12:11,484 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1309.54ms
+2019-01-06 14:20:11,336 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:20:11,337 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 14:20:11,337 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1258.19ms
+2019-01-06 14:20:12,297 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:20:12,297 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 14:20:12,298 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 954.32ms
+2019-01-06 14:22:11,014 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:22:11,014 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 14:22:11,015 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 986.91ms
+2019-01-06 14:30:11,064 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:30:11,064 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 14:30:11,065 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 997.41ms
+2019-01-06 14:30:12,181 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:30:12,182 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 14:30:12,183 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1113.92ms
+2019-01-06 14:32:11,455 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:32:11,455 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 14:32:11,456 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1284.43ms
+2019-01-06 14:41:11,854 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:41:11,854 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 14:41:11,855 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1664.38ms
+2019-01-06 14:41:13,084 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:41:13,085 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 14:41:13,085 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1222.34ms
+2019-01-06 14:42:10,947 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:42:10,948 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 14:42:10,948 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 898.01ms
+2019-01-06 14:51:11,465 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:51:11,465 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 14:51:11,466 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1296.21ms
+2019-01-06 14:51:12,350 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:51:12,350 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 14:51:12,351 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 881.04ms
+2019-01-06 14:52:10,937 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 14:52:10,938 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 14:52:10,938 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 884.68ms
+2019-01-06 15:02:10,958 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:02:10,959 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 15:02:10,959 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 931.92ms
+2019-01-06 15:02:11,939 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:02:11,939 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 15:02:11,940 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 977.29ms
+2019-01-06 15:03:10,899 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:03:10,900 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 15:03:10,900 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 862.97ms
+2019-01-06 15:12:11,196 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:12:11,197 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 15:12:11,197 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1140.63ms
+2019-01-06 15:12:12,117 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:12:12,118 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 15:12:12,118 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 917.20ms
+2019-01-06 15:13:11,145 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:13:11,145 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 15:13:11,146 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1066.69ms
+2019-01-06 15:22:11,109 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:22:11,110 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 15:22:11,110 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1027.90ms
+2019-01-06 15:22:11,898 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:22:11,898 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 15:22:11,899 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 784.52ms
+2019-01-06 15:23:10,862 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:23:10,862 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 15:23:10,863 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 814.01ms
+2019-01-06 15:32:11,104 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:32:11,104 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 15:32:11,105 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1021.08ms
+2019-01-06 15:32:12,391 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:32:12,392 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 15:32:12,392 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1281.26ms
+2019-01-06 15:33:10,927 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:33:10,927 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 15:33:10,928 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 881.46ms
+2019-01-06 15:43:11,116 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:43:11,116 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 15:43:11,117 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1070.56ms
+2019-01-06 15:43:11,982 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:43:11,982 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 15:43:11,983 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 862.51ms
+2019-01-06 15:43:12,895 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:43:12,895 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 15:43:12,896 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 909.78ms
+2019-01-06 15:53:11,419 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:53:11,420 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 15:53:11,420 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1235.15ms
+2019-01-06 15:53:12,369 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:53:12,370 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 15:53:12,370 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 942.17ms
+2019-01-06 15:53:13,233 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 15:53:13,234 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 15:53:13,234 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 860.56ms
+2019-01-06 16:04:11,126 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:04:11,126 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:04:11,127 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1086.55ms
+2019-01-06 16:04:12,066 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:04:12,066 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:04:12,067 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 936.22ms
+2019-01-06 16:04:12,899 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:04:12,900 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:04:12,901 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 830.20ms
+2019-01-06 16:14:11,376 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:14:11,377 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 16:14:11,377 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1247.39ms
+2019-01-06 16:14:12,207 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:14:12,208 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 16:14:12,208 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 827.49ms
+2019-01-06 16:14:13,073 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:14:13,074 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 16:14:13,074 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 862.31ms
+2019-01-06 16:24:11,018 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:24:11,018 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 16:24:11,019 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 984.92ms
+2019-01-06 16:24:12,228 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:24:12,228 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:24:12,229 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1206.27ms
+2019-01-06 16:24:13,065 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:24:13,066 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:24:13,067 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 833.94ms
+2019-01-06 16:34:11,149 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:34:11,149 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 16:34:11,150 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1084.09ms
+2019-01-06 16:34:12,004 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:34:12,005 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:34:12,005 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 851.98ms
+2019-01-06 16:34:12,824 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:34:12,825 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:34:12,826 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 816.63ms
+2019-01-06 16:44:11,391 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:44:11,392 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 16:44:11,392 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1239.88ms
+2019-01-06 16:44:12,273 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:44:12,273 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:44:12,274 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 875.20ms
+2019-01-06 16:44:13,320 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:44:13,320 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 16:44:13,321 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1043.71ms
+2019-01-06 16:54:11,627 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:54:11,627 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 16:54:11,628 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1533.11ms
+2019-01-06 16:54:12,982 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:54:12,982 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 16:54:12,983 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1351.24ms
+2019-01-06 16:54:14,312 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 16:54:14,313 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 16:54:14,314 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1326.77ms
+2019-01-06 17:05:11,111 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:05:11,112 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 17:05:11,113 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1024.38ms
+2019-01-06 17:05:11,949 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:05:11,949 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 17:05:11,950 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 833.23ms
+2019-01-06 17:05:12,809 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:05:12,810 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 17:05:12,811 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 853.83ms
+2019-01-06 17:15:11,655 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:15:11,655 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:15:11,656 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1476.94ms
+2019-01-06 17:15:12,566 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:15:12,567 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:15:12,567 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 908.06ms
+2019-01-06 17:15:13,512 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:15:13,512 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 17:15:13,513 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 942.80ms
+2019-01-06 17:25:11,042 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:25:11,043 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 17:25:11,043 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 965.54ms
+2019-01-06 17:25:12,146 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:25:12,147 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:25:12,148 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1099.96ms
+2019-01-06 17:25:13,056 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:25:13,056 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:25:13,057 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 905.78ms
+2019-01-06 17:35:11,396 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:35:11,397 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:35:11,398 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1279.60ms
+2019-01-06 17:35:12,406 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:35:12,406 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:35:12,407 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1005.13ms
+2019-01-06 17:35:13,218 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:35:13,219 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:35:13,220 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 809.24ms
+2019-01-06 17:45:11,672 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:45:11,673 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:45:11,674 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1488.25ms
+2019-01-06 17:45:12,666 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:45:12,667 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:45:12,667 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 989.36ms
+2019-01-06 17:45:13,521 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:45:13,522 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 17:45:13,522 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 851.72ms
+2019-01-06 17:55:11,196 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:55:11,196 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 17:55:11,197 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1122.70ms
+2019-01-06 17:55:12,000 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:55:12,000 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 17:55:12,001 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 799.06ms
+2019-01-06 17:55:12,950 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 17:55:12,951 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 17:55:12,951 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 947.52ms
+2019-01-06 18:06:11,530 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:06:11,530 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 18:06:11,531 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1373.47ms
+2019-01-06 18:06:12,433 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:06:12,433 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 18:06:12,434 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 898.99ms
+2019-01-06 18:06:13,347 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:06:13,348 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:06:13,348 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 911.33ms
+2019-01-06 18:16:11,852 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:16:11,852 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 18:16:11,853 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1680.34ms
+2019-01-06 18:16:13,125 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:16:13,126 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 18:16:13,126 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1268.72ms
+2019-01-06 18:16:14,488 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:16:14,489 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 18:16:14,489 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1355.35ms
+2019-01-06 18:26:11,257 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:26:11,257 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:26:11,258 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1193.10ms
+2019-01-06 18:26:12,552 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:26:12,552 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:26:12,553 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1291.67ms
+2019-01-06 18:26:13,634 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:26:13,634 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:26:13,635 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1078.42ms
+2019-01-06 18:36:11,406 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:36:11,406 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 18:36:11,407 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1284.65ms
+2019-01-06 18:36:12,295 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:36:12,295 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 18:36:12,296 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 885.36ms
+2019-01-06 18:36:13,174 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:36:13,175 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 18:36:13,175 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 875.79ms
+2019-01-06 18:46:11,324 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:46:11,324 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:46:11,325 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1170.83ms
+2019-01-06 18:46:12,153 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:46:12,154 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 18:46:12,154 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 825.93ms
+2019-01-06 18:46:13,050 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:46:13,051 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 18:46:13,051 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 893.76ms
+2019-01-06 18:56:11,153 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:56:11,154 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 18:56:11,154 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1075.23ms
+2019-01-06 18:56:12,234 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:56:12,235 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 18:56:12,236 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1076.68ms
+2019-01-06 18:56:13,065 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 18:56:13,066 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 18:56:13,067 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 827.05ms
+2019-01-06 19:07:11,082 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:07:11,082 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 19:07:11,083 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1028.36ms
+2019-01-06 19:07:12,023 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:07:12,023 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 19:07:12,024 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 937.56ms
+2019-01-06 19:07:12,871 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:07:12,871 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 19:07:12,872 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 844.78ms
+2019-01-06 19:17:11,642 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:17:11,643 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 19:17:11,643 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1443.48ms
+2019-01-06 19:17:12,597 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:17:12,598 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 19:17:12,598 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 951.10ms
+2019-01-06 19:17:13,780 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:17:13,781 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 19:17:13,781 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1179.35ms
+2019-01-06 19:27:11,146 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:27:11,147 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 19:27:11,148 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1056.33ms
+2019-01-06 19:27:12,251 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:27:12,251 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 19:27:12,252 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1100.52ms
+2019-01-06 19:27:13,124 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:27:13,124 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 19:27:13,125 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 864.96ms
+2019-01-06 19:37:11,446 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:37:11,446 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 19:37:11,447 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1307.29ms
+2019-01-06 19:37:12,311 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:37:12,312 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 19:37:12,313 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 862.00ms
+2019-01-06 19:37:13,218 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:37:13,218 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 19:37:13,219 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 902.81ms
+2019-01-06 19:47:11,528 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:47:11,529 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 19:47:11,530 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1349.68ms
+2019-01-06 19:47:12,466 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:47:12,467 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 19:47:12,467 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 933.40ms
+2019-01-06 19:47:13,349 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:47:13,350 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 19:47:13,351 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 879.62ms
+2019-01-06 19:57:11,330 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:57:11,330 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 19:57:11,331 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1156.60ms
+2019-01-06 19:57:12,188 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:57:12,189 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 19:57:12,189 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 853.19ms
+2019-01-06 19:57:12,993 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 19:57:12,993 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 19:57:12,994 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 801.64ms
+2019-01-06 20:08:11,429 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:08:11,430 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:08:11,430 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1313.84ms
+2019-01-06 20:08:12,267 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:08:12,267 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 20:08:12,268 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 833.62ms
+2019-01-06 20:08:13,089 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:08:13,089 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 20:08:13,090 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 818.21ms
+2019-01-06 20:18:11,142 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:18:11,143 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 20:18:11,144 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1050.21ms
+2019-01-06 20:18:11,982 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:18:11,983 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 20:18:11,983 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 836.03ms
+2019-01-06 20:18:13,008 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:18:13,008 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 20:18:13,009 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1022.42ms
+2019-01-06 20:28:11,596 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:28:11,596 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 20:28:11,597 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1461.18ms
+2019-01-06 20:28:12,584 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:28:12,585 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:28:12,585 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 983.88ms
+2019-01-06 20:28:13,574 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:28:13,575 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:28:13,576 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 986.54ms
+2019-01-06 20:38:11,204 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:38:11,205 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:38:11,206 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1132.76ms
+2019-01-06 20:38:12,126 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:38:12,126 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:38:12,127 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 918.01ms
+2019-01-06 20:38:12,990 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:38:12,990 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 20:38:12,991 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 855.88ms
+2019-01-06 20:48:13,613 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:48:13,614 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 20:48:13,614 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 3471.97ms
+2019-01-06 20:48:13,980 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:48:13,981 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 20:48:13,982 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 832.60ms
+2019-01-06 20:48:15,092 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:48:15,092 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 20:48:15,093 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1108.28ms
+2019-01-06 20:58:11,557 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:58:11,557 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 20:58:11,558 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1335.87ms
+2019-01-06 20:58:12,498 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:58:12,498 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 20:58:12,499 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 937.48ms
+2019-01-06 20:58:13,499 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 20:58:13,499 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 20:58:13,500 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 998.21ms
+2019-01-06 21:08:11,092 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:08:11,092 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 21:08:11,093 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1000.72ms
+2019-01-06 21:08:11,967 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:08:11,967 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 21:08:11,968 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 870.44ms
+2019-01-06 21:08:12,976 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:08:12,976 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 21:08:12,977 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1005.42ms
+2019-01-06 21:19:11,468 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:19:11,469 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:19:11,469 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1279.90ms
+2019-01-06 21:19:12,482 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:19:12,482 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:19:12,483 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1009.19ms
+2019-01-06 21:19:13,321 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:19:13,321 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:19:13,322 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 835.38ms
+2019-01-06 21:29:11,585 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:29:11,585 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 21:29:11,586 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1403.17ms
+2019-01-06 21:29:12,466 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:29:12,466 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 21:29:12,467 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 877.28ms
+2019-01-06 21:29:13,334 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:29:13,335 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 21:29:13,335 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 865.30ms
+2019-01-06 21:39:11,229 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:39:11,229 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:39:11,230 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1112.58ms
+2019-01-06 21:39:12,053 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:39:12,053 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:39:12,054 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 820.65ms
+2019-01-06 21:39:12,944 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:39:12,944 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:39:12,945 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 887.43ms
+2019-01-06 21:49:11,359 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:49:11,359 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 21:49:11,360 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1240.98ms
+2019-01-06 21:49:12,198 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:49:12,198 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:49:12,199 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 835.38ms
+2019-01-06 21:49:13,065 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:49:13,066 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 21:49:13,066 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 859.76ms
+2019-01-06 21:59:11,518 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:59:11,518 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 21:59:11,519 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1306.51ms
+2019-01-06 21:59:12,401 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:59:12,402 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 21:59:12,402 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 878.27ms
+2019-01-06 21:59:13,396 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 21:59:13,397 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 21:59:13,397 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 991.71ms
+2019-01-06 22:10:11,093 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:10:11,094 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 22:10:11,094 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 979.67ms
+2019-01-06 22:10:12,605 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:10:12,605 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 22:10:12,606 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1507.89ms
+2019-01-06 22:10:13,665 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:10:13,665 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 22:10:13,666 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1056.55ms
+2019-01-06 22:20:11,314 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:20:11,314 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 22:20:11,315 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1129.48ms
+2019-01-06 22:20:12,129 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:20:12,130 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 22:20:12,130 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 811.39ms
+2019-01-06 22:20:13,128 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:20:13,129 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 22:20:13,129 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 995.83ms
+2019-01-06 22:30:11,217 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:30:11,217 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 22:30:11,218 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1095.91ms
+2019-01-06 22:30:12,033 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:30:12,033 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 22:30:12,034 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 812.33ms
+2019-01-06 22:30:13,123 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:30:13,124 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 22:30:13,125 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1087.33ms
+2019-01-06 22:40:11,305 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:40:11,306 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 22:40:11,306 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1118.21ms
+2019-01-06 22:40:12,140 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:40:12,140 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 22:40:12,141 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 830.96ms
+2019-01-06 22:40:12,988 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:40:12,989 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 22:40:12,989 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 844.92ms
+2019-01-06 22:50:11,496 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:50:11,496 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 22:50:11,496 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1243.09ms
+2019-01-06 22:50:12,451 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:50:12,451 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 22:50:12,452 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 951.59ms
+2019-01-06 22:50:13,461 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 22:50:13,462 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 22:50:13,462 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1007.20ms
+2019-01-06 23:00:11,177 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:00:11,178 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 23:00:11,178 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1079.54ms
+2019-01-06 23:00:12,220 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:00:12,221 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 23:00:12,221 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1039.28ms
+2019-01-06 23:00:13,053 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:00:13,054 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 23:00:13,054 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 824.42ms
+2019-01-06 23:11:11,098 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:11:11,098 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 23:11:11,099 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1004.60ms
+2019-01-06 23:11:12,201 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:11:12,201 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 23:11:12,202 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1099.03ms
+2019-01-06 23:11:13,044 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:11:13,045 INFO 66723[service.py:471 process]: wechat return True
+2019-01-06 23:11:13,045 INFO 66723[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 839.98ms
+2019-01-06 23:21:11,108 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:21:11,108 INFO 66726[service.py:471 process]: wechat return True
+2019-01-06 23:21:11,109 INFO 66726[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1015.01ms
+2019-01-06 23:21:12,344 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:21:12,344 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 23:21:12,345 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1231.62ms
+2019-01-06 23:21:13,250 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:21:13,250 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:21:13,251 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 902.42ms
+2019-01-06 23:28:23,851 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:28:23,852 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:28:23,852 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 943.93ms
+2019-01-06 23:31:11,004 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:31:11,005 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:31:11,005 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 882.09ms
+2019-01-06 23:31:11,815 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:31:11,815 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:31:11,815 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 807.03ms
+2019-01-06 23:31:12,849 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:31:12,849 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:31:12,850 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1031.59ms
+2019-01-06 23:41:11,564 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:41:11,565 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:41:11,565 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1306.51ms
+2019-01-06 23:41:12,464 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:41:12,464 INFO 66727[service.py:471 process]: wechat return True
+2019-01-06 23:41:12,465 INFO 66727[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 895.59ms
+2019-01-06 23:41:13,382 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:41:13,383 INFO 66725[service.py:471 process]: wechat return True
+2019-01-06 23:41:13,383 INFO 66725[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 915.25ms
+2019-01-06 23:51:11,382 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:51:11,382 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 23:51:11,382 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1218.17ms
+2019-01-06 23:51:12,233 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:51:12,233 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 23:51:12,234 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 847.87ms
+2019-01-06 23:51:13,614 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-06 23:51:13,614 INFO 66724[service.py:471 process]: wechat return True
+2019-01-06 23:51:13,615 INFO 66724[web.py:2162 log_request]: 200 POST /api/msg/send (10.11.5.137) 1377.61ms
+2019-01-07 00:02:11,053 INFO 66727[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-07 00:12:11,057 INFO 66723[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-07 00:22:13,107 INFO 66725[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-07 00:52:11,287 INFO 66726[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-01-07 01:13:11,239 INFO 66724[wechat.py:41 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}

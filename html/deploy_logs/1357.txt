@@ -1,0 +1,40 @@
+
+PLAY [kds-data-copyData] *******************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [10.11.5.73]
+ok: [10.11.5.74]
+
+TASK [all : Stop "kds-data-copyData" service] **********************************
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+
+TASK [all : Copy "kds-data-copyData" Package To Target-Hosts] ******************
+changed: [10.11.5.74]
+changed: [10.11.5.73]
+
+TASK [all : chown OWNER] *******************************************************
+ok: [10.11.5.73]
+ok: [10.11.5.74]
+
+TASK [all : Start "kds-data-copyData" service] *********************************
+changed: [10.11.5.73]
+changed: [10.11.5.74]
+
+TASK [all : check sum] *********************************************************
+ok: [10.11.5.73]
+ok: [10.11.5.74]
+
+TASK [all : show md5 sum] ******************************************************
+ok: [10.11.5.73] => {
+    "md5_info['stat']['checksum']": "1f14df7d83eaebd332a5a1c6089de2ed"
+}
+ok: [10.11.5.74] => {
+    "md5_info['stat']['checksum']": "1f14df7d83eaebd332a5a1c6089de2ed"
+}
+
+PLAY RECAP *********************************************************************
+10.11.5.73                 : ok=7    changed=3    unreachable=0    failed=0   
+10.11.5.74                 : ok=7    changed=3    unreachable=0    failed=0   
+
+[Finish] Success to start [1357]

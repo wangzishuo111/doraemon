@@ -1,0 +1,2 @@
+sh: 1: zhangrestart: not found
+[Finish] Failed to restart [508]

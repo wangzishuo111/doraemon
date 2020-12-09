@@ -1,0 +1,10 @@
+/usr/lib/python2.7/dist-packages/Crypto/Cipher/blockalgo.py:141: FutureWarning: CTR mode needs counter parameter, not IV
+  self._cipher = factory.new(key, *args, **kwargs)
+--------------------------------------------------------------------------------------------
+now start the host :10.11.5.80
+stop
+[]
+[u'/data/CI/kpms_30_13410\n', u'kpms.war\n', u'kpms.war port: 13410 is exist. \n', u'kpms.war start failed!\n']
+process is starting,wait a momunt
+sudo /data/CI/kpms_30_13410/kpms.sh start
+[Finish] Success to deploy [307]

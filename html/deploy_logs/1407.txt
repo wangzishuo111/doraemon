@@ -1,0 +1,95 @@
+
+PLAY [reco_release] ************************************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [10.11.5.101]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.101 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.103]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.103 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.104]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.104 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.105]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.105 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.107]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.107 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.102]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.102 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.110]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.110 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.106]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.106 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.111]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.111 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.108]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.108 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.109]: UNREACHABLE! => {"changed": false, "msg": "Authentication failure.", "unreachable": true}
+ok: [10.11.5.112]
+ok: [10.11.5.113]
+ok: [10.11.5.115]
+ok: [10.11.5.118]
+ok: [10.11.5.117]
+ok: [10.11.5.114]
+ok: [10.11.5.116]
+fatal: [10.11.5.121]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.121 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.122]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.122 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.123]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.123 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.124]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.124 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.125]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.125 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+ok: [10.11.5.120]
+fatal: [10.11.5.126]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.126 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.127]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.127 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+ok: [10.11.5.119]
+fatal: [10.11.5.128]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.128 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.130]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.130 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.131]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.131 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.132]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.132 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.129]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.129 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.134]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.134 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.133]: FAILED! => {"changed": false, "module_stderr": "Shared connection to 10.11.5.133 closed.\r\n", "module_stdout": "sudo: a password is required\r\n", "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error", "rc": 1}
+fatal: [10.11.5.19]: UNREACHABLE! => {"changed": false, "msg": "Authentication failure.", "unreachable": true}
+fatal: [10.11.5.20]: UNREACHABLE! => {"changed": false, "msg": "Authentication failure.", "unreachable": true}
+fatal: [10.11.5.21]: UNREACHABLE! => {"changed": false, "msg": "Authentication failure.", "unreachable": true}
+fatal: [10.11.5.22]: UNREACHABLE! => {"changed": false, "msg": "Authentication failure.", "unreachable": true}
+
+TASK [reco_release : pull reco images op-01.gzproduction.com/kd-mr/lane:4.1.7] ***
+changed: [10.11.5.114]
+changed: [10.11.5.113]
+changed: [10.11.5.112]
+changed: [10.11.5.116]
+changed: [10.11.5.115]
+changed: [10.11.5.117]
+changed: [10.11.5.119]
+changed: [10.11.5.118]
+changed: [10.11.5.120]
+
+PLAY RECAP *********************************************************************
+10.11.5.101                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.102                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.103                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.104                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.105                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.106                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.107                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.108                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.109                : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.110                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.111                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.112                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.113                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.114                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.115                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.116                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.117                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.118                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.119                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.120                : ok=2    changed=1    unreachable=0    failed=0   
+10.11.5.121                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.122                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.123                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.124                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.125                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.126                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.127                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.128                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.129                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.130                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.131                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.132                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.133                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.134                : ok=0    changed=0    unreachable=0    failed=1   
+10.11.5.19                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.20                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.21                 : ok=0    changed=0    unreachable=1    failed=0   
+10.11.5.22                 : ok=0    changed=0    unreachable=1    failed=0   
+
+[Finish] Failed to deploy [op-01.gzproduction.com/kd-mr/lane:4.1.7]

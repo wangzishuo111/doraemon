@@ -1,0 +1,29 @@
+kts-job
+2018-11-22 20:45:05,292 INFO 111191[no_cat_release.py:25 checkfile]: right way /mnt/data1/release-data/kts-job_release/v1.2.2.RELEASE/kts-job.jar
+2018-11-22 20:45:05,292 INFO 111191[no_cat_release.py:31 stop_cmd]: now rm bak on the host : 10.11.5.77
+2018-11-22 20:45:05,299 INFO 111191[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 20:45:05,389 INFO 111191[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 20:45:05,405 INFO 111191[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 20:45:05,640 INFO 111191[no_cat_release.py:37 stop_cmd]: error list rm bak is :[]
+2018-11-22 20:45:05,640 INFO 111191[no_cat_release.py:38 stop_cmd]: stdout is rm bak is :[]
+2018-11-22 20:45:05,640 INFO 111191[no_cat_release.py:40 stop_cmd]: now stop the host : 10.11.5.77
+2018-11-22 20:45:05,790 INFO 111191[no_cat_release.py:44 stop_cmd]: cmd is [sudo /data/CI/kts-job_77_13360/kts-job.sh stop]
+2018-11-22 20:45:05,790 INFO 111191[no_cat_release.py:45 stop_cmd]: error list stop is :[]
+2018-11-22 20:45:05,790 INFO 111191[no_cat_release.py:46 stop_cmd]: stdout list stop is :[u'/data/CI/kts-job_77_13360\n', u'kts-job.jar\n', u'/data/CI/kts-job_77_13360/lib/kts-job.jar (13360) shutdown.\n']
+2018-11-22 20:45:15,812 INFO 111191[no_cat_release.py:52 stop_cmd]: cmd is [sudo mv /data/CI/kts-job_77_13360/lib/kts-job.jar /data/CI/kts-job_77_13360/lib/kts-job.jar_bak]
+2018-11-22 20:45:15,812 INFO 111191[no_cat_release.py:53 stop_cmd]: error list mv bak is :[]
+2018-11-22 20:45:15,813 INFO 111191[no_cat_release.py:54 stop_cmd]: stdout list mv bak is :[]
+2018-11-22 20:45:15,813 INFO 111191[no_cat_release.py:58 release_service]: now distribution to the host :10.11.5.77
+2018-11-22 20:45:15,822 INFO 111191[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 20:45:15,910 INFO 111191[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 20:45:15,931 INFO 111191[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 20:45:16,667 INFO 111191[no_cat_release.py:62 release_service]: file has arrive /data/CI/kts-job_77_13360/lib:
+2018-11-22 20:45:26,678 INFO 111191[no_cat_release.py:66 start_cmd]: now start the host :10.11.5.77
+2018-11-22 20:45:26,685 INFO 111191[transport.py:1746 _log]: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-11-22 20:45:26,773 INFO 111191[transport.py:1746 _log]: Authentication (publickey) failed.
+2018-11-22 20:45:26,795 INFO 111191[transport.py:1746 _log]: Authentication (password) successful!
+2018-11-22 20:45:27,066 INFO 111191[no_cat_release.py:71 start_cmd]: error list is :[]
+2018-11-22 20:45:27,067 INFO 111191[no_cat_release.py:72 start_cmd]: stdout is :[u'/data/CI/kts-job_77_13360\n', u'kts-job.jar\n']
+2018-11-22 20:45:27,067 INFO 111191[no_cat_release.py:73 start_cmd]: process is starting,wait a momunt
+2018-11-22 20:45:27,067 INFO 111191[no_cat_release.py:74 start_cmd]: sudo /data/CI/kts-job_77_13360/kts-job.sh already started
+[Finish] Success to deploy [417]

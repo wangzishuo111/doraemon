@@ -1,0 +1,2 @@
+bash: find_005_09.sh: No such file or directory
+[Finish] Failed to check [1229347]
